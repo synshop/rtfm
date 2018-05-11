@@ -1,5 +1,5 @@
 # RTFM - SYNShop docs  
-
+ 
 Here you'll find information how stuff is set up.  The goal
 is to educate some one who wants to help out or to
 remind the person who set up what the did when 
