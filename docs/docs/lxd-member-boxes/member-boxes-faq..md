@@ -2,10 +2,11 @@
 
 **What exactly are you offering?** 
 
-We're offering a small virtual machine (VM) with 512MB RAM, 1 CPU, 10GB of disk and 1Mbit of network.  These must be an Ubuntu instance.  
+We're offering a small virtual machine (VM) with 512MB RAM, 1 CPU, 10GB of disk and 1Mbit of network.  These will all be [Ubuntu 16.04](https://fridge.ubuntu.com/2017/02/17/ubuntu-16-04-2-lts-released/) instance.  
 
 **Why only Ubuntu?** 
-The server is running the LXD hypervisor which uses the Linux Kernel for all VMs.  This means you can only run OSes that use the same kernel, like Ubuntu.  
+
+The server is running the [LXD hypervisor](https://linuxcontainers.org/lxd/) which uses the Linux Kernel for all guest VMs.  This means you can only run OSes that use the same kernel, like Ubuntu.  
 
 **Wait, I can have a FREE server with my membership!?**  
 
@@ -27,9 +28,9 @@ No!  These are bare VMs that are ripe for the taking.  You need to either A) be 
 
 Yes and no!
 
-Yes - we'll ensure the VM can only be access via an SSH key, you could opt to not have port 80 and port 443 exposed and have a server no one knows about.  We'll keep the host OS up to date.  Likely no one on the internet will gain access to your server.
+Yes - we'll ensure the VM can only be access via an SSH key.  We'll keep the host OS up to date.  Likely no one on the internet will gain access to your server.
 
-No - the shop is where the host server is which is porous venue.  Theft is a possibility. Currently the drives of the server are un-encrypted and a motivated attacker could access your data. Caveat Emptor.
+No - the shop is where the host server is which is porous venue.  Theft is a possibility. Currently the drives of the server are un-encrypted and a motivated attacker could access your data. Caveat Emptor. Or, I guess, Caveat "Emptor" as it's free ;)
 
 **Ok, I'm in - how do I sign up?** 
 
