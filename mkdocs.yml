@@ -1,5 +1,5 @@
 site_name: SYN Shop Server Documentation
-site_dir: ../public_html/docs/
+site_dir: /var/www/rtfm/ 
 #pages:
 #    - Home: index.md
 #    - Docs:
