@@ -1,4 +1,4 @@
-site_name: SYN Shop Server Documentation
+site_name: RTFM
 site_dir: /var/www/rtfm/ 
 #pages:
 #    - Home: index.md
@@ -6,7 +6,7 @@ site_dir: /var/www/rtfm/
 #      - Documentation: docs.md
 #      - c220: c220.md
 #      - Flatline: flatline.md
-#      - member-boxes: member-boxes.md
+#      - lxd-member-boxes: lxd-member-boxes-faq..md
 #      - Motioneye: motioneye.md
 #      - Pi-Hole & Stubby: pi-hole-stubby.md
 #      - Unifi: unifi.md
