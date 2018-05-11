@@ -1,0 +1,12 @@
+site_name: SYN Shop Server Documentation
+site_dir: ../public_html/docs/
+#pages:
+#    - Home: index.md
+#    - Docs:
+#      - Documentation: docs.md
+#      - c220: c220.md
+#      - Flatline: flatline.md
+#      - member-boxes: member-boxes.md
+#      - Motioneye: motioneye.md
+#      - Pi-Hole & Stubby: pi-hole-stubby.md
+#      - Unifi: unifi.md
