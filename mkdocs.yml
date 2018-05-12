@@ -6,7 +6,7 @@ site_dir: /var/www/rtfm/
 #      - Documentation: docs.md
 #      - c220: c220.md
 #      - Flatline: flatline.md
-#      - lxd-member-boxes: lxd-member-boxes-faq..md
+#      - lxd-member-boxes: lxd-member-boxes-faq.md
 #      - Motioneye: motioneye.md
 #      - Pi-Hole & Stubby: pi-hole-stubby.md
 #      - Unifi: unifi.md

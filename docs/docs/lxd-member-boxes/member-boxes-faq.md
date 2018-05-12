@@ -1,5 +1,8 @@
 # Member Boxes FAQ
 
+This document is for members who have chosen to get a container at the SYNShop.  
+
+
 **What exactly are you offering?** 
 
 We're offering a small virtual machine (VM) with 512MB RAM, 1 CPU, 10GB of disk and 1Mbit of network.  These will all be [Ubuntu 16.04](https://fridge.ubuntu.com/2017/02/17/ubuntu-16-04-2-lts-released/) instance.  
@@ -34,7 +37,7 @@ No - the shop is where the host server is which is porous venue.  Theft is a pos
 
 **Ok, I'm in - how do I sign up?** 
 
-Email mrjones@synshop.org and supply me with your username you use on synshop.org to pay your membership and your public SSH key.
+Email [mrjones@synshop.org](mailto:mrjones@synshop.org) and supply me with your username you use on synshop.org to pay your membership and your public SSH key.
 
 **That all sounds great, but I have more questions/don't know what an SSH key is/need help - what do I do?**
 
