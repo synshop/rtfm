@@ -1,7 +1,7 @@
 # SYNShop Docs  
 
 Here you'll find information how stuff is set up.  The goal
-iss to educate some one who wants to help out or to
+is to educate some one who wants to help out or to
 remind the person who set up what the did when 
 they forget ;)
 
