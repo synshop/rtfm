@@ -4,12 +4,13 @@ addons:
   apt:
     packages:
     - python-pip
+install:
+  - sudo pip install --upgrade pip
+  - sudo pip install mkdocs
 cache:
   directories:
     - crayon-architect/cache
 before_script:
-  - pip install --upgrade pip
-  - pip install mkdocs
   - cd $TRAVIS_BUILD_DIR
   - crayon-architect/clean.sh
 script:
