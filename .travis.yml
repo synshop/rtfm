@@ -3,11 +3,12 @@ language: c
 addons:
   apt:
     packages:
-    - mkdocs
+    - python-pip
 cache:
   directories:
     - crayon-architect/cache
 before_script:
+  - pip install mkdocs
   - cd $TRAVIS_BUILD_DIR
   - crayon-architect/clean.sh
 script:
