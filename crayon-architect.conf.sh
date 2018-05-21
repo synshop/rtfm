@@ -6,7 +6,7 @@
 # $CRAYON_PROJECT_DIR = the directory to run the build tools in - uses pwd if undefined, this will be the working directory
 # Any other environment variables you set in an included file in a PRE step.
 #
-DEPLOY_BUILD_OUTPUT_DIR=./site
+export DEPLOY_BUILD_OUTPUT_DIR=./site
 # Any of the following parts can be skipped (or skip the next item in line) by setting ${OPTION}_SKIP=true in the included files or environment
 #
 # These are 'sourced' before the build command
