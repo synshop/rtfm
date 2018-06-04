@@ -1,6 +1,6 @@
 # rtfm
 
-Source code for http://synshop.github.io/rtfm/ [![Build Status](https://travis-ci.org/synshop/rtfm.svg?branch=master)](https://travis-ci.org/synshop/rtfm)
+Source code for https://rtfm.synshop.org/ [![Build Status](https://travis-ci.org/synshop/rtfm.svg?branch=master)](https://travis-ci.org/synshop/rtfm)
 
 ##### If you'd like to improve this web-site, please submit a pull-request to https://github.com/synshop/rtfm
 
@@ -12,5 +12,5 @@ Builds and deployments are initiated by https://travis-ci.org/synshop/rtfm watch
 
 The build process uses crayon-architect from https://github.com/ch4lox/crayon-architect to standardize the build and deployment process.
 
-Generated website is pushed to https://github.com/synshop/rtfm-generated and visible at https://synshop.github.io/rtfm/
+Generated website is pushed to https://github.com/synshop/rtfm-generated and visible at https://rtfm.synshop.org/
 
