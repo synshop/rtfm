@@ -1,4 +1,3 @@
-dist: xenial
 language: python
 python:
   - 2.7
@@ -8,13 +7,12 @@ before_install:
 cache:
   directories:
     - crayon-architect/cache
-before_script:
-  - cd $TRAVIS_BUILD_DIR
-  - crayon-architect/clean.sh
-script:
-  - cd $TRAVIS_BUILD_DIR
-  - crayon-architect/build.sh
-after_success:
-  - cd $TRAVIS_BUILD_DIR
-  - crayon-architect/deploy.sh
+before_script: crayon-architect/clean.sh
+script: crayon-architect/build.sh
+deploy:
+  skip_cleanup: true
+  provider: script
+  on:
+    branch: master
+  script: crayon-architect/deploy.sh
 
