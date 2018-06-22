@@ -6,7 +6,7 @@ SYN Shop is a "hackerspace(external link)" located in Las Vegas, Nevada. It is a
 
 The group tends to be focused on electronics. However, many members do metal working, programming, wood working, crafting, and a variety of other things. Synshop provides a fertile environment and community that is passionate about learning, helping others, and growing the community of hackers/makers/tinkerers/geeks in Las Vegas. We also like to meet people from other hackerspaces, and have seen people visit SYN Shop from hackerspaces world wide.
 
-See SYN [Shop Vision](./SYN%20Shop%20Vision.md)
+See SYN [Shop Vision](./SYN%20Shop%20Vision) 
 
 
 ## What is the best time to visit SYN Shop?

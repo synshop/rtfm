@@ -1,1 +1,3 @@
 site_name: RTFM
+extra_css:
+    - css/rtfm.css
