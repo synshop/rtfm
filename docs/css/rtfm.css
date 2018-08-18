@@ -1,7 +1,7 @@
-.navbar-nav li {
+.navbar-nav li:first-child {
     display: none;
 }
-.navbar-nav li + li {
+.navbar-right li:first-child {
     display: list-item;
 }
 .navbar-brand {
