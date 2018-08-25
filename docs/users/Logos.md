@@ -1,17 +1,23 @@
 # Logos
 
+## 4.0
+
+![v4.0 log](../images/logos/synshop.logo.small.png)
+
+* [Adobe Illustrator (.ia)](../images/logos/synshop.logo.v4.ai)
+* [Portable Network Graphics (.png)](../images/logos/synshop.logo.v4.png)
+* [Scalable Vector Graphics (.svg)](../images/logos/synshop.logo.v4.svg)
 
 ## v3.0
 
+![v3.0 logo](../images/logos/Logo-Poker-Chip-small.v3.png)
 
-![v2.0 logo](../images/logos/Logo-Poker-Chip-small.png)
-
-* [Logo Horizontal Small.ai](../images/logos/Logo Horizontal Small.ai)
-* [Logo Horizontal Small_Reversed.ai](../images/logos/Logo Horizontal Small_Reversed.ai)
-* [Logo Poker Chip.ai](../images/logos/Logo Poker Chip.ai)
-* [Logo Poker Chip_Reversed.ai](../images/logos/Logo Poker Chip_Reversed.ai)
-* [Logo Stacked Small.ai](../images/logos/Logo Stacked Small.ai)
-* [Logo Stacked Small_Reversed.ai](../images/logos/Logo Stacked Small_Reversed.ai)
+* [Logo Horizontal Small.ai](../images/logos/Logo Horizontal Small.v3.ai)
+* [Logo Horizontal Small_Reversed.ai](../images/logos/Logo Horizontal Small_Reversed.v3.ai)
+* [Logo Poker Chip.ai](../images/logos/Logo Poker Chip.v3.ai)
+* [Logo Poker Chip_Reversed.ai](../images/logos/Logo Poker Chip_Reversed.v3.ai)
+* [Logo Stacked Small.ai](../images/logos/Logo Stacked Small.v3.ai)
+* [Logo Stacked Small_Reversed.ai](../images/logos/Logo Stacked Small_Reversed.v3.ai)
 
 ## v2.0
 
