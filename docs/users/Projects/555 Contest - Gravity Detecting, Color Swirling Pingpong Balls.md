@@ -94,7 +94,7 @@ Though this build had a lot of tricky stuff, most of it was related to cramming 
 
 
 * [Schematic (Eagle)](./images/555 ping pong balls - alt.sch)  | Full schematic for use with eagle
-* [Schematic (PDF)](555pingpongballs-sch.pdf)  | Same schematic, but in pdf form
-* [Board (Eagle)](555 ping pong balls - alt.brd)  | Board layout file for eagle
-* [Board Top (PDF)](555pingpongballs-top.pdf)  | Board top in pdf format. Printed side goes onto the board, can be used with the toner transfer method
-* [Board Bottom (PDF)](555pingpongballs-bot.pdf)  | Board bottom in pdf format. Printed side goes onto the board, can be used with the toner transfer method
+* [Schematic (PDF)](./images/555pingpongballs-sch.pdf)  | Same schematic, but in pdf form
+* [Board (Eagle)](./images/555 ping pong balls - alt.brd)  | Board layout file for eagle
+* [Board Top (PDF)](./images/555pingpongballs-top.pdf)  | Board top in pdf format. Printed side goes onto the board, can be used with the toner transfer method
+* [Board Bottom (PDF)](./images/555pingpongballs-bot.pdf)  | Board bottom in pdf format. Printed side goes onto the board, can be used with the toner transfer method
