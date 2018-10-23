@@ -1,11 +1,5 @@
-.navbar-nav li {
-    display: none;
-}
-.navbar-nav li + li {
-    display: list-item;
-}
 .navbar-brand {
-    background:url('../images/logos/Logo-Poker-Chip-small.png') no-repeat;
+    background:url('../images/logos/Logo-Poker-Chip-small.v3.png') no-repeat;
     background-size: auto 100%;
     width:70px;
     height:70%;
