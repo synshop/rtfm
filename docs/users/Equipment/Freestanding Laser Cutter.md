@@ -1,21 +1,21 @@
-# Laser Cutter
+# Freestanding Laser Cutter
 
-The laser cutter is from [Full Spectrum Engineering](https://fslaser.com/), and has a usable cutting area of 24" by 18".  It is driven by the RetinaEngrave software which is available as a [free download](https://fslaser.com/RetinaEngrave) from Full Spectrum Engineering.
+This laser cutter is from [Full Spectrum Engineering](https://fslaser.com/), and has a usable cutting area of 24" by 18".  It is driven by the RetinaEngrave (version 2) Windows software which is available as a [free download](https://fslaser.com/RetinaEngrave) from Full Spectrum Engineering. Designs can be started in the software, but often it is better to design images in a graphics program and use the Full Spectrum Engineering Printer Driver to print directly into RetinaEngrave.  To do this, start RetinaEngrave first, and then open your image file to print.
 
 ##RetinaEngrave
 
-While this software can be a bit frustrating, we'll always be there to help you get your laser cut project complete! Here's some tips that will help you get there:
+As the sign on the laser cutter says, it has no brain, please use yours.  RetinaEngrave is very simplistic and often will not do things as you expect, or feel are basic.  It is also terrible about telling you what is wrong with your files, and many times searching online will not produce useable answers. Some things to keep in mind: 
 
-* Double check your design between the program you started in, and RetinaEngrave.  The print driver is not smart, and cuts off sections if it resets to the standard letter size, can scale things when you need exact sizes, and most annoyingly renders solid lines into multiple ones at seemingly random.  That last one is just a loooot of trial and error to make lines thinner before printing to RetinaEngrave, or cleaning it up inside RE.
+* Double check your design between the program you started in, and RetinaEngrave.  The print driver is not smart, and cuts off sections if it resets to the standard letter size, can scale things when you need exact sizes, and most annoyingly renders solid lines into multiple ones at seemingly random.  The fist two are easy to fix, but the last will take a lot of trial and error to make lines thinner before printing to RetinaEngrave, or cleaning it up inside RE.
 * It's good to follow the Laser Cutter checklist, but make note of your settings before you start, and be prepared to fix them all right before you start(press G).  A particular annoyance, the dropdown between Vector, Raster, or Raster then Vector.  It likes to reset that after doing a perimeter trace.
 * Be prepared for experimentation on power vs speed.  Two passes at higher speed and lower power may cut better, take less time, and have less burn than one at lower speed and higher power.
 
 ## Double Sided Laser Engraving
 
-Remember the cardinal rule of RetinaEngrave.  The internet will tell you you can make a design on separate layers of a graphics file, and print them separately into RE and they will line up.  The internet lies, or, SynShop's version of the software is not that version.  
+Remember RetinaEngrave's lack of brain.  The internet will tell you you can make a design on separate layers of a graphics file, and print them separately into RE and they will line up.  The internet lies for this software and this laser cutter.  
 
 * You need two wholly separate files
-* The only way to make them line up is to put a big black registration square in the upper left, above your design.  I think I had to go up to 6mm a side to get RE to recognize it
+* The only way to make them line up is to put a big black registration square in the upper left, above your design.  A 6mm one will be recognized
 * Cut, then flip.  Trying to line up a board to engrave side A then engrave and cut side B is almost impossible to get level.  Instead, engrave and cut on side A, go steal a dental pick from the electronics bin, flip your object over in place, then engrave side B
 * Blue painters tape or masking tape is your friend. Even if you don't need it to cover your surface to prevent burn, after you've engraved side B, sticking a strip of tap across your cutout parts and the board/plastic will let you pick up most, if not all, the pieces at once off the bed.
 
