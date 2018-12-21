@@ -1,7 +1,6 @@
+# Consew 230 Industrial Sewing Machine
 
-
-# Hea
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTM0MTEzOV19
+eyJoaXN0b3J5IjpbLTE3Mzc4NDU4MTBdfQ==
 -->
