@@ -14,9 +14,12 @@ The bobbin for this machine is underneath the table. If you open the bobbin cove
 ![Open bobbin cover](.images/230IndustrialMachine/230machine_bobbin_1.jpg)
 ![Retrieve the bobbin](.images/230IndustrialMachine/230machine_bobbin_2.jpg)
 
-Once the bobbin carrier is out, remove the bobbin. One the bobbin winder, there is a level
+Once the bobbin carrier is out, remove the bobbin. One the bobbin winder, there is a lever that you can pull towards you.
+![Lever closed](.images/230IndustrialMachine/230machine_bobbin_4.jpg)
+![Lever open](.images/230IndustrialMachine/230machine_bobbin_5.jpg)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQ0NDIwNjEsLTE1Nzg2ODY1NjgsOD
-k2OTMwMzYxLC0xNzM3ODQ1ODEwXX0=
+eyJoaXN0b3J5IjpbLTQzMjgyMTA3NiwtMTU3ODY4NjU2OCw4OT
+Y5MzAzNjEsLTE3Mzc4NDU4MTBdfQ==
 -->
