@@ -17,9 +17,10 @@ The bobbin for this machine is underneath the table. If you open the bobbin cove
 Once the bobbin carrier is out, remove the bobbin. One the bobbin winder, there is a lever that you can pull towards you.
 ![Lever closed](.images/230IndustrialMachine/230machine_bobbin_4.jpg)
 ![Lever open](.images/230IndustrialMachine/230machine_bobbin_5.jpg)
-
+Once the lever is open, slide the bobbin onto the spindle and pass the thread through one of the holes in the bobbin.  Close the lever again. Pressing the pedal will now wind the bobbin.
+![Winding the bobbin]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMjgyMTA3NiwtMTU3ODY4NjU2OCw4OT
-Y5MzAzNjEsLTE3Mzc4NDU4MTBdfQ==
+eyJoaXN0b3J5IjpbNzA4OTE5NTM1LC0xNTc4Njg2NTY4LDg5Nj
+kzMDM2MSwtMTczNzg0NTgxMF19
 -->
