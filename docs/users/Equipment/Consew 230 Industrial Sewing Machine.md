@@ -10,13 +10,13 @@ This machine has a separate bobbin winding mechanism to the right of the machine
 
 Seat the thread between the plates, and feed up through the hole.
 
-The bobbin for this machine is underneath the table. If you open the bobbin cover, it willb 
+The bobbin for this machine is underneath the table. If you open the bobbin cover, it will be easier to see your fingers and not have to stick your head under the desk to get the bobbin carrier out
 ![Open bobbin cover](.images/230IndustrialMachine/230machine_bobbin_1.jpg)
-
-
 ![Retrieve the bobbin](.images/230IndustrialMachine/230machine_bobbin_2.jpg)
 
+Once the bobbin carrier is out, remove the bobbin. One the bobbin winder, there is a level
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc2MzE5MzUwLC0xNTc4Njg2NTY4LDg5Nj
-kzMDM2MSwtMTczNzg0NTgxMF19
+eyJoaXN0b3J5IjpbLTE3MTQ0NDIwNjEsLTE1Nzg2ODY1NjgsOD
+k2OTMwMzYxLC0xNzM3ODQ1ODEwXX0=
 -->
