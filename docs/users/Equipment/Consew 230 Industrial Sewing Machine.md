@@ -18,9 +18,12 @@ Once the bobbin carrier is out, remove the bobbin. One the bobbin winder, there 
 ![Lever closed](.images/230IndustrialMachine/230machine_bobbin_4.jpg)
 ![Lever open](.images/230IndustrialMachine/230machine_bobbin_5.jpg)
 Once the lever is open, slide the bobbin onto the spindle and pass the thread through one of the holes in the bobbin.  Close the lever again. Pressing the pedal will now wind the bobbin.
-![Winding the bobbin]
+![Winding the bobbin](.images/230IndustrialMachine/230machine_bobbin_6.jpg)
+
+## Threading the machine
+You can use a separate cone for the machine than the bobbin, but if you only have one, remove the thread from the bobbin threading. Instead bring the thread over to the top of the 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA4OTE5NTM1LC0xNTc4Njg2NTY4LDg5Nj
-kzMDM2MSwtMTczNzg0NTgxMF19
+eyJoaXN0b3J5IjpbMjEyNDU5MjI1NywtMTU3ODY4NjU2OCw4OT
+Y5MzAzNjEsLTE3Mzc4NDU4MTBdfQ==
 -->
