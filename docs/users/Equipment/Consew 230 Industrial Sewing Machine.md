@@ -21,9 +21,10 @@ Once the lever is open, slide the bobbin onto the spindle and pass the thread th
 ![Winding the bobbin](.images/230IndustrialMachine/230machine_bobbin_6.jpg)
 
 ## Threading the machine
-You can use a separate cone for the machine than the bobbin, but if you only have one, remove the thread from the bobbin threading. Instead bring the thread over to the top of the 
+You can use a separate cone for the machine than the bobbin, but if you only have one, remove the thread from the bobbin threading. Instead bring the thread over to the top of the machine and follow the picture sequence below to properly thread the machine
+![Down, around the plates, up and over](.images/230IndustrialMachine/230
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDU5MjI1NywtMTU3ODY4NjU2OCw4OT
-Y5MzAzNjEsLTE3Mzc4NDU4MTBdfQ==
+eyJoaXN0b3J5IjpbLTExODY1NTgzMjMsLTE1Nzg2ODY1NjgsOD
+k2OTMwMzYxLC0xNzM3ODQ1ODEwXX0=
 -->
