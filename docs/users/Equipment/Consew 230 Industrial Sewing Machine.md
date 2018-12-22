@@ -5,8 +5,8 @@ This is the green industrial table mounted sewing machine located in the craft r
 ![](.images/230IndustrialMachine/230machine.jpg)
 
 ## Winding the Bobbin
-This machine has a separate bobbin winding mechanism to the right of the machine. If the needle/machine is threaded for sewing, 
+This machine has a separate bobbin winding mechanism to the right of the machine that is fThe thread stand has a place for two cones so if you have a second cone of the color you are using 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4NjgzNTMwLDg5NjkzMDM2MSwtMTczNz
-g0NTgxMF19
+eyJoaXN0b3J5IjpbLTE5MDg1MTA4NjMsODk2OTMwMzYxLC0xNz
+M3ODQ1ODEwXX0=
 -->
