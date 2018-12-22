@@ -14,7 +14,7 @@ The bobbin for this machine is underneath the table. If you open the bobbin cove
 ![Open bobbin cover](images/230IndustrialMachine/230machine_bobbin_1.jpg)
 ![Retrieve the bobbin](images/230IndustrialMachine/230machine_bobbin_2.jpg)
 
-Once the bobbin carrier is out, remove the bobbin. One the bobbin winder, there is a lever that you can pull towards you.
+Once the bobbin carrier is out, remove the bobbin. On the bobbin winder, there is a lever that you can pull towards you.
 ![Lever closed](images/230IndustrialMachine/230machine_bobbin_4.jpg)
 ![Lever open](images/230IndustrialMachine/230machine_bobbin_5.jpg)
 Once the lever is open, slide the bobbin onto the spindle and pass the thread through one of the holes in the bobbin.  Close the lever again. Pressing the pedal will now wind the bobbin, hold the thread for a few rotations.
@@ -27,7 +27,7 @@ You can use a separate cone for the machine than the bobbin, but if you only hav
 ![Into the thread guide, around into the opening at the back of the needle collar and down to the needle, and through](images/230IndustrialMachine/230machine_threading_3.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NTIyMzEzNiwtMTUxMzI3MTYyNiwtMT
-cxMDMwMTMzNywtMTU3ODY4NjU2OCw4OTY5MzAzNjEsLTE3Mzc4
-NDU4MTBdfQ==
+eyJoaXN0b3J5IjpbLTIwNDY2MDY5MTcsLTI1NTIyMzEzNiwtMT
+UxMzI3MTYyNiwtMTcxMDMwMTMzNywtMTU3ODY4NjU2OCw4OTY5
+MzAzNjEsLTE3Mzc4NDU4MTBdfQ==
 -->
