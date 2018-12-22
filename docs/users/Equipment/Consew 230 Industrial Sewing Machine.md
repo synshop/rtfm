@@ -9,9 +9,14 @@ This machine has a separate bobbin winding mechanism to the right of the machine
 ![Threading the winder](.images/230IndustrialMachine/230machine_bobbin_3.jpg)
 
 Seat the thread between the plates, and feed up through the hole.
+
+The bobbin for this machine is underneath the table. If you open the bobbin cover, it willb 
 ![Open bobbin cover](.images/230IndustrialMachine/230machine_bobbin_1.jpg)
-![Retrieve the bobbin]
+
+
+![Retrieve the bobbin](.images/230IndustrialMachine/230machine_bobbin_2.jpg)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzg2ODY1NjgsODk2OTMwMzYxLC0xNz
-M3ODQ1ODEwXX0=
+eyJoaXN0b3J5IjpbODc2MzE5MzUwLC0xNTc4Njg2NTY4LDg5Nj
+kzMDM2MSwtMTczNzg0NTgxMF19
 -->
