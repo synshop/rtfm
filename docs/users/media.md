@@ -5,6 +5,13 @@
 Media (media.synshop.org aka 10.0.40.19) is a server that houses files.  It is only accessible when
 you're in the shop and using our WiFi.
 
+
+__Note__ - The entire collection as of Aug 2019 is just over 15TB of data.  If you're attempting
+to transfer more than a few gigs, you should strongly consider using Ethernet instead of WiFi so that
+you get faster transfer speeds.
+Further, you may consider using rsync as you can start and stop jobs that may take more than a
+few hours so you can run them over a few days and if the transfer fails you don't have start from scratch.
+
 ## FTP
 
 To access the site via FTP, use anonymous FTP which might be supported by your browser via this
@@ -24,8 +31,8 @@ To access the site via rsync
   For example, if you wanted to download all of the 
 presentations from HOPE 2018, you would find this URL: 
 [http://media.synshop.org/pub/infocon.org/cons/2600/The%20Circle%20of%20HOPE%20(2018)/](http://media.synshop.org/pub/infocon.org/cons/2600/The%20Circle%20of%20HOPE%20(2018)/)
-1. Grab the path from the end of the ULR and preface it with a period. Replace any `%20` with `\ ` (escpaced space)
- and escape any "odd" characters (eg. `(` -> `\(`. Using the above example 
+1. Grab the path from the end of the URL and preface it with a period. Replace any `%20` with `\ ` (escpaced space)
+ and escape any "odd" characters eg. change `(` to`\(`. Using the above example 
 that'd be: `./pub/infocon.org/cons/2600/The\ Circle\ of\ HOPE\ \(2018\)/`
 1. To sync all these to the current directory you're in, you'd run this command and enter the password `media` when
-prompted: `rsync -avz  -e ssh --progress "media@10.0.40.19:./pub/infocon.org/cons/2600/The\ Circle\ of\ HOPE\ \(2018\)/" .`
+prompted: `rsync -avz  -e ssh --progress "media@media.synshop.org:./pub/infocon.org/cons/2600/The\ Circle\ of\ HOPE\ \(2018\)/" .`
