@@ -16,8 +16,6 @@ The following document was the bill of materials used impliment the access contr
 
 SSH into the Electric Badger at 10.0.40.10, and connect to the screen session
 
-    $ ssh 10.0.40.10
-    krux@10.0.40.10's password:
     Linux electric-badger 4.1.13+ #826 PREEMPT Fri Nov 13 20:13:22 GMT 2015 armv6l
     
     The programs included with the Debian GNU/Linux system are free software;
