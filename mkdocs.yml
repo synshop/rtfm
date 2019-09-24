@@ -1,6 +1,8 @@
 site_name: RTFM
 extra_css:
     - css/rtfm.css
+extra_javascript:
+    - js/rtfm.js
 markdown_extensions:
 - toc:
     permalink: ''
