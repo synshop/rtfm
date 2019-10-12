@@ -1,8 +1,15 @@
-# SYNShop Docs  
+# SYN Shop Docs  
 
-Documentation about everything and anything at the SYN Shop.  These documents are broken into two main parts: Users and Admins.
+This site houses documentation about everything and anything at the SYN Shop.  Some highlights you might 
+be interested in are:
 
-*  **Users:**  - These docs are for folks using the tools and software at the the shop.
+* [Equipment list](/users/SYN Shop Tool List/)
+* [FAQ](/users/FAQ/)
+* [SYN Shop Logos](http://127.0.0.1:8000/users/Logos/)
+
+Otherwise, these documents are broken into two main parts: 
+
+*  **Users:**  - These docs are for folks using the tools and software .
 *  **Admins:**  - These docs are for shop members building and maintaining tools and software at the the shop.
 
 To read the docs, choose an option from the menu above.
