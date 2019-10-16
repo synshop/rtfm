@@ -66,7 +66,7 @@ try to stock equipment that most people don't have access to at home, and are wo
 
 ## Welding
 
-* MIG Welder - Chicago Electric, 110 Amp MIG/Flux Wire Welder 
+* MIG Welder - Hobart 110 Amp MIG/Flux Wire Welder 
 * Stick Welder
 
 ## Crafts
