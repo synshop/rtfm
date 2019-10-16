@@ -34,7 +34,7 @@ try to stock equipment that most people don't have access to at home, and are wo
     * Table Saw - Delta cabinet saw 
     * Band Saw 
     * Surface Planer - Hitachi 
-    * 8" Jointer
+    * 8" Jointer 
     * Drill Press - Craftsman Professional 3/4 hp 17'' Drill Press 
     * Dust Collector to all free stranding tools
     * Table Saw
@@ -49,7 +49,7 @@ try to stock equipment that most people don't have access to at home, and are wo
     * Cordless Circular Saw - Ryobi 
     * Jig Saw 
     * 6" Power Sander - Dewalt 
-    * Biscuit Jointer - Porter Cable 
+    * Biscuit Jointer - Porter Cable  
     * Drill - Dewalt 
     * Cordless Drill - Ryobi 
     * Dremel Tool 
