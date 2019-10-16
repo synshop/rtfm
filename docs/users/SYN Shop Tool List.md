@@ -6,20 +6,19 @@ try to stock equipment that most people don't have access to at home, and are wo
 ## Rapid Prototyping
 
 * 3D Printers:
-    * [Cetus3D](https://www.cetus3d.com/) 
+    * [Cetus3D](https://www.cetus3d.com/) - PLA Only printer
     *  [Replicator 2](https://www.makerbot.com/) - PLA Only printer, 100 micron print resolution
     *  [Flashforge Dual Extruder 3D Printers](https://store.flashforge.com/) (ABS/PLA, 100 micron print resolution)
     *  [Anycubic Photon Series LCD-Based SLA Resin 3D Printer](https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-3d-printer)
 * Laser Cutters: 
     *  Full Spectrum -  90 Watt Pro LF Series 24" x 18" CO2 
-    *  [Muse](https://fslaser.com/Product/Muse) - 40 Watt 20" x 12" 
+    *  [Muse](https://fslaser.com/Product/Muse) - 40 Watt 20" x 12" C02
 * Acrylic Bender
 
 ## Carpentry / CNC / Shop Equipment
 
 * Lathes
     * Shopsmith Lathe
-    * Taig Mini-lathe
 
 * Bench Top Power Tools
     * Compound Miter Saw 
@@ -32,12 +31,14 @@ try to stock equipment that most people don't have access to at home, and are wo
 
 * Free Standing Power Tools 
     * ShopBot [PRSstandard CNC 96-48](https://www.shopbottools.com/products/standard)
-    * Table Saw - Craftsman 
+    * Table Saw - Delta cabinet saw 
     * Band Saw 
     * Surface Planer - Hitachi 
+    * 8" Jointer 
     * Drill Press - Craftsman Professional 3/4 hp 17'' Drill Press 
-    * Dust Collector - Delta with booster fan. Not set up. In n8's possession 
+    * Dust Collector to all free stranding tools
     * Table Saw
+    * Shaper
     
 * Hand Tools
     * Many, oh so many
@@ -48,7 +49,7 @@ try to stock equipment that most people don't have access to at home, and are wo
     * Cordless Circular Saw - Ryobi 
     * Jig Saw 
     * 6" Power Sander - Dewalt 
-    * Biscuit Jointer - Porter Cable 
+    * Biscuit Jointer - Porter Cable  
     * Drill - Dewalt 
     * Cordless Drill - Ryobi 
     * Dremel Tool 
@@ -74,7 +75,6 @@ try to stock equipment that most people don't have access to at home, and are wo
 * Singer 4411 Sewing Machine
 * Serger
 * Loom
-* Pottery Wheel
 * Silhouette Cameo Vinyl/Craft cutter
 * Grommet Press with die sizes 0,2,and 4.
 * Snap Press (from Kampress.com with die sizes T3 and T5
@@ -82,6 +82,7 @@ try to stock equipment that most people don't have access to at home, and are wo
 * Basic craft-painting supplies
 * Mini-vacuformer kit
 * Leatherworking tools and punches/stamps
+* Taig Micro-lathe
 
 ## Electronics
 
