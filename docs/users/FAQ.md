@@ -65,4 +65,4 @@ answering questions, and offering help. It's a great group of folks, and is look
 
 ## What equipment do you have?
 
-Lot's!  See our [tool list](SYN Shop Tool List.md) for specifics.
+Lots!  See our [tool list](SYN Shop Tool List.md) for specifics.
