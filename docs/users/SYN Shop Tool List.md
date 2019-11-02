@@ -59,7 +59,7 @@ try to stock equipment that most people don't have access to at home, and are wo
 
 * Cincinnati Knee Mill
 * Mini Metal Lathe
-* 10"x42" Metal Lathe
+* 10" x 30" Metal Lathe
 * Vertical Metal Bandsaw
 * Horizontal Metal Bandsaw
 * Drill Press
