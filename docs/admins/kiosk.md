@@ -8,8 +8,8 @@ How to build this:
 
 ## Bill of Materials
 
-  * Big ass wall mounted TV with HDMI in
-  * [Raspberry Pi](https://amzn.to/33o36mT) with WiFi HDMI out and I2C pins
+  * Big ass wall mounted TV with HDMI input
+  * [Raspberry Pi](https://amzn.to/33o36mT) with WiFi, HDMI out and I2C pins
   * [BME280 I2C temp sensor](https://amzn.to/33otoFK)
   * [0.96" I2C OLED Display with SSD1306 driver](https://amzn.to/2rm4vMV)
   * [Jumper Cables](https://amzn.to/2ClLPit)
@@ -21,7 +21,7 @@ How to build this:
   1. Connect the HDMI cable to the large monitor
   1. Fabricate a case for the Pi, OLED and sensor like shown above - but up to you how this looks ;)
   1. Fabricate a sign with the info and QR code
-  1. Mount the monitor and Pi set up to the wall
+  1. Mount the Big ass TV and Sign, and Pi set up to a wall
   
 ## Software set up
 
