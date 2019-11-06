@@ -18,9 +18,8 @@ The device below is where all the magic happens though.  This is a
 [Raspberry Pi computer](https://en.wikipedia.org/wiki/Raspberry_Pi).  While
 tiny, it has the ability to power the larger monitor using HDMI. What you're
  seeing on the screen is a web browser, but it has no menus or scroll bars showing.
- As well, 
-the Raspberry Pi a WiFi radio so it can get on our shop network and out to the internet.
-As well, it has  
+The Raspberry Pi also has a WiFi radio so it can get on our shop network and out to the internet.
+As well, it has 
 [General purpose input-output (GPIO)](https://en.wikipedia.org/wiki/Raspberry_Pi#General_purpose_input-output_(GPIO)_connector) 
 connectors so it can power things like the very small display as well as the
 temperature sensor.
