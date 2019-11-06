@@ -9,32 +9,38 @@ How to build this:
 ## Bill of Materials
 
   * Big ass wall mounted TV with HDMI in
-  * Raspberry Pi or other small computer with HDMI out and I2C pins
+  * [Raspberry Pi](https://amzn.to/33o36mT) with WiFi HDMI out and I2C pins
+  * [BME280 I2C temp sensor](https://amzn.to/33otoFK)
+  * [0.96" I2C OLED Display with SSD1306 driver](https://amzn.to/2rm4vMV)
+  * [Jumper Cables](https://amzn.to/2ClLPit)
 
-So what is all this stuff and how does it work?!  The large top display
-is simply a TV.  This one happens to be an industrial one normally used in a 
-commercial setting.  Unlike a TV you might have at home, it has no tuner
-built in to it, so only works with HDMI inputs like you might have on your
-DVD player or streaming device (eg Roku).
+## Hardware build out
 
-The device below is where all the magic happens though.  This is a
-[Raspberry Pi computer](https://en.wikipedia.org/wiki/Raspberry_Pi).  While
-tiny, it has the ability to power the larger monitor using HDMI.  As well, 
-it has a WiFi radio so it can get on our shop network and out to the internet.
-As well, it has  
-[General purpose input-output (GPIO)](https://en.wikipedia.org/wiki/Raspberry_Pi#General_purpose_input-output_(GPIO)_connector) 
-connectors so it can power things like the very small display as well as the
-temperature sensor.
+  1. Make [a harness](../images/harness.jpeg) to connect the OLED display and the BME280 at the same time. 
+    Connect the OLED and sensor to the right pins on the Pi
+  1. Connect the HDMI cable to the large monitor
+  1. Fabricate a case for the Pi, OLED and sensor like shown above - but up to you how this looks ;)
+  1. Fabricate a sign with the info and QR code
+  1. Mount the monitor and Pi set up to the wall
+  
+## Software set up
 
-If you want to build your own version of these, all the software is online 
-and open source:
-
-  * Forecast and temperature software is called [YANPIWS](https://github.com/Ths2-9Y-LqJt6/YANPIWS).
-  * The display of upcoming events is from our MeetUp page and is displayed
-    using [this gist](https://gist.github.com/Ths2-9Y-LqJt6/b588352f29b46af639c09891eaee13d2).
-  * The spinning shop logo is just an SVG and you can download it from 
-    [this wiki](/users/Logos/). To read more about CSS animations, 
-    check out [getflywheel's site](https://getflywheel.com/layout/svg-animations-css-how-to/ )!
-    
- If you're a shop administrator looking to rebuild this system in case it crashed or something,
- check out the [admin page](/admins/kiosk/) on it.
+  1. Install [latest Rasbpian](https://www.raspberrypi.org/downloads/) on and SD card. Insert it into the Pi. After
+     first boot, configure WiFi to be on the shop's LAN, run `sudo apt update;sudo apt dist-upgrade`
+  1. Give the Pi a static IP by following 
+    [these steps](https://thepihut.com/blogs/raspberry-pi-tutorials/how-to-give-your-raspberry-pi-a-static-ip-address-update).
+  1. Change the `pi` user password to something random, add administrators SSH keys to `pi` user
+    and harden SSH by editing `/etc/ssh/sshd_conf` and changing it to not allow passwords via 
+    `PasswordAuthentication no`. Restart ssh with `systemctl restart sshd`
+  1. Install and configure [YANPIWS](https://github.com/Ths2-9Y-LqJt6/YANPIWS) per the sites instructions
+  1. Enable the OLED to show the real time temps for the BME280 via 
+    [these instructions](https://github.com/Ths2-9Y-LqJt6/YANPIWS/tree/master/I2C.bme280.oled#quick-start)
+  1. Create `/var/www/html/dashboard/` and put a copy of `MeetupEvents.php` in it from 
+    [this gist](https://gist.github.com/Ths2-9Y-LqJt6/b588352f29b46af639c09891eaee13d2)
+  1. Grab a copy of the files on [this gist](https://gist.github.com/Ths2-9Y-LqJt6/e563f95f9b4e4bae8d0a20e87515b056)
+      and put them in `/var/www/html/dashboard/`
+  1. save a copy of `synshop.logo.v4.svg` from our 
+    [logo page](https://rtfm.synshop.org/images/logos/synshop.logo.v4.svg) into `/var/www/html/dashboard/` 
+  1. Have the Pi use a full screen browser service pointing to `http://127.0.0.1/dashboard/` per 
+    [these steps](https://pimylifeup.com/raspberry-pi-kiosk/).
+  1. enjoy!
