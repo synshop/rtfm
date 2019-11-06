@@ -43,4 +43,4 @@ How to build this:
     [logo page](https://rtfm.synshop.org/images/logos/synshop.logo.v4.svg) into `/var/www/html/dashboard/` 
   1. Have the Pi use a full screen browser service pointing to `http://127.0.0.1/dashboard/` per 
     [these steps](https://pimylifeup.com/raspberry-pi-kiosk/).
-  1. enjoy! 
+  1. enjoy!  
