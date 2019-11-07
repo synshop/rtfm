@@ -4,6 +4,23 @@ media is a server hosted at the shop that houses drives which are then
 shared via ftp, http and rsync. If you're a user and just want to browse
 or download files, please see [the user section](/users/media/).
 
+## Hardware specs
+
+This was orignally purchsed from TiderDirect and it's title is 
+"HPE ProLiant ML10 Gen9 Tower Server - Intel i3-6100 Dual-Core 3.7GHz Processor, 4GB DDR4 Memory, DVD-RW, No OS,
+Gigabit Ethernet, USB 3.0 - 866965-S01". Otherwise, specs are:
+
+  * [Intel 6100 Dual Core i3 3.7GHz](https://ark.intel.com/content/www/us/en/ark/products/90729/intel-core-i3-6100-processor-3m-cache-3-70-ghz.html)
+  * 4GB DDR4 (4 slots, 64GB max)
+  * SATA with  RAID Levels	0,1,5,10
+  * Up to 5 SATA Drives Supported 5
+  * 15.8" x 6.9" x 14.5"
+  
+See [detailed PDF](./images/proliant.ML10.pdf) as well.
+  
+![](./images/proliant.ML10.back.jpg)
+![](./images/proliant.ML10.front.jpg)
+  
 ## OS
 
 Media runs a vanilla install of Ubuntu 19.04. Give it the static IP of 10.0.40.19 (gateway 10.0.40.1, subnet 255.255.255.0, 
