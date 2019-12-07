@@ -30,10 +30,12 @@ and open source:
 
   * Forecast and temperature software is called [YANPIWS](https://github.com/Ths2-9Y-LqJt6/YANPIWS).
   * The display of upcoming events is from our MeetUp page and is displayed
-    using [this gist](https://gist.github.com/Ths2-9Y-LqJt6/b588352f29b46af639c09891eaee13d2).
+    using [MeetupEvents](https://github.com/Ths2-9Y-LqJt6/MeetupScraper).
   * The spinning shop logo is just an SVG image and you can download it from 
     [this wiki](/users/Logos/). To read more about CSS animations, 
     check out [getflywheel's site](https://getflywheel.com/layout/svg-animations-css-how-to/ )!
+  * The list of members who have recently used their fob to unlock the front door, comes 
+    from our security system.  Read more about on the [fobber project](https://github.com/Ths2-9Y-LqJt6/fobber)!
     
  If you're a shop administrator looking to rebuild this system in case it crashed or something,
  check out the [admin page](/admins/kiosk/) on it.

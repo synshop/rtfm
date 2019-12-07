@@ -36,11 +36,14 @@ How to build this:
   1. Enable the OLED to show the real time temps for the BME280 via 
     [these instructions](https://github.com/Ths2-9Y-LqJt6/YANPIWS/tree/master/I2C.bme280.oled#quick-start)
   1. Create `/var/www/html/dashboard/` and put a copy of `MeetupEvents.php` in it from 
-    [this gist](https://gist.github.com/Ths2-9Y-LqJt6/b588352f29b46af639c09891eaee13d2)
-  1. Grab a copy of the files on [this gist](https://gist.github.com/Ths2-9Y-LqJt6/e563f95f9b4e4bae8d0a20e87515b056)
+    [this repo](https://github.com/Ths2-9Y-LqJt6/MeetupScraper)
+  1. Grab a copy of the `index.php` and ` events.php` files
+    on [this gist](https://gist.github.com/Ths2-9Y-LqJt6/e563f95f9b4e4bae8d0a20e87515b056)
       and put them in `/var/www/html/dashboard/`
-  1. save a copy of `synshop.logo.v4.svg` from our 
-    [logo page](https://rtfm.synshop.org/images/logos/synshop.logo.v4.svg) into `/var/www/html/dashboard/` 
+  1. Create a folder called `member_fobbing` in `/var/www/html/` and install the  
+    [fobber repo](https://github.com/Ths2-9Y-LqJt6/fobber) into it.  Be sure to copy `config.dist.php` to
+    `config.php`. As well, ensure badger is doing a webhook call every time some one fobs in to the
+    kiosk at `https://KIOSK_IP_HERE/member_fobbing`.
   1. Have the Pi use a full screen browser service pointing to `http://127.0.0.1/dashboard/` per 
     [these steps](https://pimylifeup.com/raspberry-pi-kiosk/).
   1. enjoy! 
