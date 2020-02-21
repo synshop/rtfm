@@ -8,7 +8,7 @@ Where did we get this? How do we get another if ours explodes? Exercise left to 
 
 ## Lights
 
-Lights are regular 100w bulbs.  You can swing the front of the fixture open to replace them when they go out.
+Lights are Lights are A19 LED 14w (100w equivalent).  You can swing the front of the fixture open to replace them when they go out.
 
 ## Controller Box
 
@@ -41,7 +41,7 @@ The site currently shows an image with a tool tip showing the live light status 
 
 ### JSON
  
-JSON is published at [http://10.0.40.120/status.json](http://10.0.40.120/status.json).  There is then a root cron job which copies it from time-circuit.synshop.org to nexus.  There is then a root cron job on lagos.synshop.org that copies it to [https://synshop.org/traffic-light/status.json](https://synshop.org/traffic-light/status.json)
+JSON is published at [http://10.0.40.120/status](http://10.0.40.120/status).  There is then a root cron job which copies it from time-circuit.synshop.org to nexus.  There is then a root cron job on lagos.synshop.org that copies it to [https://synshop.org/traffic-light/status.json](https://synshop.org/traffic-light/status.json)
 
 Sample:
 
