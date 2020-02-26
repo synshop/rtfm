@@ -5,7 +5,7 @@ be interested in are:
 
 * [Equipment list](/users/SYN Shop Tool List/)
 * [FAQ](/users/FAQ/)
-* [SYN Shop Logos](http://127.0.0.1:8000/users/Logos/)
+* [SYN Shop Logos](/users/Logos/)
 
 Otherwise, these documents are broken into two main parts: 
 

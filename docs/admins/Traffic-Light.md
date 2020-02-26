@@ -1,6 +1,8 @@
 # Traffic Light Admin Guide
 
-For general end user info, see [users guide](/users/Projects/Traffic-Light/). Otherwise, for nitty gritty technical info, read on!
+For general end user info, see [users guide](/users/Projects/Traffic-Light/).  See the [time-circuit repository on Github](https://github.com/krux702/time-circuit). 
+
+Otherwise, for nitty gritty technical info, read on!
 
 ## Acquiring
 

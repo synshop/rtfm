@@ -25,5 +25,5 @@ You may have guessed where the [UI came from ;)](https://flickr.com/photos/jimro
 If you're in the shop, you can control the lights at [time-circuit.synshop.org](http://time-circuit.synshop.org). If you're not in the shop, you can see an image of the light status in the upper right of any page on [our web site](https://synshop.org/).  Further, if you just can't get enough traffic light, we have a [live image](https://synshop.org/traffic-light/status.php)  as well as [live status JSON](https://synshop.org/traffic-light/status.json), both updated every minute.
 
 *Note* - If the traffic light crashes, you know, because IoT, then the last cached JSON file will be shown.  The traffic light image and JSON may be stale, thus wrong!! 
-
-To find out more about the technical implementation, see [the admin guide](/admins/Traffic-Light/).
+ 
+To find out more about the technical implementation, see [the admin guide](/admins/Traffic-Light/) or the [time-circuit repository on Github](https://github.com/krux702/time-circuit). 
