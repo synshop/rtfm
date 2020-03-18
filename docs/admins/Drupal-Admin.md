@@ -22,6 +22,9 @@ If you need to change the home page to point to a new page for any reason,  go t
 [Site Info page](https://synshop.org/admin/config/system/site-information) and change the 
 "Default Home Page" to a new or existing page.  
 
+## Past Events Page
+
+On [this page](https://synshop.org/Past-Events) we show the past events.  This uses identical code to the homepage (see below), except it has a call to `$meetup->get_past_meetup_events('synshop')` instead of `$meetup->get_future_meetup_events('synshop')`
 
 ## Homepage Meetup Events
 
