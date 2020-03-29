@@ -58,6 +58,9 @@ font-size: 25px;}
     .meetup-date  {
         display: block !important;
     }
+    .node .cancelled  {
+        text-decoration: line-through
+    }
 </style>
 <div class="node-header clearfix">
 
@@ -97,7 +100,7 @@ $eventHtml = '
         </div>
 
         <div class="title-and-meta">
-            <h2 class="node-title"><a href="%s"><!--link-->%s<!--title--></a></h2>
+            <h2 class="node-title %s"><a href="%s"><!--link-->%s<!--title--></a></h2>
             <div class="meta">
                 <span class="submitted">
                     By <span rel="sioc:has_creator"><a href="https://github.com/Ths2-9Y-LqJt6/MeetupScraper"
@@ -133,7 +136,12 @@ foreach ( $events as $event){
     $day = date('d',$epoch);
     $year = date('Y',$epoch);
     $description = nl2br($event['description']);
-    $eventsHtml .= sprintf($eventHtml, $day, $month, $year, $event['link'], $event['title'], $event['human_date'], $description);
+    if ($event['status'] == 'cancelled'){
+        $longDate = "CANCELLED " .$event['human_date'];
+    } else {
+        $longDate = $event['human_date'];
+    }
+    $eventsHtml .= sprintf($eventHtml, $day, $month, $year, $event['status'], $event['link'], $event['title'], $longDate, $description);
     $count++;
     if ($count > 6) break;
 }
