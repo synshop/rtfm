@@ -63,6 +63,19 @@ and just participate in
 things. People at SYN Shop have all been very open to hearing what other people are working on, 
 answering questions, and offering help. It's a great group of folks, and is looking to only get better in the future.
 
+## What are the rules?
+
+We are a community, which means there are more people here than just you. If you get value from being with
+us, please give back with time or a donation. To expand on our most basic rule, "Don’t be a jerk" we
+have come up with the [following rules (PDF)](./SYN Shop Rules v3 2020-08-12.pdf) for members
+to follow while at SYN Shop. 
+
+Further, SYN Shop has our own bylaws that start out: "SYN Shop is dedicated to the goal of educating and enabling
+ the greater Las Vegas community in the creative use of developing and established fabrication technologies, and to
+  undertake and pursue any lawful activity associated with such technologies."
+  
+We regularly review the bylaws and the current copy is [available for all to read (PDF)](./SYN Shop Bylaws - 2020-02-01.pdf).
+
 ## What equipment do you have?
 
 Lots!  See our [tool list](SYN Shop Tool List.md) for specifics.
