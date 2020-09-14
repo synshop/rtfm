@@ -22,7 +22,13 @@ See SYN [Shop Vision](./SYN Shop Vision.md)
 
 ## What is the best time to visit SYN Shop?
 
-Come on down when ever we're open! Our hours are:
+Unfortunately, due to COVID-19, the SYN Shop is currently closed to non-members.
+
+Members are welcome by appointment.
+
+Under normal circumstances, everyone is welcome during our open times.
+
+Our usual hours are (local/Pacific Time):
 
 * Monday: 6pm - 10pm DIY Robot Domination
 * Tuesday:  6pm - 10pm  Craft night, Community night
@@ -46,21 +52,19 @@ Go to our [membership page](https://synshop.org/joining-syn-shop) and follow the
 
 ## What are the dues?
 
-Being part of the community is free as is joining our our  [Discord Server]( https://synshop.org/discord). It's also
-free to come down to  the shop and acclimate yourself when ever we're open. Meet our people, 
- and join in the conversation!
+Being part of the community is free as is joining our our [Discord Server](https://synshop.org/discord). It's also
+free to come down to  the shop and acclimate yourself when ever we're open. Meet our people, and join in the conversation!
 
-Using the equipment requires you to be a paying member. The dues are set at $50 per month. 
+Using the equipment requires you to be a paying member. Membership dues are presently $60 per month. 
 For this price, you gain access to all of our equipment during open hours. If you eventually become a 
-Vetted Member in good standing, you will have access to the shop and its equipment 24 hours a day 
+Vetted Member in good standing, you will have access to the shop and its equipment 24 hours a day, 
 7 days a week.
 
 ## How to I get involved?
 
-The best way to get involved with the group is to show up when we're open nights, join the 
- [Discord Server]( https://synshop.org/discord), 
-and just participate in
-things. People at SYN Shop have all been very open to hearing what other people are working on, 
+The best way to get involved with the group is to come visit the shop during the opening hours, join the 
+ mailing lists and [Discord Server](https://synshop.org/discord), 
+and get to know our community members! People at SYN Shop have all been very open to hearing what other people are working on, 
 answering questions, and offering help. It's a great group of folks, and is looking to only get better in the future.
 
 ## What are the rules?
