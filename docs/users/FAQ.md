@@ -22,7 +22,9 @@ See SYN [Shop Vision](./SYN Shop Vision.md)
 
 ## What is the best time to visit SYN Shop?
 
-Come on down when ever we're open! Our hours are:
+Note - we're operating at reduced capacity - see our [COVID19 page](https://synshop.org/covid-19-status).
+
+When not operating at reduced capacity, our hours normally are:
 
 * Monday: 6pm - 10pm DIY Robot Domination
 * Tuesday:  6pm - 10pm  Craft night, Community night
@@ -50,9 +52,9 @@ Being part of the community is free as is joining our our  [Discord Server]( htt
 free to come down to  the shop and acclimate yourself when ever we're open. Meet our people, 
  and join in the conversation!
 
-Using the equipment requires you to be a paying member. The dues are set at $50 per month. 
+Using the equipment requires you to be a paying member. The dues are set at $60 per month. 
 For this price, you gain access to all of our equipment during open hours. If you eventually become a 
-Vetted Member in good standing, you will have access to the shop and its equipment 24 hours a day 
+Vetted Member in good standing, you will have access to the shop and its equipment 24 hours a day, 
 7 days a week.
 
 ## How to I get involved?
