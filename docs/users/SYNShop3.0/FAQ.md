@@ -1,6 +1,8 @@
-# SYN Shop v3.0 - we're officially moving!
+# We're officially moving!
 
 As many of you know, we have approached the end of our lease at American Pacific Drive, and have made the decision to move into a place to finally call our own. We are finalizing the purchase of a new building that will be wholly owned by us! 
+
+Here's a FAQ to fill folks in.
 
 #### The move is already underway, so here’s what you can expect in these coming months:
 
