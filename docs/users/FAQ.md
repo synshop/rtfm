@@ -17,7 +17,7 @@ See SYN [Shop Vision](./SYN Shop Vision.md)
 
 ## Where is the SYN shop?
  
-[1075 American Pacific, Suite C, Henderson, NV 89074](https://www.google.com/maps/place/1075+American+Pacific+Dr+Suite+C,+Henderson,+NV+89074/@36.0412467,-115.0360912,17z/data=!3m1!4b1!4m5!3m4!1s0x80c8d1101acbfaf9:0x24783fea70b05427!8m2!3d36.0412467!4d-115.0339025) 
+[5967 Harrison Dr, Las Vegas, NV 89120](https://www.google.com/maps/place/5967%20Harrison%20Dr,%20Las%20Vegas,%20NV%2089120) 
 
 
 ## What is the best time to visit SYN Shop?
