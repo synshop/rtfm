@@ -1,5 +1,7 @@
 # SYN Shop Docs  
 
+**Nov 2020 Update: We're [moving from American Pacific Location](/users/SYNShop3.0/FAQ/)!**
+
 This site houses documentation about everything and anything at the SYN Shop.  Some highlights you might 
 be interested in are:
 
