@@ -7,7 +7,7 @@ Here's a FAQ to fill folks in.
 #### The move is already underway, so here’s what you can expect in these coming months:
 
 #### Where is the new location?
-Our new location is at [5967 Harrison Dr., Las Vegas, NV](https://duckduckgo.com/?t=canonical&q=5967+Harrison+Dr.&ia=maps&iaxm=maps).  With this change in location, we are much closer to central Vegas, hopefully making it more accessible to our local members. The area is just outside of the McCarran Marketplace plaza which offers a number of different restaurants, as well as being between a <5min drive to Lowes or Home Depot. 
+Our new location is at [5967 Harrison Dr., Las Vegas, NV](https://duckduckgo.com/?t=canonical&q=5967+Harrison+Dr.%2C+Las+Vegas%2C+NV%2C+USA&ia=maps&iaxm=maps&strict_bbox=0&bbox=36.09551532645912%2C-115.12043532756957%2C36.06721368335447%2C-115.1054578724304).  With this change in location, we are much closer to central Vegas, hopefully making it more accessible to our local members. The area is just outside of the McCarran Marketplace plaza which offers a number of different restaurants, as well as being between a <5min drive to Lowes or Home Depot. 
 
 #### Is the American Pacific shop still open?
 At this time, the move has already started and equipment has already been dismantled and is in the process of moving. All equipment has to be removed from the American Pacific location by the end of this month (November 2020).  It is likely that no equipment is operational at this time. 
