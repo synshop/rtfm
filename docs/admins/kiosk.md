@@ -38,7 +38,7 @@ How to build this:
   1. Create `/var/www/html/dashboard/` and put a copy of `MeetupEvents.php` in it from 
     [this repo](https://github.com/Ths2-9Y-LqJt6/MeetupScraper)
   1. Grab a copy of the `index.php` and ` events.php` files
-    on [this gist](https://gist.github.com/Ths2-9Y-LqJt6/e563f95f9b4e4bae8d0a20e87515b056)
+    on [this gist](https://gist.github.com/mrjones-plip/e563f95f9b4e4bae8d0a20e87515b056)
       and put them in `/var/www/html/dashboard/`
   1. Create a folder called `member_fobbing` in `/var/www/html/` and install the  
     [fobber repo](https://github.com/Ths2-9Y-LqJt6/fobber) into it.  Be sure to copy `config.dist.php` to
