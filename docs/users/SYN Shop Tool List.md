@@ -71,18 +71,11 @@ try to stock equipment that most people don't have access to at home, and are wo
 
 ## Crafts
 
-* Industrial Sewing Machine
-* Singer 4411 Sewing Machine
-* Serger
-* Loom
-* Silhouette Cameo Vinyl/Craft cutter
-* Grommet Press with die sizes 0,2,and 4.
-* Snap Press (from Kampress.com with die sizes T3 and T5
-* Airbrush and Compressor
-* Basic craft-painting supplies
-* Mini-vacuformer kit
-* Leatherworking tools and punches/stamps
-* Taig Micro-lathe
+* 9" thermal laminator
+* [Silhouette Cameo](https://www.silhouettecameo.com/) and accessories. No vinyl, bring your own! Up to 12" wide.
+* Leather hand tools, punches and scrap leather
+* Airbrush - we have basic airbrush paints, if you need something specific, bring it. We recommend Createx brand paints, for optimal flow
+* Consew Industrial Sewing Machine - if you were previously signed off on it, bring your own thread!
 
 ## Electronics
 
