@@ -52,7 +52,7 @@ Being part of the community is free as is joining our our  [Discord Server]( htt
 free to come down to  the shop and acclimate yourself when ever we're open. Meet our people, 
  and join in the conversation!
 
-Using the equipment requires you to be a paying member. The dues are set at $60 per month. 
+Using the equipment requires you to be a paying member. The dues are set at $50 per month. 
 For this price, you gain access to all of our equipment during open hours. If you eventually become a 
 Vetted Member in good standing, you will have access to the shop and its equipment 24 hours a day, 
 7 days a week.
