@@ -1,0 +1,25 @@
+name: pulbish site on commits to master
+on:
+  push:
+    branches:
+      - master
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - run: pip install mkdocs-material 
+      - run: mdir local_public
+      - run: mkdocs build --clean -d ./local_public/
+
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.DEPOLY_TO_SITE}}
+          external_repository: synshop/medic.github.io
+          publish_dir: ./public # todo - not sure this is correct?
+          user_name: synshop-ci
+          user_email: synshop-ci@synshop.org
+          publish_branch: master
