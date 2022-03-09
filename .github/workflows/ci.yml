@@ -19,7 +19,7 @@ jobs:
         with:
           personal_token: ${{ secrets.DEPOLY_TO_RTFM_SITE}}
           external_repository: synshop/rtfm-generated
-          publish_dir: ./local_public/ # todo - not sure this is correct?
+          publish_dir: ./local_public/
           user_name: monitoring-synshop-bot
           user_email: monitoring@synshop.org
           publish_branch: master
