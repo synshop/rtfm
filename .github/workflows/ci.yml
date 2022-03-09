@@ -12,7 +12,7 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install mkdocs-material 
-      - run: mdir local_public
+      - run: mkdir local_public
       - run: mkdocs build --clean -d ./local_public/
 
       - uses: peaceiris/actions-gh-pages@v3
