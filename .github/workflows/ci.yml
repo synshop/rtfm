@@ -17,9 +17,9 @@ jobs:
 
       - uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.DEPOLY_TO_SITE}}
+          personal_token: ${{ secrets.DEPOLY_TO_RTFM_SITE}}
           external_repository: synshop/medic.github.io
           publish_dir: ./public # todo - not sure this is correct?
-          user_name: synshop-ci
-          user_email: synshop-ci@synshop.org
+          user_name: monitoring-synshop-bot
+          user_email: monitoring@synshop.org
           publish_branch: master
