@@ -76,7 +76,7 @@ Further, SYN Shop has our own bylaws that start out: "SYN Shop is dedicated to t
  the greater Las Vegas community in the creative use of developing and established fabrication technologies, and to
   undertake and pursue any lawful activity associated with such technologies."
   
-We regularly review the bylaws and the current copy is [available for all to read (PDF)](./SYN Shop Bylaws - 2020-02-01.pdf).
+We regularly review the bylaws and the current copy is [available for all to read (PDF)](./SYN Shop Bylaws - 2022-06-01.pdf).
 
 ## What equipment do you have?
 
