@@ -57,14 +57,17 @@ Enter into enable mode with `e`:
     e [enable_password]
     18:56:22  9/10/19 TUE Priveleged mode enabled.
 
-In `/home/access/logs_and_users/users.txt`.  This is a CSV  file
-that contains all the users.
-
-Find an open `ID`, set the access level to `254` for all access, and paste in the badge decimal and hexadecimal that showed
+Open `/home/access/logs_and_users/users.txt` with your favorite editor.  It is a CSV  file
+that contains all the users.  Find an open `ID`, set the access level to `254` for all access, 
+and paste in the badge decimal and hexadecimal that showed
 in the email when the badge was swiped.  Fill out the remaining fields and save the file
+
+Here's the headers with a sample row:
 
     "ID","level","badge","name","handle","color","email","Last_Verified","Last_Badged","decimal"
     "3","253","A1B2C3D4","new_user","New User McGee","#ff7070,#000000","new@user.com","2020-01-04","2022-09-17","1811700"
+
+Save the file and exit the editor.
 
 Using `screen -r minicom`, and add the user
 to the badging controller by using the `m` command followed by the user ID, access level, and
