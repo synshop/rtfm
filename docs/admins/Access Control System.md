@@ -71,11 +71,11 @@ Save the file and exit the editor.
 
 Using `screen -r minicom`, and add the user
 to the badging controller by using the `m` command followed by the user ID, access level, and
-badge number.
+decimal badge number.
 
-    m 3 254 A1B2C3D4
+    m 3 254 1811700
     19:10:21  9/10/19 TUE User 7 successfully modified
-    3      254     A1B2C3D4
+    3      254     1811700
 
 When you're done with `screen` type `ctrl + a` then `d` to detach from screen.
 
@@ -88,7 +88,7 @@ Switch to the bash session, and edit users.txt and find the badge to be deactiva
 Copy the line to `disabled.users.txt` remove the line from `users.txt`. Add why it's being
 deactivated and the current date, then save the file.
 
-    #99 254 A1B2C3D4  Firstname_Lastname             "name@domain.com"                         Disabled 2019/10/09 - Canceled account
+    #99 254 1811700  Firstname_Lastname             "name@domain.com"                         Disabled 2019/10/09 - Canceled account
 
 Using `screen -r minicom`, switch to enable mode.
 
