@@ -6,7 +6,7 @@
 You must be on the shop LAN or on the shop VPN to access it. Working with [`certbot`](https://certbot.eff.org/instructions?ws=other&os=ubuntufocal&commit=%3E),
 we can get wildcard certs for all services.
 
-Caddy runs as a container on the [c220](/admins/c220/) on container named `caddy` with IP 
+Caddy runs as a container on the [c220](/admins/c220/) on container named `caddy` with IP `10.0.40.29`
 
 ## Install Caddy
 
@@ -80,7 +80,7 @@ Assuming you had a new service at `10.0.40.201` called `test.synshop.net`, you w
 1. ssh into caddy box 
 2. `vim /etc/caddy/Caddyfile`
 3. add new host entry:
-   ```
+   ```yml
    test.synshop.net {
       tls //etc/letsencrypt/live/synshop.net/fullchain.pem /etc/letsencrypt/live/synshop.net/privkey.pem
       reverse_proxy 10.0.40.201
