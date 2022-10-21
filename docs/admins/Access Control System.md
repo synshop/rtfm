@@ -52,7 +52,7 @@ Once connected to the screen session, press the `?` key and enter gives you a li
     (e)nable <password> - enable or disable priveleged mode
     (h)ardware test - Test the hardware
 
-Enter into enable mode with `e`:
+Enter into enable mode with `e`. The password is in Systems keepass under "Access Control RaspberryPi SSH (electric-badger)":
 
     e [enable_password]
     18:56:22  9/10/19 TUE Priveleged mode enabled.
