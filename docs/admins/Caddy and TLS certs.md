@@ -89,7 +89,7 @@ Assuming you had a new service at `10.0.40.201` called `test.synshop.net`, you w
 
 4. restart caddy:  `systemctl restart caddy`
 
-Note: if you need to point to a system that has a self signed cert, you need to both ignor the cert error, and add more info to the config, like this:
+Note: if you need to point to a system that has a self signed cert, you need to both ignore the cert error, and add more info to the config, like this:
 
 ```yaml
 test.synshop.net {
