@@ -82,7 +82,7 @@ Assuming you had a new service at `10.0.40.201` called `test.synshop.net`, you w
 
 1. ssh into caddy box 
 2. `vim /etc/caddy/Caddyfile`
-3. add new host entry:
+3. add new host entry (and see "Variations on Caddyfile entries" below):
 
         test.synshop.net {
            tls //etc/letsencrypt/live/synshop.net/fullchain.pem /etc/letsencrypt/live/synshop.net/privkey.pem
@@ -102,7 +102,7 @@ Set up new DNS entry:
 
 ### Variations on Caddyfile entries
 
-Step 3 above can have other options to support self signed certs and IPv6 hosts.
+Step 3 above in "Configure Caddy" can have other options to support self signed certs and IPv6 hosts (or both!).
 
 #### Self signed cert
 
