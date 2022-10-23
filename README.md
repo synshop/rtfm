@@ -1,4 +1,5 @@
 # rtfm
+![image](https://user-images.githubusercontent.com/8253488/197417157-4953dbc2-caf4-4c98-b270-8e1e24d2bd37.png)
 
 Source code for https://rtfm.synshop.org/ [![Build Status](https://travis-ci.org/synshop/rtfm.svg?branch=master)](https://travis-ci.org/synshop/rtfm)
 
