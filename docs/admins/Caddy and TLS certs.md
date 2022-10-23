@@ -76,6 +76,8 @@ be created in `/etc/letsencrypt/live/synshop.net/`
 
 ## Adding service
 
+### Configure Caddy 
+
 Assuming you had a new service at `10.0.40.201` called `test.synshop.net`, you would:
 
 1. ssh into caddy box 
@@ -88,6 +90,14 @@ Assuming you had a new service at `10.0.40.201` called `test.synshop.net`, you w
         }
 
 4. restart caddy:  `systemctl restart caddy`
+
+### Configure Pi-Hole
+
+Set up new DNS entry:
+
+1. log into [pihole](https://10.0.40.66/admin/)
+2. go to   [custom DNS](https://10.0.40.66/admin/dns_records.php)
+4. add new DNS entry for `10.0.40.29` to resolve to  `test.synshop.net`. Note that `.29` is the IP of caddy, not the IP of the service your proxying.
 
 
 ### Variations on Caddyfile entries
@@ -120,10 +130,4 @@ test.synshop.net {
         reverse_proxy [fd42:7c97:9426:8f29:216:3eff:fe0a:71c9]:80 
 }
 ```
-
-Set up new DNS entry:
-
-1. log into [pihole](https://10.0.40.66/admin/)
-2. go to   [custom DNS](https://10.0.40.66/admin/dns_records.php)
-4. add new DNS entry for `10.0.40.29` to resolve to  `test.synshop.net`. Note that `.29` is the IP of caddy, not the IP of the service your proxying.
 
