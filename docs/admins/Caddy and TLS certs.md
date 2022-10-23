@@ -89,7 +89,12 @@ Assuming you had a new service at `10.0.40.201` called `test.synshop.net`, you w
 
 4. restart caddy:  `systemctl restart caddy`
 
-Note: if you need to point to a system that has a self signed cert, you need to both ignore the cert error, and add more info to the config, like this:
+
+### Variations on Caddyfile entries
+
+Step 3 above can have other options to support self signed certs and IPv6 hosts.
+
+#### Self signed cert
 
 ```yaml
 test.synshop.net {
@@ -102,6 +107,17 @@ key.pem
             tls_insecure_skip_verify
          }
       }
+}
+```
+
+#### IPv6 entry
+
+Note the use of brackets around the IP `[]` and port at the end `:80`. 
+
+```yaml
+test.synshop.net {
+        tls /etc/letsencrypt/live/synshop.net/fullchain.pem /etc/letsencrypt/live/synshop.net/privkey.pem
+        reverse_proxy [fd42:7c97:9426:8f29:216:3eff:fe0a:71c9]:80 
 }
 ```
 
