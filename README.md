@@ -10,5 +10,5 @@ Static web-site source code, builds using [mkdocs](http://www.mkdocs.org/) with 
 
 Builds and deployments are initiated by [GH Actions](./.github/workflows/ci.yml) watching for changes to the master branch of this repo.
 
-Generated website is pushed to [rtfm-generated](https://github.com/synshop/rtfm-generat) and visible at https://rtfm.synshop.org/
+Generated website is pushed to [rtfm-generated](https://github.com/synshop/rtfm-generated) and visible at https://rtfm.synshop.org/
 
