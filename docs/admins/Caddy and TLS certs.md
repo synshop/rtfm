@@ -73,6 +73,17 @@ Though you could go through above steps again if they're lost.
 Back on the certbot box, hit return to continue the validation process. Certs should 
 be created in `/etc/letsencrypt/live/synshop.net/`
 
+## Set default cert in Caddy
+
+In `/etc/caddy/Caddyfile` declare the top most host as shown below.  All subsequent hosts will inherit this cert:
+
+```json
+# this host just declared to define default cert all other hosts inherit
+default-cert.synshop.net {
+   tls /etc/letsencrypt/live/synshop.net/fullchain.pem /etc/letsencrypt/live/synshop.net/privkey.pem
+   reverse_proxy 127.0.0.1
+}
+```
 
 ## Adding service
 
@@ -82,10 +93,9 @@ Assuming you had a new service at `10.0.40.201` called `test.synshop.net`, you w
 
 1. ssh into caddy box 
 2. `vim /etc/caddy/Caddyfile`
-3. add new host entry (and see "Variations on Caddyfile entries" below):
+3. add new host entry (and see "Variations on Caddyfile entries" below). Because we declared a default host above, we can just add 3 lines which include the `host` and `IP`.  It implicitly uses port `80` for IPv4 hosts:
 
         test.synshop.net {
-           tls //etc/letsencrypt/live/synshop.net/fullchain.pem /etc/letsencrypt/live/synshop.net/privkey.pem
            reverse_proxy 10.0.40.201
         }
 
@@ -102,14 +112,14 @@ Set up new DNS entry:
 
 ### Variations on Caddyfile entries
 
-Step 3 above in "Configure Caddy" can have other options to support self signed certs and IPv6 hosts (or both!).
+Step 3 above in "Configure Caddy" can have other options to support self signed certs and IPv6 hosts (or both!). 
 
 #### Self signed cert
 
+We go from 3 lines to 9. The main difference is that we're telling it which `IP` with `https://` and to ignore self signed certs with `tls_insecure_skip_verify`:
+
 ```yaml
 test.synshop.net {
-   tls /etc/letsencrypt/live/synshop.net/fullchain.pem /etc/letsencrypt/live/synshop.net/priv
-key.pem
    reverse_proxy {
       to https://10.0.40.201
       transport http {
@@ -126,7 +136,6 @@ Note the use of brackets around the IP `[]` and port at the end `:80`.
 
 ```yaml
 test.synshop.net {
-        tls /etc/letsencrypt/live/synshop.net/fullchain.pem /etc/letsencrypt/live/synshop.net/privkey.pem
         reverse_proxy [fd42:7c97:9426:8f29:216:3eff:fe0a:71c9]:80 
 }
 ```
