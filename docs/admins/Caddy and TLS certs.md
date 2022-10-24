@@ -77,7 +77,7 @@ be created in `/etc/letsencrypt/live/synshop.net/`
 
 In `/etc/caddy/Caddyfile` declare the top most host as shown below.  All subsequent hosts will inherit this cert:
 
-```json
+```bash
 # this host just declared to define default cert all other hosts inherit
 default-cert.synshop.net {
    tls /etc/letsencrypt/live/synshop.net/fullchain.pem /etc/letsencrypt/live/synshop.net/privkey.pem
