@@ -8,9 +8,13 @@ we can get wildcard certs for all services.
 
 Caddy runs as a container on the [c220](/admins/c220/) on container named `caddy` with IP `10.0.40.29`
 
-## Install Caddy
+Finally [Pi-Hole](https://pi-hole.net/) provides DNS to match FQDN <-> TLS CN. Pi-Hole has IP `10.0.40.66` 
 
-Assuming Ubuntu 22, following their install docs:
+## Install 
+
+### Caddy
+
+Assuming Ubuntu 22, following [their install docs](https://caddyserver.com/docs/install#debian-ubuntu-raspbian):
 
 ```bash
 sudo apt install -y debian-keyring debian-archive-keyring apt-transport-https
@@ -23,7 +27,9 @@ systemctl enable caddy
 systemctl start caddy
 ```
 
-## Install certbot
+### certbot
+
+From their [install docs](https://certbot.eff.org/instructions?ws=other&os=ubuntufocal&commit=%3E):
 
 ```bash
 sudo snap install core; sudo snap refresh core
@@ -35,7 +41,7 @@ Verify that `list-timers` will run the renew:
 systemctl list-timers|grep certbot
 ```
 
-Get the python script and make it executable:
+Get [the python script](https://github.com/joohoi/acme-dns-certbot-joohoi) and make it executable. This uses the acme-dns.io DNS service with some CNAME trickery:
 
 ```bash
 mkdir -p /etc/letsencrypt/
@@ -45,7 +51,7 @@ apt install python3
 ln -s /usr/bin/python3 /usr/bin/python
 ```
 
-## First time cert generation w/ DNS update
+### First time cert generation w/ DNS update
 
 You only have to do this ONCE!
 
