@@ -1,6 +1,6 @@
-# Freestanding Laser Cutter
+# Retina Engrave
 
-This laser cutter is from [Full Spectrum Engineering](https://fslaser.com/), and has a usable cutting area of 24" by 18".  It is driven by the RetinaEngrave (version 2) Windows software which is available as a [free download](https://fslaser.com/RetinaEngrave) from Full Spectrum Engineering. Designs can be started in the software, but often it is better to design images in a graphics program and use the Full Spectrum Engineering Printer Driver to print directly into RetinaEngrave.  To do this, start RetinaEngrave first, and then open your image file to print.
+Our laser cutters are from [Full Spectrum Engineering](https://fslaser.com/) and are driven by the RetinaEngrave (version 2) Windows software which is available as a [free download](https://fslaser.com/RetinaEngrave). Designs can be started in the software, but often it is better to design images in a graphics program and use the Full Spectrum Engineering Printer Driver to print directly into RetinaEngrave.  To do this, start RetinaEngrave first, and then open your image file to print.
 
 ##RetinaEngrave
 
