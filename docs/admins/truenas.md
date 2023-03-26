@@ -16,6 +16,7 @@ We have a NAS unit running [TrueNAS](https://www.truenas.com/) at [vault.synshop
 ----
 To add a new user to the system, you need to log into the web interface (http://vault.synshop.net), which is only possible with the root user. (Credentials are in the administrative keepass).
 To add a user:
+
 1. Go to Accounts>User in the left hand menu
 2. Click "Add User"
 3. Fill in the actual members name, and their chosen username (default to their Discord/known-as identity when possible)
