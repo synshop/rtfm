@@ -2,7 +2,7 @@
 
 ## General
 ----
-We have a NAS unit running TrueNAS at http://vault.synshop.net (http://10.0.40.30). Any member who requires some storage space for project related storage can request an account to be created for them.
+We have a NAS unit running [TrueNAS](https://www.truenas.com/) at [vault.synshop.net](http://vault.synshop.net) which is only accessible on the shop LAN and not accessible on the internet. Any member who requires some storage space for project related storage can request an account to be created for them.
 
 - There is also a folder called "stash" that is a public, general temporary space that is mounted as a shared storage by all shop computers to quickly and easily move files between devices.
 
