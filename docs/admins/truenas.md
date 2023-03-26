@@ -5,11 +5,9 @@
 We have a NAS unit running [TrueNAS](https://www.truenas.com/) at [vault.synshop.net](http://vault.synshop.net) which is only accessible on the shop LAN and not accessible on the internet. Any member who requires some storage space for project related storage can request an account to be created for them.
 
 - There is also a folder called "stash" that is a public, general temporary space that is mounted as a shared storage by all shop computers to quickly and easily move files between devices.
-
 - The Vault pool has a folder called "members" under which each user with an active account on the NAS has a personal folder.
 - The stash folder is at the same level.
 - Additional folders can be created as needed.
-
 - There are two user groups: Members and Admins. Folders can be given Members, Admin, or selected individual permissions as needed. More groups can be created if required but is not advised.
 
 ## Administration
