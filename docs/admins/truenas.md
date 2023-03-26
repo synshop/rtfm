@@ -25,7 +25,8 @@ To add a user:
 8. select /mnt/vault/members from the menu as their default home directory location. (the system will auto create a folder for them with their username)
 9. Submit!
 
-The unit is a Rackable Systems with 4x2TB sata drives, with a SAS cable to a 16 drive unit.
+The unit is a Rackable Systems with 4x2TB SATA drives, with a SAS cable to a 16 drive unit.
+
 - Drive 0 (far left) in the control unit is the OS drive at 2TB
 - Drives 2-4 are in a RAIDz pool called "Plex" for media storage.
 - Drives 5-7 are currently unused 2TB drives but will slowly be used to phase in larger capacity drives.
