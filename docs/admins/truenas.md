@@ -12,7 +12,7 @@ We have a NAS unit running [TrueNAS](https://www.truenas.com/) at [vault.synshop
 
 ## Administration
 ----
-To add a new user to the system, you need to log into the web interface (http://vault.synshop.net), which is only possible with the root user. (Credentials are in the administrative keepass).
+To add a new user to the system, you need to log into the [web interface](http://vault.synshop.net) as `root` user. Credentials for `root` in the administrative keepass in Google Drive under `TrueNAS`.
 To add a user:
 
 1. Go to Accounts>User in the left hand menu
