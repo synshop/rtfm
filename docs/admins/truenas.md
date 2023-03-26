@@ -35,6 +35,7 @@ The unit is a Rackable Systems with 4x2TB SATA drives, with a SAS cable to a 16 
 There are two network devices. LAN 1 is static assigned to 10.0.40.30. TrueNAS takes a hardline stance on never having 2 NICs on the same subnet, and has designed many elements of the OS to prevent this, so LAN 2 is not used at this time.
 
 Future to do:
-- [ ] Setup second nic on the local network on an appropriately different subnet
-- [ ] Bind both nics into one for higher throughput and reliability
-- [ ] Eventually replace user management with centralized system for the whole shop
+
+-  Setup second nic on the local network on an appropriately different subnet
+-  Bind both nics into one for higher throughput and reliability
+-  Eventually replace user management with centralized system for the whole shop
