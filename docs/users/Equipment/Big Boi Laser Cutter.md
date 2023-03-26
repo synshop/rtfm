@@ -5,5 +5,5 @@
 * Uses [Retina Engrave](/users/Equipment/Retina Engrave)
 * See also ["First Child"](/users/Equipment/First Child Laser Cutter) and ["First Child"](/users/Equipment/First Child Laser Cutter) laser cutters
 
-![ ](images/lasercutters/new.kid.far.jpg)
-![ ](images/lasercutters/new.kid.close.jpg)
+![ ](images/lasercutters/big.boi.far.jpg)
+![ ](images/lasercutters/big.boi.close.jpg)
