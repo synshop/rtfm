@@ -93,6 +93,10 @@ try to stock equipment that most people don't have access to at home, and are wo
 * SMD Hotair rework station 
 * Miscellaneous circuitry parts
 
+## Printing
+
+* [Canon iPF6400SE Large Format Printer](https://www.usa.canon.com/support/p/imageprograf-ipf6400)
+
  If you have equipment you are willing to donate, or would like to see us 
  purchase, make a comment below, or [contact us](https://synshop.org/contact).
 
