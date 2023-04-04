@@ -1,10 +1,10 @@
 # Silhoutte Cameo 
 
-The Cameo is located in the Crafts room on the chef rack, and its cabling and accesories are in a drawer on the bottom of the rack labelled 'Silhouette Accessories'.
+The Cameo is located in the Crafts room on the file cabinet next to the rack, and its cabling and accesories are in the drawer labelled 'Silhouette Accessories'.
 
 #Setup
 
-The Cameo can run in two modes, direct connect via USB, or off of a SD card.  The power cable needs to be connected in either case, but the usb cable only needs to be connected if you are going to use it directly against one of the shop PCs or your own computer. A variety of materials can be run through the Cameo, some are loaded on their own, such as vinyl, and others, such as paper or cardstock require the self adhesive cutting mat.  To use the cutting mat, remove the protective paper and press your material onto the adhesive, then load the cutting mat.  There are both pens to draw with, and blades to cut with that are to be loaded into the carrier arm.  Which you use will be up to your project, and the Studio software will provide the correct blade settings based on your material. For either, turn the lock to the left to open, insert the pen or blade, and turn the lock right to close. Do not overturn! Its simply tension with plastic, and very easy to turn past the stop.
+The Cameo can run in two modes, direct connect via USB, or off of a SD card.  The power cable needs to be connected in either case, but the usb cable only needs to be connected if you are going to drive it directly with your own computer. A variety of materials can be run through the Cameo, some are loaded on their own, such as vinyl, and others, such as paper or cardstock require the self adhesive cutting mat.  To use the cutting mat, remove the protective paper and press your material onto the adhesive, then load the cutting mat.  There are both pens to draw with, and blades to cut with that are to be loaded into the carrier arm.  Which you use will be up to your project, and the Studio software will provide the correct blade settings based on your material. For either, turn the lock to the left to open, insert the pen or blade, and turn the lock right to close. Do not overturn! Its simply tension with plastic, and very easy to turn past the stop.
 
 # Silhoutte Studio
 
