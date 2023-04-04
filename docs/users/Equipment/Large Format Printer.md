@@ -2,6 +2,8 @@
 
 The Large Format Printer is located in the Print room, and can print up to a width of 24" in full color. It should remain on at all times to prevent ink waste from nozzle flushing.
 
+See [Canon's site](https://www.usa.canon.com/support/p/imageprograf-ipf6400) for more info.
+
 
 ![ ](large.format.printer.png)
 

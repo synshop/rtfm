@@ -95,16 +95,10 @@ try to stock equipment that most people don't have access to at home, and are wo
 
 ## Printing
 
-* [Canon iPF6400SE Large Format Printer](https://www.usa.canon.com/support/p/imageprograf-ipf6400)
+* [Canon iPF6400SE 24" Large Format Printer](/users/Equipment/Large Format Printer/)
 
  If you have equipment you are willing to donate, or would like to see us 
  purchase, make a comment below, or [contact us](https://synshop.org/contact).
-
-
-
-
-
-
 
 		
 SYN Shop V 1.0 tool list on [Google Docs](https://docs.google.com/spreadsheet/pub?hl=en_US&hl=en_US&key=0AiEeg-U7TrF4dEo1WFdSYWdCcXZYNUR2N0RNajNHSVE&single=true&gid=0&output=html).
