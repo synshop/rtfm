@@ -41,8 +41,6 @@ lxc copy --refresh --verbose c220:flatline flatline
 lxc copy --refresh --verbose c220:munroebot-access-dev munroebot-access-dev
 lxc copy --refresh --verbose c220:nexus nexus
 lxc copy --refresh --verbose c220:sargonas sargonas
-lxc copy --refresh --verbose c220:shopIdentifyer shopIdentifyer
-lxc copy --refresh --verbose c220:unifi unifi
 lxc copy --refresh --verbose c220:unifi unifi
 lxc copy --refresh --verbose c220:pihole-40 pihole-40
 ```
