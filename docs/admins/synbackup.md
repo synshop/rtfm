@@ -45,7 +45,12 @@ lxc copy --refresh --verbose c220:unifi unifi
 lxc copy --refresh --verbose c220:pihole-40 pihole-40
 ```
 
-This can be run as often as you want, and ad-hoc on new containers.
+This is run once a week in a cronjub under `mrjones` user:
+
+```
+# m h  dom mon dow   command
+5   7  *   *   Sun   /home/mrjones/backup.lxd.containers.sh
+```
 
 ## Borg
 
@@ -59,6 +64,7 @@ The backup reposotory is under the `borg` user and is at `/home/borg/backups`.  
 2. Create an ssh key with out a password: `ssh-keygen -t ed25119`
 3. Create a cronjob (`crontab -e`) with two entries. Be sure to replace the password (`PASSWORD_FROM_KEEPASS`) and directories to backup (`/directory1/to/backup`) with real values:
    ```
+   # m h  dom mon dow   command
    0   4  *   *   *     BORG_PASSPHRASE=PASSWORD_FROM_KEEPASS /usr/bin/borg create -v --stats borg@10.0.40.33:/home/borg/backups::{hostname}-{now:\%Y-\%m-\%d}  /directory1/to/backup /directory2/to/backup
    0   5  *   *   *     BORG_PASSPHRASE=PASSWORD_FROM_KEEPASS /usr/bin/borg prune -v --list borg@10.0.40.33:/home/borg/backups --prefix '{hostname}' --keep-daily=7 --keep-weekly=4 --keep-monthly=6
    ```
