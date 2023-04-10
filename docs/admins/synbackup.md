@@ -51,24 +51,24 @@ This can be run as often as you want, and ad-hoc on new containers.
 
 ## Borg
 
-The backup reposotory is under the `borg` user and is at `/home/borg/backups`.  The password in is in the password safe.  There is the same password for the `borg` user and the `backups` borg archive.
+The backup reposotory is under the `borg` user and is at `/home/borg/backups`.  The password in is in the password safe.  It is the same password for the `borg` user and the `backups` borg archive.
 
 ### Adding a new machine to be backed up
 
 #### On the remote machine
 
-1.  install borg.  For Debian/Ubuntu: `apt install borgbackup`
+1. Install borg.  For Debian/Ubuntu: `apt install borgbackup`
 2. Create an ssh key with out a password: `ssh-keygen -t ed25119`
-3. create a cronjob (`crontab -e`) with two entries. Be sure to replace the password and directories to backup with real values:
+3. Create a cronjob (`crontab -e`) with two entries. Be sure to replace the password (`PASSWORD_FROM_KEEPASS`) and directories to backup (`/directory1/to/backup`) with real values:
    ```
-   0   4  *   *   *     BORG_PASSPHRASE=PASSWORD_FROM_KEEPASS /usr/bin/borg create -v --stats borg@10.0.40.33:/home/borg/backups::{hostname}-{now:%Y-%m-%d}  /directory1/to/backup /directory2/to/backup
+   0   4  *   *   *     BORG_PASSPHRASE=PASSWORD_FROM_KEEPASS /usr/bin/borg create -v --stats borg@10.0.40.33:/home/borg/backups::{hostname}-{now:\%Y-\%m-\%d}  /directory1/to/backup /directory2/to/backup
    0   5  *   *   *     BORG_PASSPHRASE=PASSWORD_FROM_KEEPASS /usr/bin/borg prune -v --list borg@10.0.40.33:/home/borg/backups --prefix '{hostname}' --keep-daily=7 --keep-weekly=4 --keep-monthly=6
    ```
    
 #### On the synbackup
 
-1. copy the public SSH key from step #2 above
-2. add it to `/home/borg/.ssh/authorized_keys`, but locked down like this.  Be sure to replace the key in this value:
+1. Copy the public SSH key from step #2 above
+2. Add it to `/home/borg/.ssh/authorized_keys`, but locked down like this.  Be sure to replace the key in this value:
   ```
   command="borg serve --append-only --restrict-to-path /home/borg/",restrict ssh-ed25519 AAAAC-SSH-KEY-HERE-EiJ root@caddy
   ```
