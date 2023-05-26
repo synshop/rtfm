@@ -23,6 +23,7 @@ Primary access is done via SSH. The users are:
 ### Setup
 
 Install LXD, run `lxd init` and accepting all defaults, except:
+
 * create a 100GB ZFS soft disk instead default smaller size
 * match the ZFS pool name to be `lxd-data`.  You can check this with `zpool list` on either machine
 * match the bridge name to be `br0`
