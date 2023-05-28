@@ -7,6 +7,37 @@ This is one of the old shop mini PCs that had Ubuntu 22.04 installed on and serv
 
 It's located on top of the c220 in the rack and has IP `10.0.40.33`
 
+## OS install
+
+1. Install Ubuntu 22.04 server
+2. static IP of 10.0.40.33
+3. After install, switch to `br0` as network connection.  This will allow LXD contianers to get an IP on the LAN.  In this example primary NIC is `enp3s0`, but this may change with each install:
+
+   ```
+   # This is the network config written by 'subiquity'
+   network:
+     ethernets:
+       enp3s0:
+         dhcp4: false 
+         dhcp6: false 
+
+     bridges:
+       br0:
+         interfaces: [enp3s0]
+         routes:
+         - to: default
+           via: 10.0.40.1
+           metric: 100
+           on-link: true
+         addresses:
+         - 10.0.40.33/24
+         nameservers:
+           addresses:
+           - 9.9.9.9
+           search: []
+     version: 2  
+   ```
+
 ## SSH
 
 Primary access is done via SSH. The users are:
