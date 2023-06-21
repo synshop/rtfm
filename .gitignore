@@ -1,3 +1,5 @@
 site/
 .idea
 local_public
+docs/.DS_Store
+.DS_Store
