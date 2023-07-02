@@ -25,19 +25,24 @@ To add a user:
 8. select /mnt/vault/members from the menu as their default home directory location. (the system will auto create a folder for them with their username)
 9. Submit!
 
-The unit is a Rackable Systems with 4x2TB SATA drives, with a SAS cable to a 16 drive unit with a mix of 2tb and 2tb drives.
+
+## Hardware
+----
+The unit is a Rackable Systems with 1x2TB and 3x12TB SATA drives, with a SAS cable to a 16 drive unit with a mix of 2tb and 3tb drives.
 
 - Drive 0 (far left) in the control unit is the OS drive at 2TB
-- Drives 1-3 in the control unit are 12TB drives in a RAIDz pool called "Plex" for media storage managed by Aakin
-- Drives 4-6 are 2TB drives in a RAIDz pool called "Jail" for the plugin system
-- Drives 7-19 are 3Tb drives in a RAIDz3 pool called "Vault".
+- Drives 1-3 in the control unit are 12TB drives in a RAIDz1 pool called "Plex" for media storage managed by Aakin
+- Drive 4 is unused (due to a clerical error thanks so a bay tracking/sn logging mixup)
+- Drives 5-7 are 2TB drives in a RAIDz1 pool called "Jail" for the plugin system
+- Drives 8-19 are 3Tb drives in a RAIDz3 pool called "Vault", the main NAS storage.
 
-_(It is possible drives 4-6 are mis-labeled and located elsewhere. This should be validated at the next maintenance opportunity)_
+Actual drive tracking is done via description notes in the Storage panel of TrueNAS. Each drive's "description" identifies what bay it is located in, as the daX numbering does not match the bays, even sequentially.
 
 There are two network devices. LAN 1 is static assigned to 10.0.40.30. TrueNAS takes a hardline philosphical stance on never having 2 NICs on the same subnet, and has designed many elements of the OS to prevent this, so LAN 2 is not used at this time until we have a LAG capable switch to hardware LAG them (which *is* supported).
 
 Future to do:
 
--  Setup second nic on the local network on an appropriately different subnet or LAG
--  Bind both nics into one for higher throughput and reliability
--  Eventually replace user management with centralized system for the whole shop
+- Setup second nic on the local network on an appropriately different subnet or LAG
+- Bind both nics into one for higher throughput and reliability
+- Eventually replace user management with centralized system for the whole shop
+- Replace the Vault array 3tb drives with larger capacity (and newer!) ones and resilver+expand the pool.
