@@ -79,6 +79,13 @@ Though you could go through above steps again if they're lost.
 Back on the certbot box, hit return to continue the validation process. Certs should 
 be created in `/etc/letsencrypt/live/synshop.net/`
 
+To ensure the wildcard cert reloads every week, add a cronjob as the root user on the caddy box:
+
+```
+# restart caddy to reload certs once a week on 8.05 every sunday
+5   8  *   *   0     /usr/bin/systemctl restart caddy
+```
+
 ## Set default cert in Caddy
 
 In `/etc/caddy/Caddyfile` declare the top most host as shown below.  All subsequent hosts will inherit this cert:
