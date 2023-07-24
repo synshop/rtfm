@@ -53,7 +53,9 @@ ln -s /usr/bin/python3 /usr/bin/python
 
 ### First time cert generation w/ DNS update
 
-You only have to do this ONCE!
+**You only have to do this ONCE!**
+
+On the Caddy box, initiate a request for `*.synshop.net` and `synshop.net` domains, with a manual DNS validation:
 
 ```bash
 sudo certbot certonly --manual --manual-auth-hook /etc/letsencrypt/acme-dns-auth.py --preferred-challenges dns --debug-challenges -d \*.synshop.net -d synshop.net
@@ -66,6 +68,7 @@ _acme-challenge.synshop.net. 	CNAME	87e00274-4d33-43fa-acc9-10839cee980a.auth.ac
 ```
 
 Create this by:
+
 1. SSH to `new-lagos.synshop.org`
 1. `sudo su -`
 1. `vim /etc/bind/master/synshop.net`
@@ -108,19 +111,24 @@ Assuming you had a new service at `10.0.40.201` called `test.synshop.net`, you w
 2. `vim /etc/caddy/Caddyfile`
 3. add new host entry (and see "Variations on Caddyfile entries" below). Because we declared a default host above, we can just add 3 lines which include the `host` and `IP`.  It implicitly uses port `80` for IPv4 hosts:
 
-        test.synshop.net {
+        foobar.synshop.net {
            reverse_proxy 10.0.40.201
         }
 
 4. restart caddy:  `systemctl restart caddy`
 
-### Configure Pi-Hole
+### Configure DNS Entry on `new-lagos.synshop.org`
 
 Set up new DNS entry:
 
-1. log into [pihole](https://10.0.40.66/admin/)
-2. go to   [custom DNS](https://10.0.40.66/admin/dns_records.php)
-4. add new DNS entry for `10.0.40.29` to resolve to  `test.synshop.net`. Note that `.29` is the IP of caddy, not the IP of the service your proxying.
+1. SSH into `new-lagos.synshop.org` and `sudo su -` to become root
+1. `vim /etc/bind/master/synshop.net`
+4. Find the collection of `CNAME`s for `caddy.synshop.net.` and add a new entry for your new service.  So if your new service was called `foobar` the entry would be:
+   ```
+   foobar                  IN      CNAME   caddy.synshop.net.
+   ```
+1. edit serial number at top to be today's date
+1. restart DNS with `rndc reload`
 
 
 ### Variations on Caddyfile entries
