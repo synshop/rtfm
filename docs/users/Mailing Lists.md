@@ -8,6 +8,6 @@ Just a little heads up about the mailing lists. The [announcement list](http://g
 
 If you’d like to join the more active mailing list, please feel free to join the SYN Shop [regular mailing list](http://groups.google.com/group/synshop).
 
-While the mailing lists still exist, they are not very active. Most people have moved to using the [SYN Shop Discord](https://synshop.org/discord){target=_blank}.
+While the mailing lists still exist, they are not very active. Most people have moved to using the [SYN Shop Discord](https://synshop.org/discord).
 
 Feel free to email the either list if you have any questions.
