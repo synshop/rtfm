@@ -6,7 +6,8 @@ If you’d be so kind, please take a moment to fill out [this quick survey](http
 
 Just a little heads up about the mailing lists. The [announcement list](http://groups.google.com/group/synshop-announce) is a very low traffic, moderated list so communications will be pretty one sided.
 
-
 If you’d like to join the more active mailing list, please feel free to join the SYN Shop [regular mailing list](http://groups.google.com/group/synshop).
+
+While the mailing lists still exist, they are not very active. Most people have moved to using the [SYN Shop Discord](https://synshop.org/discord){target=_blank}.
 
 Feel free to email the either list if you have any questions.
