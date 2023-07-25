@@ -1,4 +1,10 @@
-# synbackup
+# synbackup - CURRENTLY OFFLINE
+
+## CURRENTLY OFFLINE
+
+The backup server is currently offline.  mrjones is working on fixing it `:|`
+
+## Intro
 
 This is one of the old shop mini PCs that had Ubuntu 22.04 installed on and serves two primary purposes:
 
