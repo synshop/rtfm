@@ -14,7 +14,7 @@ We are hackers, makers, artists, innovators, inventors, people of knowledge, and
 We may be hackers, but we are hackers in the same sense that Steve Wozniak or Dean Kamen are hackers. We're not here to break into your ex's cell phone/computer/automobile, etc.. We're not the people who attack and deface web sites, steal people's credit card information, or even identities. In fact many of us work in industries which protect against such people.
 
 ## How To Get Involved
-If you are in the Las Vegas valley area and are interested in the hackerspace idea, sign up to one of our [Mailing Lists](./Mailing Lists), or show up to a [SYN Shop event](https://synshop.org/events).
+If you are in the Las Vegas valley area and are interested in the hackerspace idea, join our [discord](https://synshop.org/discord), sign up to one of our [Mailing Lists](./Mailing Lists), or show up to a [SYN Shop event](https://synshop.org/events). Or just stop by during our [open hours](https://rtfm.synshop.org/users/FAQ/#what-is-the-best-time-to-visit-syn-shop) to check the place out. 
 
 ## The Name
 What does the name "SYN Shop" mean, and why do we call ourselves by that name? When computers need to talk to one another over the network, SYN is the first packet sent out during the TCP three-way handshake. Since Hacker Spaces are about communication, we felt this was a good way of symbolizing what we do. You can also say that Syn, could stand for "Synergy". Synergy is defined as two or more things functioning together to produce a result not independently obtainable, which also fits well with the Hacker Space ideals. And lastly since we live in Las Vegas, SYN is a fun play on words and the city's often heard nick name "Sin City."
