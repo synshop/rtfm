@@ -22,18 +22,14 @@ See SYN [Shop Vision](./SYN Shop Vision.md)
 
 ## What is the best time to visit SYN Shop?
 
-Note - we're operating at reduced capacity - see our [COVID19 page](https://synshop.org/covid-19-status).
-
-When not operating at reduced capacity, our hours normally are:
-
 SYNShop is held open by volunteers, so we are usually there in the evenings outside of our day jobs. Currently,
 the shop is held during the following hours: 
 
 * Monday: 7pm - 10pm 
 * Tuesday:  7pm - 10pm  Craft night, Cybersecurity Office Hours community night (alternating)
 * Wednesday: 7pm - 10pm   DC702 Meetup (Last Wednesday of the month)
-* Thursday 6pm - 10pm
-* Friday 6:30pm - 10pm 
+* Thursday: 6pm - 10pm
+* Friday: 6:30pm - 10pm 
 * Saturday: Noon - 5pm   Sumo Robot fighting (Second Saturday of the month)  
 * Sunday: Closed 
 
