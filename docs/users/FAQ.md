@@ -26,19 +26,23 @@ Note - we're operating at reduced capacity - see our [COVID19 page](https://syns
 
 When not operating at reduced capacity, our hours normally are:
 
-* Monday: 6pm - 10pm DIY Robot Domination
-* Tuesday:  6pm - 10pm  Craft night, Community night
-* Wednesday: 6pm - 10pm 
+SYNShop is held open by volunteers, so we are usually there in the evenings outside of our day jobs. Currently,
+the shop is held during the following hours: 
+
+* Monday: 7pm - 10pm 
+* Tuesday:  7pm - 10pm  Craft night, Cybersecurity Office Hours community night (alternating)
+* Wednesday: 7pm - 10pm   DC702 Meetup (Last Wednesday of the month)
 * Thursday 6pm - 10pm
-* Friday 6pm - 10pm
-* Saturday: 3pm - 10pm
+* Friday 6:30pm - 10pm 
+* Saturday: Noon - 5pm   Sumo Robot fighting (Second Saturday of the month)  
 * Sunday: Closed 
 
-Mondays and Tuesdays are themed after interest groups. If you come to work, your project 
+Tuesdays, Wednesdays, and Saturdays are sometimes themed after interest groups. If you come to work, your project 
 does not have to match the theme. However these nights tend to attract members of the community 
-that are interested in that theme. DIY Robot Domination attracts robotics enthusiasts. Craft Night
+that are interested in that theme. Sumo Robot fighting attracts autonomous robotics enthusiasts. Craft Night
  attracts "Team Low Tech" and all others who are interested in a variety of general crafts. Think 
- of a knitting circle where one person knits, one person builds models, and another sews a quilt.
+ of a knitting circle where one person knits, one person builds models, and another sews a quilt. Cybersecurity Office Hours 
+ attracts people interested in Cybersecurity DC702 is our local Defcon enthusiasts group. 
 
 You do not need to be a member to come spend time and acclimate yourself. You do need to be a member to use our equipment.
 
