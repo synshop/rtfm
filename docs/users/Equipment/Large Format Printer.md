@@ -18,6 +18,6 @@ Materials cost are currently:
 * $0.50/ft of paper
 * $0.50/ml of ink
 
-Cash in the box print box is fine or use the online [payment form](https://synshop.org/payment) and note it's for a Large Format Printer job.
+Cash in the donation box is fine or use the online [payment form](https://synshop.org/payment) and note it's for a Large Format Printer job.
 
 To measure usage, use the Job Menu on the printer to get the Paper Length and Ink Total for each print job. See [this video](Canon.iPF6400SE.usage.howto.mp4) which shows how to access these menus.
