@@ -6,3 +6,5 @@ extra_javascript:
 markdown_extensions:
 - toc:
     permalink: ''
+repo_url: https://github.com/synshop/rtfm
+edit_uri: edit/master/docs/
