@@ -57,8 +57,7 @@ These are all the options you can use when you're in a `minicom` session connect
 
 ### Raspberry Pi
 0. SSH into badger (name of Pi) at `10.0.40.10` and `su - access`. You need to use your personal account, not the `access` account to SSH.
-1. running  `tail /home/access/logs_and_users/user_access_log.txt` on badger
-2. Swipe the unprovisioned badge at a reader
+1. Run  `tail /home/access/logs_and_users/user_access_log.txt` on badger and wipe the unprovisioned badge at a reader
 3. Get the Hex and Decimal ID by looking for `DENIED rando badge` in your `tail` command. The hex is `BAC351` and the decimal is `127077` in this line:
 
     `"8:45:42","7/28/23","DENIED rando badge","BAC351","127077","0","na","","2"`
