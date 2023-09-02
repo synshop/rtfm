@@ -3,4 +3,4 @@ site/
 local_public
 docs/.DS_Store
 .DS_Store
-.venv
+.venv*

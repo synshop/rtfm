@@ -115,7 +115,7 @@ Assuming you had a new service at `10.0.40.201` called `test.synshop.net`, you w
            reverse_proxy 10.0.40.201
         }
 
-4. restart caddy:  `systemctl restart caddy`
+4. restart caddy: `systemctl restart caddy`
 
 ### Configure DNS Entry on `new-lagos.synshop.org`
 
@@ -123,13 +123,10 @@ Set up new DNS entry:
 
 1. SSH into `new-lagos.synshop.org` and `sudo su -` to become root
 1. `vim /etc/bind/master/synshop.net`
-4. Find the collection of `CNAME`s for `caddy.synshop.net.` and add a new entry for your new service.  So if your new service was called `foobar` the entry would be:
-   ```
-   foobar                  IN      CNAME   caddy.synshop.net.
-   ```
-1. edit serial number at top to be today's date
-1. restart DNS with `rndc reload`
-
+1. Find the collection of `CNAME`s for `caddy.synshop.net.` and add a new entry for your new service.  So if your new service was called `foobar` the entry would be:
+`foobar   IN CNAME caddy.synshop.net.`
+1. Modify the serial number (SOA) at top to be today's date + a unique 2 digit integer (it looks something like `2023090116; serial, todays date + serial #` )
+1. Restart DNS with `rndc reload`.
 
 ### Variations on Caddyfile entries
 
