@@ -11,10 +11,10 @@ Tel: 702-732-8866
 Located in the NW corner of South Valley View Blvd. and Sunset Rd.  
 This is a distributor only and doesn't have scraps.
 
-### [Piper Plastics](http://www.pplastics1.com/)
+### [Plastics Plus LV - FKA Piper Plastics](https://www.plasticspluslv.com/about)
 [7260 Dean Martin Drive  
 Suite 1000  
-Las Vegas, Nevada 89118](http://maps.google.com/maps?hl=en&bav=on.2,or.r_gc.r_pw.r_qf.,cf.osb&biw=1363&bih=746&um=1&ie=UTF-8&q=piper+plastic+las+vegas+nv&fb=1&gl=us&hq=piper+plastic&hnear=0x80beb782a4f57dd1:0x3accd5e6d5b379a3,Las+Vegas,+NV&cid=0,0,251644501515819261&ei=FDtRT_TDDdLCgAekirXRDQ&sa=X&oi=local_result&ct=image&sqi=2&ved=0CBUQ_BI)  
+Las Vegas, Nevada 89118](https://maps.app.goo.gl/yC5ZusrUjjR3xJsz8)  
 Tel: 702-269-8076  
 Located at the NE corner of Dean Martin and Warm Springs  
 They will sell scrap pieces for small projects or order full sheets. Very knowledgeable.  
@@ -52,11 +52,6 @@ No Retail Store but Same-Day Local Pick-Up available!
 ### [Circuit Monkey](http://circuitmonkey.com)  
 Las Vegas, NV  
 No Retail Store. Pick-up by appointment only.  
-
-### [Fry's Electronics](http://www.frys.com)
-[6845 South Las Vegas Blvd     
-Las Vegas, NV 89119](http://maps.google.com/maps?q=6845+South+Las+Vegas+Blvd+&hl=en&ll=36.065657,-115.173272&spn=0.007294,0.007553&sll=36.129478,-115.174849&sspn=0.007288,0.007553&t=h&z=17)    
-Located at I-215 and Las Vegas Blvd.  
 
 ### [Kiesub Electronics](http://www.kiesub.com)
 [3185 S. Highland Drive, Suite 10    
