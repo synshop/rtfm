@@ -4,11 +4,8 @@
 
 Membership is hosted at both membership.synshop.org and membership-dev.synshop.org on new-lagos.synshop.org.  It's a python flask app and has a [GH Repo](https://github.com/synshop/membership.synshop.org).
 
-
 ![Screenshot of membership page with account, donation and locker prices](./images/membership.png)
-```
-apt install python3 python3.10-venv certbot debian-keyring debian-archive-keyring apt-transport-https
-```
+
 ## One time setup
 
 1. create DNS entries to server. "server" in this case on lagos-new
