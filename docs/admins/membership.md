@@ -16,8 +16,11 @@ Membership is hosted at both membership.synshop.org and membership-dev.synshop.o
 3. install `caddy` key and repo:
 
         curl -1sLf 'https://dl.cloudsmith.io/public/caddy/stable/gpg.key' | sudo gpg --dearmor -o /usr/share/keyrings/caddy-stable-archive-keyring.gpg
+        curl -1sLf 'https://dl.cloudsmith.io/public/caddy/stable/debian.deb.txt' | sudo tee /etc/apt/sources.list.d/caddy-stable.list
         sudo apt update
         sudo apt install caddy
+        systemctl start caddy
+        systemctl enable caddy
    
 4. create new `membership` user on server
 5. create new ed25519 ssh key WITHOUT a password for `membership` on server
