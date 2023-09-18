@@ -35,32 +35,49 @@ Membership is hosted at both membership.synshop.org and membership-dev.synshop.o
 6. create new `membership` user on server
 7. create new ed25519 ssh key WITHOUT a password for `membership` on server
 8. add the newly created public SSH key to the [Deploy Keys](https://github.com/synshop/membership.synshop.org/settings/keys/new) for Membership GitHub Repo. Ensure it is read only when adding it.
-9. while logged in as `membership` in `/home/membership`, clone the repo twice. You shouldn't be prmpted for authentication because of the deploy key step above:
+9. as `membership` user, clone the repo twice. You shouldn't be prompted for authentication because of the deploy key step above:
 
-        git git@github.com:synshop/membership.synshop.org.git membership.synshop.org
-        git git@github.com:synshop/membership.synshop.org.git membership-dev.synshop.org
+        git git@github.com:synshop/membership.synshop.org.git /home/membership/membership.synshop.org
+        git git@github.com:synshop/membership.synshop.org.git /home/membership/membership-dev.synshop.org
    
-10. create a virtualenv for each install:
+10. as `membership` user, create a virtualenv for each install:
 
-         cd /home/membership/membership.synshop.org
-         python3 -m venv venv;. venv/bin/activate
-         cd /home/membership/membership-dev.synshop.org
-         python3 -m venv venv;. venv/bin/activate
+        cd /home/membership/membership.synshop.org
+        python3 -m venv venv;. venv/bin/activate
+        deactivate
+        cd /home/membership/membership-dev.synshop.org
+        python3 -m venv venv;. venv/bin/activate
+        deactivate
    
-11. ensure each repo is on the correct branch:
+11. as `membership` user, ensure each repo is on the correct branch:
 
-         cd /home/membership/membership.synshop.org
-         git fetch
-         git checkout membership.synshop.net
-         cd /home/membership/membership-dev.synshop.org
-         git fetch
-         git checkout membership-dev.synshop.org
+        cd /home/membership/membership.synshop.org
+        git fetch
+        git checkout membership.synshop.net
+        cd /home/membership/membership-dev.synshop.org
+        git fetch
+        git checkout membership-dev.synshop.org
    
-12. TK: pip install stuff
-13. TK: copy config file
-14. TK: copy over two instances of TK system.service file - modify as needed
-15. TK: enable and start two systemd service
-16. TK: reboot server to make sure two services come up
+12. In both repos, ensure we've installed the python pre-reqs:
+
+        cd /home/membership/membership.synshop.org
+        . venv/bin/activate
+        pip3 install -r requirements.txt 
+        cd /home/membership/membership-dev.synshop.org
+        deactivate
+        . venv/bin/activate
+        pip3 install -r requirements.txt 
+        deactivate
+
+13. In each repo, create a new config file:
+
+        cp /home/membership/membership.synshop.org/config.py.default /home/membership/membership.synshop.org/config.py
+        cp /home/membership/membership-dev.synshop.org/config.py.default /home/membership/membership-dev.synshop.org/config.py
+
+14. Edit the 2 newly created `config.py` files to have correct values.
+15. TK: copy over two instances of TK system.service file - modify as needed
+16. TK: enable and start two systemd service
+17. TK: reboot server to make sure two services come up
 
 ## Pushing new content live
 
