@@ -11,7 +11,7 @@ Membership is hosted at both membership.synshop.org and membership-dev.synshop.o
 1. create DNS entries to server. "server" in this case on lagos-new so `membership.synshop.org` and `membership-dev.synshop.org` both have a `CNAME` for `lagos-new.synshop.org.` See [Caddy page](https://rtfm.synshop.org/admins/Caddy%20and%20TLS%20certs/#first-time-cert-generation-w-dns-update) which talks about making new DNS entries.
 2. on server, install pre-reqs:
    
-        apt install python3 python3.10-venv certbot debian-keyring debian-archive-keyring apt-transport-https 
+        apt install python3 python3.10-venv certbot debian-keyring debian-archive-keyring apt-transport-https gunicorn
    
 3. install `caddy` key, repo and binary:
 
