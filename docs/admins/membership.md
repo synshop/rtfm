@@ -74,35 +74,13 @@ Membership is hosted at both membership.synshop.org and membership-dev.synshop.o
         cp /home/membership/membership.synshop.org/config.py.default /home/membership/membership.synshop.org/config.py
         cp /home/membership/membership-dev.synshop.org/config.py.default /home/membership/membership-dev.synshop.org/config.py
 
-14. Edit the 2 newly created `config.py` files to have correct values. See note below about Encrypted values.
+14. Edit the 2 newly created `config.py` files to have correct values. Be sure to read the service file in the next step on how to Encrypted values.
 15. Copy over two instances `service/membership.service` and `service/membership-dev.service` both to `/etc/systemd/system`
 16. Edit the the two files in `/etc/systemd/system`  to have the right value for `ENCRYPTION_KEY`.  
 17. Reload systemd and start and enable the services: `systemctl start membership;systemctl start membership-dev;systemctl enable membership;systemctl enable membership-dev`
 18. Reboot server to make sure two services come up
 
-### Encrypted values
 
-Please note that all of the properties starting with `ENCRYPTED_` are encrypted.  When the application starts up, it will prompt you for a single decryption password.  This is the same password that you will use to encrypt the properties using the cli tool `./crypto/encrypt` and `./crypto/decrypt`.
-
-In order for the decryption to work, you need to use the same password to encrypt all of the 6 values. Here's an example of encrypting the string `foo` with the password of also `foo`:
-
-    python3 ./crypto/encrypt
-    Please enter the encryption key:
-    Please enter the plaintext you wish to encrypt:
-    Encrypted Value: aSy9t6N2sxEDN+WzPyXKVA==
-
-So, if you wanted `foo` to be the value for the `ENCRYPTED_DATABASE_PASSWORD` you would define it like this in `config.py`:
-
-    ENCRYPTED_DATABASE_PASSWORD = 'aSy9t6N2sxEDN+WzPyXKVA=='
-
-If you need to decrypt, it's the same process, but in reverse:
-
-    python3 ./crypto/decrypt
-    Please enter the decryption key: 
-    Please enter the ciphertext you wish to decrypt: 
-    Plaintext Value: foo
-
-Again, you need to use the same password for each of the 6 encrypted strings in your config file.
 
 ## Pushing new content live
 
