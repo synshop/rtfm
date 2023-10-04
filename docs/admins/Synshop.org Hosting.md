@@ -77,36 +77,35 @@ owned by `synshop-org` user: `chown synshop-org:synshop-org -R /srv/synshop.org/
    ```
 4. as `synshop-org` user, make the file executable: `chmod +x /home/synshop-org/build-site.sh`
 5. as `synshop-org` user, make another file called `/home/synshop-org/check-for-updates-and-push.sh` with this contents:
-    ```
-    # Checks for local version (current) and then remote version on GH (latest)
-    # and if they're not the same, run update script
-    #
-    # uses lasttversion:  https://github.com/dvershinin/lastversion
-    # see: https://blog.plip.com/2023/09/17/dead-simple-continuous-deployment/
+   ```
+   # Checks for local version (current) and then remote version on GH (latest)
+   # and if they're not the same, run update script
+   #
+   # uses lasttversion:  https://github.com/dvershinin/lastversion
+   # see: https://blog.plip.com/2023/09/17/dead-simple-continuous-deployment/
 
-    current=$(cd /home/synshop-org/synshop.org;/usr/bin/git describe --tags)
-    latest=$(/usr/local/bin/lastversion https://github.com/synshop/synshop.org)
+   current=$(cd /home/synshop-org/synshop.org;/usr/bin/git describe --tags)
+   latest=$(/usr/local/bin/lastversion https://github.com/synshop/synshop.org)
 
-    update(){
+   update(){
             cd /home/synshop-org/synshop.org
             git fetch
             git -c advice.detachedHead=false checkout "$latest"
             /home/synshop-org/build-site.sh
-    }
+   }
 
-    # todo - put in production discord webhook address instead plip placeholder
-    announce(){
-            /usr/bin/curl -i -H "Accept: application/json" -H "Content-Type:application/json" -X POST --data "{\"content\": \"Website has been updated from "$current" to "$latest". Check it out at https://synshop.org .  See changes at https://github.com/synshop/synshop.org/releases/tag/"$latest"\"}" https://plip.com/synshop
-    }
+   # todo - put in production discord webhook address instead plip placeholder
+   announce(){
+           /usr/bin/curl -i -H "Accept: application/json" -H "Content-Type:application/json" -X POST --data "{\"content\": \"Website has been updated from "$current" to "$latest". Check it out at https://synshop.org .  See changes at https://github.com/synshop/synshop.org/releases/tag/"$latest"\"}" https://plip.com/synshop
+   }
 
-
-    if [ ! "$current" = "$latest" ];then
-            $(update)
-            # $(announce)
-            echo "New version found, upgraded from $current to $latest"
-    else
-            echo "No new version found, staying on $current."
-    fi
-    ```
+   if [ ! "$current" = "$latest" ];then
+           $(update)
+           # $(announce)
+           echo "New version found, upgraded from $current to $latest"
+   else
+           echo "No new version found, staying on $current."
+   fi
+   ```
 6. as `synshop-org` user, make the file executable: `chmod +x /home/synshop-org/check-for-updates-and-push.sh`
 7. as `synshop-org` user, Add a cron job for every 5 minutes to run `check-for-updates-and-push.sh`
