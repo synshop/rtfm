@@ -2,9 +2,9 @@
 
 ## Intro 
 
-The main [shop website](https://synshop.org) is hosted on new lagos (`new-lagos.synshop.org`) via [Certbot](https://certbot.eff.org/). A script 
-pulls from the  [main repo on github](https://github.com/synshop/synshop.org) and then uses [Jekyll](https://jekyllrb.com/) to build the site into the directy 
-where [Caddy](https://caddyserver.com/) serves the static files from.  There is a script that runs every 5 minutes to check for a new version on Github.
+The main [shop website](https://synshop.org) is hosted on new lagos (`new-lagos.synshop.org`) with the web server [Caddy](https://caddyserver.com/). A script 
+pulls from the [main repo on github](https://github.com/synshop/synshop.org) and then uses [Jekyll](https://jekyllrb.com/) to build the site into the directy 
+where Caddy serves the static files from.  There is a script that runs every 5 minutes to check for a new version on Github.
 
 ## Updating the website
 
