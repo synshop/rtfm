@@ -3,8 +3,7 @@
 ## Intro 
 
 The main [shop website](https://synshop.org) is hosted on [Cloudflare](https://www.cloudflare.com/plans/free/) . GitHub Actions 
-pulls from the [main repo on github](https://github.com/synshop/synshop.org) and then uses [Jekyll](https://jekyllrb.com/) to build the site into the directy 
-where Caddy serves the static files from Cloudflare.  T
+pulls from the [main repo on github](https://github.com/synshop/synshop.org) and then uses [Jekyll](https://jekyllrb.com/) to build the site so we can push static files to Cloudflare's servers.
 
 ## Updating the website
 
