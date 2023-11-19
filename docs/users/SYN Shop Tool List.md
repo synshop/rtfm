@@ -78,6 +78,7 @@ try to stock equipment that most people don't have access to at home, and are wo
 * Leather hand tools, punches and scrap leather
 * Airbrush - we have basic airbrush paints, if you need something specific, bring it. We recommend Createx brand paints, for optimal flow
 * Consew Industrial Sewing Machine - if you were previously signed off on it, bring your own thread!
+* 24" acrylic bender
 
 ## Electronics
 
