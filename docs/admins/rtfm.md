@@ -29,10 +29,11 @@ There are two repos to house content.  One repo, [rtfm](https://github.com/synsh
 
 The robot account (`monitoring-synshop-bot`) needs to regenerate the personal access token every 90 days. We set it to expire in 90 days so we remember how to regenerate it - if we set it for a year we'll never remember.  These are the steps:
 
-1. get a copy of the password safe
+1. get a copy of the SYN Shop Systems password safe
 2. using the credentials in that safe for `monitoring-synshop-bot`, log into https://github.com
-3. Create a [new access token](https://github.com/settings/tokens/new).  It should have full "repo" perms.  Set it to expire in 90 days. **Be sure to copy the token - it will only be shown once!!**
-4. Log out of that account, and log into an account that is in [the SYN Shop org](https://github.com/orgs/synshop/people)
-5. Find the `DEPOLY_TO_RTFM_SITE` on the [Actions secrets page](https://github.com/organizations/synshop/settings/secrets/actions) and  click the pencel to edit the value
-6. Where it says "Secret values are encrypted and cannot be displayed, but you can **enter a new value**" - click the link to enter a new value.
-7. paste in the value from step 3 above and save
+3. Go to the accounts [token page](https://github.com/settings/tokens/new).  And click the name of token that start with "rtfm".
+4. Then click the button "Regenerate token" Set it to expire in 90 days. **Be sure to copy the token - it will only be shown once!!**
+5. Log out of that account, and log into an account that is in [the SYN Shop org](https://github.com/orgs/synshop/people)
+6. Find the `DEPOLY_TO_RTFM_SITE` on the [Actions secrets page](https://github.com/organizations/synshop/settings/secrets/actions) and  click the pencel to edit the value
+7. Where it says "Secret values are encrypted and cannot be displayed, but you can **enter a new value**" - click the link to enter a new value.
+8. paste in the value from step 3 above and save
