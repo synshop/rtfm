@@ -34,13 +34,13 @@ try to stock equipment that most people don't have access to at home, and are wo
 * Free Standing Power Tools 
     * ShopBot [PRSstandard CNC 96-48](https://www.shopbottools.com/products/standard)
     * Table Saw - Delta cabinet saw 
-    * Band Saw 
-    * 14" Surface Planer - Hitachi 
+    * Track Saw: Grizzly PRO T33300 - 6-1/4" Track Saw with 110 inch rails
+    * Bandaw (Grizzly G0513ANV - 17" 2 HP Bandsaw, Anniversary Edition)
+    * Router table: Ryobi router and table
+    * 14" Surface Planer - Powermatic 
     * 8" Jointer 
     * Drill Press - Craftsman Professional 3/4 hp 17'' Drill Press 
     * Dust Collector to all free stranding tools
-    * Table Saw
-    * Shaper
     
 * Hand Tools
     * Many, oh so many
