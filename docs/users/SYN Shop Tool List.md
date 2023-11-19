@@ -20,7 +20,7 @@ try to stock equipment that most people don't have access to at home, and are wo
 ## Carpentry / CNC / Shop Equipment
 
 * Lathes
-    * Shopsmith Lathe
+    * 12 in. x 33 in. 3/4 HP Wood Lathe with Reversible Head
 
 * Bench Top Power Tools
     * Compound Miter Saw 
@@ -29,7 +29,7 @@ try to stock equipment that most people don't have access to at home, and are wo
     * Oscillating Spindle Sander
     * Belt Sander
 
-* Kiln - for meting stuff
+* Kiln - for melting stuff
 
 * Free Standing Power Tools 
     * ShopBot [PRSstandard CNC 96-48](https://www.shopbottools.com/products/standard)
