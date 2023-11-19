@@ -35,7 +35,7 @@ try to stock equipment that most people don't have access to at home, and are wo
     * ShopBot [PRSstandard CNC 96-48](https://www.shopbottools.com/products/standard)
     * Table Saw - Delta cabinet saw 
     * Band Saw 
-    * Surface Planer - Hitachi 
+    * 14" Surface Planer - Hitachi 
     * 8" Jointer 
     * Drill Press - Craftsman Professional 3/4 hp 17'' Drill Press 
     * Dust Collector to all free stranding tools
