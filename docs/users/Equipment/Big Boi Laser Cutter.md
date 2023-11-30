@@ -8,6 +8,11 @@
 ![ ](images/lasercutters/big.boi.far.jpg)
 ![ ](images/lasercutters/big.boi.close.jpg)
 
+## Current Status
+
+- Currently the laser is not powering on
+- Red alignment beam is also not functioning
+  
 ### Maintenance Log
 **2023-11-29 - Rebuilt Power Switch Key assembly** - Nuke Mike
 
