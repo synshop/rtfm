@@ -10,8 +10,7 @@
 
 ## Current Status
 
-- Currently the laser is not powering on
-- Red alignment beam is also not functioning
+- **Functional**
   
 ### Maintenance Log
 **2023-11-29 - Rebuilt Power Switch Key assembly** - Nuke Mike
