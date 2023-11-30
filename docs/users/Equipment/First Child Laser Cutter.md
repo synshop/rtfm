@@ -7,3 +7,10 @@
 
 ![ ](images/lasercutters/first.child.far.jpg)
 ![ ](images/lasercutters/first.child.close.jpg)
+
+## Current Status
+
+- **Functional** - Laser cutter can be used by members.
+- **Remaining Issues:** No issues at this time.
+  
+### Maintenance Log
