@@ -10,9 +10,9 @@
 
 ### Maintenance Log
 **2023-11-29 - Rebuilt Power Switch Key assembly** - Nuke Mike
-  - Discovered one leg of the power circuit was loose
-  - Discovered one side of the dual switch was broken
-  - Reconnected circuit
-  - Switched key switch to the other side of the switch assembly, which is new/untouched.
-  - Reassembled switch assembly in laser cutter
-  - Still no go; but key was tested to work correctly. Issue has now been traced to the ground-fault box.
+- Discovered one leg of the power circuit was loose
+- Discovered one side of the dual switch was broken
+- Reconnected circuit
+- Switched key switch to the other side of the switch assembly, which is new/untouched.
+- Reassembled switch assembly in laser cutter
+- Still no go; but key was tested to work correctly. Issue has now been traced to the ground-fault box.
