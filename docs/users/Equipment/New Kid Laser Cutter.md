@@ -7,3 +7,9 @@
 
 ![ ](images/lasercutters/new.kid.far.jpg)
 ![ ](images/lasercutters/new.kid.close.jpg)
+
+## Current Status
+
+- **Non-operational** - Laser cutter is not functional at this time.
+  
+### Maintenance Log
