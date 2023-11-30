@@ -8,8 +8,8 @@
 ![ ](images/lasercutters/big.boi.far.jpg)
 ![ ](images/lasercutters/big.boi.close.jpg)
 
-# Maintenance Log
-- 2023-11-29 - Rebuilt Power Switch Key assembly - Nuke Mike
+!!! Maintenance Log
+- !!!!!! 2023-11-29 - Rebuilt Power Switch Key assembly - Nuke Mike
   - Discovered one leg of the power circuit was loose
   - Discovered one side of the dual switch was broken
   - Reconnected circuit
