@@ -10,7 +10,8 @@
 
 ## Current Status
 
-- **Functional**
+- **Functional** - Laser cutter can be used by members
+- **Remaining Issues:** Red alignment dot not super visible across most of the cutting area.
   
 ### Maintenance Log
 **2023-11-29 - Rebuilt Power Switch Key assembly** - Nuke Mike
