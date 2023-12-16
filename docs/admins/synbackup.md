@@ -1,8 +1,4 @@
-# synbackup - CURRENTLY OFFLINE
-
-## CURRENTLY OFFLINE
-
-The backup server is currently offline.  mrjones is working on fixing it `:|`
+# synbackup 
 
 ## Intro
 
