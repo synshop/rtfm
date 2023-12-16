@@ -1,11 +1,17 @@
 # Traffic Light
 
+## Current status
+
+After the move to Harrison Dr in November 2020, the light is disabled but on display by the front entrance of the shop.
+
+## About 
+
 This is a re-purposed traffic light that tells if the shop is open or not:
 
   * Green - we're open, come on in!
   * Yellow - we're closing in 30 min or less, hurry up!
   * Red - we're closed. Please come another time!
-  
+
 ## History
 
 This originally was at the old shop in the display window when we were at 117 N 4th St, Las Vegas.  It had a manual timer that you could set for how long it should stay on.  When it first turned on it would show green and when there was 30 min left on the timer, it would turn yellow:
@@ -14,7 +20,11 @@ This originally was at the old shop in the display window when we were at 117 N 
 
 After the move to the location to 1075 American Pacific, at some point it broke.  
 
-## Current status
+### Revived in 2020
+
+Information below is no longer current - keeping for historical reference or if we revive it at the new Harrison Dr  shop.  
+
+-------
 
 As of Feb 2020, it has been revived with the power or IoT!  It now has an [ESP32 chip](https://en.wikipedia.org/wiki/ESP32) that powers a screen, web server controller and automated timer.   
 
