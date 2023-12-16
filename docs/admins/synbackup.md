@@ -13,9 +13,10 @@ It's located on top of the c220 in the rack and has IP `10.0.40.33`
 
 1. Install Ubuntu 22.04 server
 2. static IP of 10.0.40.33
-3. After install, switch to `br0` as network connection.  This will allow LXD contianers to get an IP on the LAN.  In this example primary NIC is `enp3s0`, but this may change with each install:
+3. After install, switch to `br0` as network connection by editing `/etc/netplan/00-installer-config.yaml` to look like the contents below.  This will allow LXD contianers to get an IP on the LAN.  In this example primary NIC is `enp3s0`, but this may change with each install:
 
    ```
+
    # This is the network config written by 'subiquity'
    network:
      ethernets:
