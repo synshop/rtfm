@@ -7,9 +7,10 @@ try to stock equipment that most people don't have access to at home, and are wo
 
 * 3D Printers:
     * [Cetus3D](https://www.cetus3d.com/) - PLA Only printer
-    *  [Replicator 2](https://www.makerbot.com/) - PLA Only printer, 100 micron print resolution
-    *  [Flashforge Dual Extruder 3D Printers](https://store.flashforge.com/) (ABS/PLA, 100 micron print resolution)
-    *  [Anycubic Photon Series LCD-Based SLA Resin 3D Printer](https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-3d-printer)
+    * [Replicator 2](https://www.makerbot.com/) - PLA Only printer, 100 micron print resolution
+    * [Flashforge Dual Extruder 3D Printers](https://store.flashforge.com/) (ABS/PLA, 100 micron print resolution)
+    * [Anycubic Photon Series LCD-Based SLA Resin 3D Printer](https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-3d-printer)
+    * [Fusion 3 F400-s](/users/Equipment/F400-s) - Large format PLA 3D Printer
 * Full Spectrum Laser Cutters:
     * All laser cutters use [Retina Engrave](/users/Equipment/Retina Engrave)
     * ["First Child"](/users/Equipment/First Child Laser Cutter) -  90 Watt Pro LF Series 24" x 18" CO2
@@ -32,14 +33,14 @@ try to stock equipment that most people don't have access to at home, and are wo
 * Kiln - for melting stuff
 
 * Free Standing Power Tools 
-    * ShopBot [PRSstandard CNC 96-48](https://www.shopbottools.com/products/standard)
-    * Table Saw - Delta cabinet saw 
-    * Track Saw: Grizzly PRO T33300 - 6-1/4" Track Saw with 110 inch rails
-    * Bandaw (Grizzly G0513ANV - 17" 2 HP Bandsaw, Anniversary Edition)
+    * [ShopBot](/users/Equipment/ShopBot) PRSstandard CNC [96-48](https://www.shopbottools.com/products/standard)
+    * [Table Saw](/users/Equipment/Table Saw) - Delta cabinet saw 
+    * [Track Saw: Grizzly PRO T33300](/users/Equipment/Track Saw) - 6-1/4" Track Saw with 110 inch rails
+    * [Band Saw](/users/Equipment/Band Saw) (Grizzly G0513ANV - 17" 2 HP Band Saw, Anniversary Edition)
     * Router table: Ryobi router and table
-    * 14" Surface Planer - Powermatic 
-    * 8" Jointer 
-    * Drill Press - Craftsman Professional 3/4 hp 17'' Drill Press 
+    * [14" Surface Planer](/users/Equipment/Surface Planer) - Powermatic 
+    * [8" Jointer](/users/Equipment/Jointer)
+    * [Drill Press](/users/Equipment/Drill Press) - Craftsman Professional 3/4 hp 17'' Drill Press 
     * Dust Collector to all free stranding tools
     
 * Hand Tools
@@ -62,8 +63,8 @@ try to stock equipment that most people don't have access to at home, and are wo
 * Cincinnati Knee Mill
 * Mini Metal Lathe
 * 10" x 30" Metal Lathe
-* Vertical Metal Bandsaw
-* Horizontal Metal Bandsaw
+* Vertical Metal Band Saw
+* Horizontal Metal Band Saw
 * Drill Press
 
 ## Welding
