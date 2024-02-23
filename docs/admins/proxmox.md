@@ -91,4 +91,59 @@ To add a new  ISO so that you can create a VM with it later:
 
 ## NAS Drives
 
+These 4 x 12TB SATA drives have been provisioned a few different ways, none of which have worked out.  
 
+### TrueNAS
+
+Originally it was thought that having some redundancy was helpful, so a 32TGB ZFS Raidz1 was created by passing them through raw to TrueNAS.  Something like:
+
+1. Create a TrueNAS install in a new VM, but don't provision any storage.  Resulting VM ID was `102`. 
+2. As `root` on the Proxmox machine (via web Shell), find the raw device IDs:
+
+    <pre>root@proxmox:~# ls -al /dev/disk/by-id | egrep 'ZTN1CWZL|ZTN1AT71|ZTN19LH8|ZRT122RV'
+    lrwxrwxrwx 1 root root   9 Feb  4 15:18 ata-ST12000VN0008-2PH103_ZTN19LH8 -> ../../sda
+    lrwxrwxrwx 1 root root   9 Feb  4 15:08 ata-ST12000VN0008-2PH103_ZTN1AT71 -> ../../sdb
+    lrwxrwxrwx 1 root root   9 Feb  4 15:16 ata-ST12000VN0008-2PH103_ZTN1CWZL -> ../../sdd
+    lrwxrwxrwx 1 root root   9 Feb  4 15:10 ata-ST12000VN0008-2YS101_ZRT122RV -> ../../sdf</pre>
+
+   
+3. Still in the `root` shell, pass the raw devices into the TrueNAS VM which has ID `102`:
+   
+    <pre>qm set 102 -scsi1 /dev/disk/by-id/ata-ST12000VN0008-2PH103_ZTN19LH8
+    qm set 102 -scsi2 /dev/disk/by-id/ata-ST12000VN0008-2PH103_ZTN1AT71
+    qm set 102 -scsi3 /dev/disk/by-id/ata-ST12000VN0008-2PH103_ZTN1CWZL
+    qm set 102 -scsi4 /dev/disk/by-id/ata-ST12000VN0008-2YS101_ZRT122RV</pre>
+   
+5. Reboot the TrueNAS VM to make sure it can see the new disks added to the VM.  
+6. Use the TrueNAS web GUI to add the 4 drives to a ZFS Raidz1 volume
+
+
+### MergerFS
+
+Realizing that we wanted full 48TB with no redundancy, we thought that [MergerFS](https://github.com/trapexit/mergerfs) would work better. The TrueNAS VM was deleted and then the following was done:
+
+1. Format the 4 drives as `ext4` (do this once per drive ID): `mkfs.ext4 /dev/disk/by-id/ata-ST12000VN0008-2YS101_ZRT122RV`
+2. Create mount directories: `mkdir /mnt/nas;mkidr /mnt/nas/ZRT122RV;mkdir /mnt/nas/ZTN1CWZL;/mnt/nas/ZTN1AT71;/mnt/nas/ZTN19LH8`
+3. Add an `/etc/fstab` entry that mounted all 4 in `/mnt/nas` and then user `mergfs` to mount all 4 in one line to `/mnt/nas-all`:
+
+    <pre>
+    /dev/disk/by-id/ata-ST12000VN0008-2YS101_ZRT122RV  /mnt/nas/ZRT122RV    ext4    defaults     0   0
+    /dev/disk/by-id/ata-ST12000VN0008-2PH103_ZTN19LH8  /mnt/nas/ZTN19LH8    ext4    defaults     0   0
+    /dev/disk/by-id/ata-ST12000VN0008-2PH103_ZTN1AT71  /mnt/nas/ZTN1AT71    ext4    defaults     0   0
+    /dev/disk/by-id/ata-ST12000VN0008-2PH103_ZTN1CWZL  /mnt/nas/ZTN1CWZL    ext4    defaults     0   0
+
+    /mnt/nas/* /mnt/nas-all fuse.mergerfs defaults,nonempty,allow_other,use_ino,cache.files=off,moveonenospc=true,category.create=mfs,dropcacheonclose=true,minfreespace=250G,fsname=mergerfs 0 0</pre>
+
+4. checking `df -h`, we can see this is working as expected:
+
+    <pre>
+    root@proxmox:~# df -h|egrep 'Size|nas'
+    Filesystem            Size  Used Avail Use% Mounted on
+    /dev/sdf               11T   36K   11T   1% /mnt/nas/ZRT122RV
+    /dev/sda               11T   36K   11T   1% /mnt/nas/ZTN19LH8
+    /dev/sdb               11T   36K   11T   1% /mnt/nas/ZTN1AT71
+    /dev/sdd               11T   40K   11T   1% /mnt/nas/ZTN1CWZL
+    mergerfs               44T  148K   42T   1% /mnt/nas-all</pre>
+5. This was then added to Proxmox as a `Directory`, but this looks to not be the best path forward. Proxmox then tried to format all 48TB as another drive or something?  Likely we want to undue all this and pass the raw devices into a new NAS based VM that can provision MergerFS volume in there and then share that out to the LAN.
+
+Next steps TBD!
