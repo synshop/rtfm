@@ -82,18 +82,27 @@ try to stock equipment that most people don't have access to at home, and are wo
 * 24" acrylic bender
 
 ## Electronics
-
-* Soldering Irons
-* Multimeters
-* Heat Guns
-* Oscilloscope - Tektronix 2225 50Mhz 2ch
-* USB Oscilloscope 
-* Signal Generator
-* Bench Top Power Supply - Raytheon
-* Bus Pirate 
-* Digital Multi Meter 
-* SMD Hotair rework station 
-* Miscellaneous circuitry parts
+### Soldering
+* Soldering Irons - Hakko FX-888
+* SMD Hot Air Rework Station - Aoyue 2702 with all nozzles
+### Meters
+* CAT III Multimeters
+* LCR (Inductance-Capacitance-Resistance) Meter
+* AC Clamp-on Ammeter
+* Many other test and measurement meters
+### Test Equipment
+* Oscilloscope - OWON DS8102V 100 MHz 2-channel
+* Signal Generator - HP 33120A
+* Lab Power Supplies
+### Phone/Computer Repair
+* iFixit Kits
+* Phone Case Seperator
+### Prototyping
+* Circuit Trainer - Elenco XK-700
+* Breadboards and Jumpers
+* Prototyping Parts
+* ### Other
+* Lots of miscellaneous circuitry parts
 
 ## Printing
 
