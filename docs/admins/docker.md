@@ -3,7 +3,9 @@
 ## Overview
 
 There is a vm "Docker" on Proxmox. This is a centralized docker host for any docker containers needed. The ssh creds for this host are located in keepass.
+
 There is a docker container for Portainer running, which is a web interface used for managing all other containers. This interface can be used to deply other compose files, maintain existing ones, and has granular user permissions if we ever need to give isolated user perms.
+
 The webUI login is in keepass and can be reached at http://portainer.synshop.net:9000
 
 ## Updating portainer
