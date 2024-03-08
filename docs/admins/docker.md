@@ -33,4 +33,5 @@ This is not a comprehensive portainer guide. However some basics are as follows:
 ### To Do:
 
 1. Install traefik to act as a reverse proxy, so we can rely on port 80/443 with self hosted *.synshop.net tls certs for all containers.
-2. 
+2. Install a container for automatic volume backups
+3. Install a container for Homepage as the default shop landing page with links to all internal services. 
