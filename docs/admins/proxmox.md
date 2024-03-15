@@ -68,6 +68,28 @@ To add a new  ISO so that you can create a VM with it later:
 
 ![Screenshot of adding a new ISO with 4 arrows denoting order of steps](./images/new.iso.png)
 
+
+## Creating a new container
+
+1. On the left, Click "Datacenter" and then "Proxmox"
+2. In the upper right click "Create CT"
+3. On the `General` screen fill out `hostname`, `password` and `confirm password`. Add your own `SSH Public key(s)` and then leave the rest default. **Note** - by default containers won't allow yout to SSH with a password, only SSHs keys
+5. Click `Next`
+6. On the `Template` screen,  for `Storage` choose `local` and choose `Ubuntu` from the  `Template` drop down.
+7.  Click `Next`
+6. On the `Disks` screen,  for `Storage` choose `vmdata` and choose `30`  for  `Disk size (GiB)`.  leave the rest default.
+7.  Click `Next`
+8.  On the `CPU` screen,  for `Cores` choose `2` and  leave the rest default.
+9.  Click `Next`
+10.  On the `Memory` screen,  for `Memory` choose `2048` and  leave the rest default.
+11.  Click `Next`
+12.  On the `Network` screen,  for `IPv4/CIDR` choose an avail static IP.  For `Gateway` enter `10.0.40.1`  and  leave the rest default.
+13.  Click `Next`
+14.  On the `DNS` screen,  for `DNS Servers` enter enter `10.0.40.66`
+15.  Click `Next`
+16.  On the final `Confirm` screen choose `Start after created` and click `Finish`
+17.  After the container is created choose it from the list on the right, click on `Options` and double click `Start at boot` to be checked
+
 ## Creating a new VM
 
 1. On the left, Click "Datacenter" and then "Proxmox"
@@ -87,7 +109,6 @@ To add a new  ISO so that you can create a VM with it later:
 15. On the `Confirm` screen, review all data and click `Finish` 
 16. Click on the right side of the screen where your new VM shows up as `NUMBER (Name)` eg `102 (truenas)`
 17. Click `Console` and choose `Start now` 
-
 
 ## NAS Drives
 
