@@ -6,7 +6,7 @@ There is a vm "Docker" on [Proxmox](/admins/proxmox/), an Ubuntu host. This is a
 
 There is a docker container for Portainer running, which is a web interface used for managing all other containers. This interface can be used to deply other compose files, maintain existing ones, and has granular user permissions if we ever need to give isolated user perms.
 
-The webUI login is in keepass and can be reached at [https://portainer.synshop.net](portainer.synshop.net)
+The webUI login is in keepass and can be reached at [portainer.synshop.net](https://portainer.synshop.net)
 
 ## Updating portainer
 
