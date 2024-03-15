@@ -6,9 +6,9 @@
 You must be on the shop LAN or on the shop VPN to access it. Working with [`certbot`](https://certbot.eff.org/instructions?ws=other&os=ubuntufocal&commit=%3E),
 we can get wildcard certs for all services.
 
-Caddy runs as a container on the [c220](/admins/c220/) on container named `caddy` with IP `10.0.40.29`
+Caddy runs as a container on the [proxmox server](/admins/proxmox/) on container named `caddy` with IP `10.0.40.29`
 
-Finally [Pi-Hole](https://pi-hole.net/) provides DNS to match FQDN <-> TLS CN. Pi-Hole has IP `10.0.40.66` 
+Finally `new-lagos.synshop.org`  provides DNS with `bind` to match FQDN <-> TLS CN. See below to update DNS entries.
 
 ## Install 
 
@@ -29,16 +29,20 @@ systemctl start caddy
 
 ### certbot
 
-From their [install docs](https://certbot.eff.org/instructions?ws=other&os=ubuntufocal&commit=%3E):
+With the way proxmox does LXC containers,  the normal [install docs](https://certbot.eff.org/instructions?ws=other&os=ubuntufocal&commit=%3E) don't work.  Instead we had to use `pip` and friends to achieve the same result:
 
 ```bash
-sudo snap install core; sudo snap refresh core
+sudo apt update && sudo apt install python3 python3-venv libaugeas0
+sudo python3 -m venv /opt/certbot/
+sudo /opt/certbot/bin/pip install --upgrade pip
+sudo /opt/certbot/bin/pip install certbot certbot
+sudo ln -s /opt/certbot/bin/certbot /usr/bin/certbot
 ```
 
-Verify that `list-timers` will run the renew:
+Then add a cronjob to check for renawals:
 
-```bash
-systemctl list-timers|grep certbot
+```
+echo "0 0,12 * * * root /opt/certbot/bin/python -c 'import random; import time; time.sleep(random.random() * 3600)' && sudo /usr/bin/certbot renew -q" | sudo tee /etc/cron.d/certbot > /dev/null
 ```
 
 Get [the python script](https://github.com/joohoi/acme-dns-certbot-joohoi) and make it executable. This uses the acme-dns.io DNS service with some CNAME trickery:
@@ -47,7 +51,6 @@ Get [the python script](https://github.com/joohoi/acme-dns-certbot-joohoi) and m
 mkdir -p /etc/letsencrypt/
 curl -o /etc/letsencrypt/acme-dns-auth.py https://raw.githubusercontent.com/joohoi/acme-dns-certbot-joohoi/master/acme-dns-auth.py
 chmod +x /etc/letsencrypt/acme-dns-auth.py
-apt install python3
 ln -s /usr/bin/python3 /usr/bin/python
 ```
 
