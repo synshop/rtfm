@@ -2,7 +2,7 @@
 
 ## Overview
 
-There is a vm "Docker" on Proxmox. This is a centralized docker host for any docker containers needed. The ssh creds for this host are located in keepass.
+There is a vm "Docker" on [Proxmox](/admins/proxmox/), an Ubuntu host. This is a centralized docker host for any docker containers needed. The ssh creds for this host are located in keepass.
 
 There is a docker container for Portainer running, which is a web interface used for managing all other containers. This interface can be used to deply other compose files, maintain existing ones, and has granular user permissions if we ever need to give isolated user perms.
 
