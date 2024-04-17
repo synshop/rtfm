@@ -98,9 +98,10 @@ In `/etc/caddy/Caddyfile` declare the top most host as shown below.  All subsequ
 
 ```bash
 # this host just declared to define default cert all other hosts inherit
-default-cert.synshop.net {
+:443 {
    tls /etc/letsencrypt/live/synshop.net/fullchain.pem /etc/letsencrypt/live/synshop.net/privkey.pem
-   reverse_proxy 127.0.0.1
+   root * /usr/share/caddy/
+   file_server
 }
 ```
 
@@ -122,12 +123,13 @@ Assuming you had a new service at `10.0.40.201` called `test.synshop.net`, you w
 
 ### Configure DNS Entry on `new-lagos.synshop.org`
 
+**NOTE!** - There is a wildcard `CNAME` entry for `*.synshop.net` to point to Caddy.  You only need to make a DNS entry if you want it to NOT point to Caddy.
+
 Set up new DNS entry:
 
 1. SSH into `new-lagos.synshop.org` and `sudo su -` to become root
 1. `vim /etc/bind/master/synshop.net`
-1. Find the collection of `CNAME`s for `caddy.synshop.net.` and add a new entry for your new service.  So if your new service was called `foobar` the entry would be:
-`foobar   IN CNAME caddy.synshop.net.`
+1. Add a new `A` recrod entry for your new service, looking at existing ones for a template.
 1. Modify the serial number (SOA) at top to be today's date + a unique 2 digit integer (it looks something like `2023090116; serial, todays date + serial #` )
 1. Restart DNS with `rndc reload`.
 
