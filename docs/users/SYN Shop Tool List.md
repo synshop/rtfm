@@ -7,16 +7,15 @@ try to stock equipment that most people don't have access to at home, and are wo
 
 * 3D Printers:
     * [Cetus3D](https://www.cetus3d.com/) - PLA Only printer
-    * [Replicator 2](https://www.makerbot.com/) - PLA Only printer, 100 micron print resolution
-    * [Flashforge Dual Extruder 3D Printers](https://store.flashforge.com/) (ABS/PLA, 100 micron print resolution)
-    * [Anycubic Photon Series LCD-Based SLA Resin 3D Printer](https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-3d-printer)
+    * [Bambu X1 Carbon](https://bambulab.com/en-us/x1) - With 4 Filament AMS
+    * [Anycubic Photon Series LCD-Based SLA Resin 3D Printer](https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-3d-printer) - 2 printers
     * [Fusion 3 F400-s](/users/Equipment/F400-s) - Large format PLA 3D Printer
 * Full Spectrum Laser Cutters:
     * All laser cutters use [Retina Engrave](/users/Equipment/Retina Engrave)
     * ["First Child"](/users/Equipment/First Child Laser Cutter) -  90 Watt Pro LF Series 24" x 18" CO2
     * ["Big Boi"](/users/Equipment/Big Boi Laser Cutter) - 150 Watt Pro LF Series 48" x 36" CO2
     * ["New Kid"](/users/Equipment/New Kid Laser Cutter) - Full Spectrum -  90 Watt Pro LF Series 24" x 16" CO2
-* Acrylic Bender
+* 24" Acrylic Bender
 
 ## Carpentry / CNC / Shop Equipment
 
