@@ -33,7 +33,8 @@ try to stock equipment that most people don't have access to at home, and are wo
 
 * Free Standing Power Tools 
     * [ShopBot](/users/Equipment/ShopBot) PRSstandard CNC [96-48](https://www.shopbottools.com/products/standard)
-    * [Table Saw](/users/Equipment/Table Saw) - Delta cabinet saw 
+    * [Table Saw](/users/Equipment/Table Saw) - Delta cabinet saw
+    * [Table Saw](/users/Equipment/Table Saw) - Grizzly G1023RLWX 10" 5HP 240V Tablesaw, CAB. LEFTTILT
     * [Track Saw: Grizzly PRO T33300](/users/Equipment/Track Saw) - 6-1/4" Track Saw with 110 inch rails
     * [Band Saw](/users/Equipment/Band Saw) (Grizzly G0513ANV - 17" 2 HP Band Saw, Anniversary Edition)
     * Router table: Ryobi router and table
@@ -60,7 +61,6 @@ try to stock equipment that most people don't have access to at home, and are wo
 ## Metal Working
 
 * Cincinnati Knee Mill
-* Mini Metal Lathe
 * 10" x 30" Metal Lathe
 * Vertical Metal Band Saw
 * Horizontal Metal Band Saw
