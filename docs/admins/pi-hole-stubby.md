@@ -1,4 +1,4 @@
-# Pi-Hole a
+# Pi-Hole DNS 
 SYN Shop runs it's own instances of [Pi-Hole](http://pi-hole.net/)  Pi-Hole is a local DNS resolver that blacklist domains that serve ads.
 
 Pi-hole LXC is hosted on the Proxmox server.
