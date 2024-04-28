@@ -10,6 +10,12 @@ We have two DHCP servers and 3 WiFi SSIDS.
 * [Caddy and TLS](https://rtfm.synshop.org/admins/Caddy%20and%20TLS%20certs/)
 * [Unifi AP container](https://rtfm.synshop.org/admins/unifi/)
 
+### Adding a new permenant device on the LAN
+
+- set a static DHCP lease on Pi-hole
+- update LAN Map
+- optionally a static IP which needs to unused and be below  `.150`
+
 ### Wifi:
 
 Shop owns 3 Unif APs, but currently only 1 is deployed which is setup up with 3 SSIDs which map to their own unique VLANs:
