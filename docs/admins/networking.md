@@ -1,10 +1,18 @@
-# Networking
+# Shop LAN & WiFi
 
 ## Overview
 
 We have two DHCP servers and 3 WiFi SSIDS.
 
+### Related:
+
+* [Pi-hole](https://rtfm.synshop.org/admins/pi-hole-stubby/)
+* [Caddy and TLS](https://rtfm.synshop.org/admins/Caddy%20and%20TLS%20certs/)
+* [Unifi AP container](https://rtfm.synshop.org/admins/unifi/)
+
 ### Wifi:
+
+Shop owns 3 Unif APs, but currently only 1 is deployed which is setup up with 3 SSIDs which map to their own unique VLANs:
 
 - synshop - 10.0.40.x range
 - synshop_unfiltered - 10.0.50.x range
