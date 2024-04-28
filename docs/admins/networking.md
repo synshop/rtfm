@@ -12,7 +12,7 @@ We have two DHCP servers and 3 WiFi SSIDS.
 
 ### DHCP:
 
-- 10.0.40.x range - Managed by PiHole, with static leases for infrastructure devices and 24hr dhcp leases for users. This network uses PiHole for DNS
+- 10.0.40.x range - Managed by PiHole, with static leases for infrastructure devices and 6hr dhcp leases for users. This network uses PiHole for DNS
 - 10.0.50/60.x range - Managed by the Router, both will bypass the DNS of PiHole using their own DNS
 
 ### IP info
