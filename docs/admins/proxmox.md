@@ -89,6 +89,8 @@ To add a new  ISO so that you can create a VM with it later:
 15.  Click `Next`
 16.  On the final `Confirm` screen choose `Start after created` and click `Finish`
 17.  After the container is created choose it from the list on the right, click on `Options` and double click `Start at boot` to be checked
+18.  Go to "Datacenter" on the left navigation, click "Backup" in the main pannel, double click the one listed backup job - add your new container to be backed up nightly
+
 
 ## Creating a new VM
 
@@ -108,7 +110,8 @@ To add a new  ISO so that you can create a VM with it later:
 14. On the `Network` screen, leave all fields with default values and click `Next` (be sure to set a static IP in the VM after it boots)
 15. On the `Confirm` screen, review all data and click `Finish` 
 16. Click on the right side of the screen where your new VM shows up as `NUMBER (Name)` eg `102 (truenas)`
-17. Click `Console` and choose `Start now` 
+17. Click `Console` and choose `Start now`
+18.  Go to "Datacenter" on the left navigation, click "Backup" in the main pannel, double click the one listed backup job - add your new VM to be backed up nightly
 
 ## NAS Drives
 
