@@ -32,11 +32,12 @@ systemctl start caddy
 With the way proxmox does LXC containers,  the normal [install docs](https://certbot.eff.org/instructions?ws=other&os=ubuntufocal&commit=%3E) don't work.  Instead we had to use `pip` and friends to achieve the same result:
 
 ```bash
-sudo apt update && sudo apt install python3 python3-venv libaugeas0
+sudo apt update && sudo apt install python3 python3-venv libaugeas0 python3-pip
 sudo python3 -m venv /opt/certbot/
 sudo /opt/certbot/bin/pip install --upgrade pip
-sudo /opt/certbot/bin/pip install certbot certbot
+sudo /opt/certbot/bin/pip3 install certbot requests
 sudo ln -s /opt/certbot/bin/certbot /usr/bin/certbot
+sudo ln -s /usr/bin/python3 /usr/bin/python
 ```
 
 Then add a cronjob to check for renawals:
@@ -53,6 +54,23 @@ curl -o /etc/letsencrypt/acme-dns-auth.py https://raw.githubusercontent.com/jooh
 chmod +x /etc/letsencrypt/acme-dns-auth.py
 ln -s /usr/bin/python3 /usr/bin/python
 ```
+
+#### Testing
+
+Before trusting that the cronjob above will run, as root, make sure you test the `renew` command with a dry run.  This will ensure you have everything installed and workine correcty:
+
+```bash
+/usr/bin/certbot renew --dry-run
+```
+
+The last time we rebuilt the caddy/certbot container we hit errors that went unnoticed until the cert expired. Running the above test would have exposed them had we tested them right at install time.
+
+The errors were:
+
+* `/usr/bin/env: ‘python’: No such file or directory` - **fixed** by symlinking `/usr/bin/python3` ->  `/usr/bin/python`
+* `The error was: expected /etc/letsencrypt/live/synshop.net/cert.pem to be a symlink` - **fixed** by moving the files in `/etc/letsencrypte/live/synshop.org/*` and making them be symlinks to `/etc/letsencrypte/archived/synshop.org/`, then running `certbot update_symlinks`
+* `ModuleNotFoundError: No module named 'requests'` - **fixed** by instlling  `requests` with `pip3`
+
 
 ### First time cert generation w/ DNS update
 
