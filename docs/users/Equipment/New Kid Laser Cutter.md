@@ -10,6 +10,6 @@
 
 ## Current Status
 
-- **Non-operational** - Laser cutter is not functional at this time.
+- **Operational**
   
 ### Maintenance Log
