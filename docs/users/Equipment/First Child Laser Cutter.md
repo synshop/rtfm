@@ -12,6 +12,6 @@
 
 - **Functional** - Laser cutter is currently down for maintance.
 - **Remaining Issues:** Laser tube has been removed awaiting replacement and alignment of the new tube.
-- Laser cutter is scheduled to be upgraded to a new controller to enable the use of LightBurn software. It will remane unavailable until the upgrade is completed. 
+- Laser cutter is scheduled to be upgraded to a new controller to enable the use of LightBurn software. It will remane unavailable until the upgrade is completed.
   
 ### Maintenance Log
