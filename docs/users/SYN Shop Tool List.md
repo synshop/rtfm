@@ -104,9 +104,15 @@ try to stock equipment that most people don't have access to at home, and are wo
     * Other random electronic stuff
     * Lots of miscellaneous circuitry parts
 
-## Printing
+## Print and Office
 
+* SHARP MX-3070v A3 Multifunction Printer
+* iehk A4 DTG A4 T-Shirt Printer
 * [Canon iPF6400SE 24" Large Format Printer](/users/Equipment/Large Format Printer/)
+* Brother P-Touch PT-P700 24mm Label Maker
+* VEVOR 胶装机-V110 A4 Thermal Glue Binder
+* Large Rotary Cutter
+* Miscelaneous Print and Office Tools 
 
  If you have equipment you are willing to donate, or would like to see us 
  purchase, make a comment below, or [contact us](https://synshop.org/contact).
