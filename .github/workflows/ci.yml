@@ -11,8 +11,7 @@ jobs:
       - uses: actions/setup-python@v2
         with:
           python-version: 3.x
-      - run: pip install mkdocs-material 
-      - run: pip install mkdocs-plugin-tags
+      - run: pip install mkdocs-material
       - run: pip install mkdocs-mermaid2-plugin
       - run: mkdir local_public
       - run: mkdocs build --clean -d ./local_public/
