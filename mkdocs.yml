@@ -12,5 +12,5 @@ edit_uri: edit/master/docs/
 plugins:
     - search
     - tags:
-        tags_file: tags.md
+         tags_file: tags.md
     - mermaid2
