@@ -1,3 +1,10 @@
+---
+tags:
+   - print
+   - paper
+   - ink
+   - posters
+---
 # Canon iPF6400SE Large Format Printer
 
 The Large Format Printer is located in the Print room, and can print up to a width of 24" in full color. It should remain on at all times to prevent ink waste from nozzle flushing.
