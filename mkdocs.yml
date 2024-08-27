@@ -1,5 +1,7 @@
 site_name: RTFM
 theme:
+    features:
+        - content.action.edit
     name: material
 extra_css:
     - css/rtfm.css
