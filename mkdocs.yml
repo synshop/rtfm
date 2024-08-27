@@ -1,4 +1,6 @@
 site_name: RTFM
+theme:
+    name: material
 extra_css:
     - css/rtfm.css
 extra_javascript:
