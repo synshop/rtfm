@@ -10,6 +10,6 @@ repo_url: https://github.com/synshop/rtfm
 edit_uri: edit/master/docs/
 
 plugins:
-#    - search
-#    - tags
+    - search
+    - tags
     - mermaid2
