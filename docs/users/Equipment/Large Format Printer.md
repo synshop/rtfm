@@ -23,7 +23,7 @@ Currently, the printer is not available on the network so a computer must connec
 Materials cost are currently:
 
 * $0.50/ft of paper
-* $0.50/ml of ink
+* $0.70/ml of ink
 
 Cash in the donation box is fine or use the online [payment form](https://synshop.org/payment) and note it's for a Large Format Printer job.
 
