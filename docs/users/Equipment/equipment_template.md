@@ -1,0 +1,6 @@
+---
+tags:
+ - equipment
+---
+# Equipment Template
+

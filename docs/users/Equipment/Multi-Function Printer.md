@@ -7,7 +7,7 @@
 
 # Usage
 
-# Trouble Shooting
+# Troubleshooting
 
-# Error Log
+# Notable Errors 
 
