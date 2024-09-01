@@ -1,6 +1,18 @@
-# Media
+## Wifi Password
+Free wifi is available for Shop members, to join, please connect to the `synshop` SSID, using the password posted on signs located around the Shop.
 
-## About
+## User File Shares
+Wondering how to get your project file from your computer to a Shop computer? 
+
+If you don't feel like using a USB key to physically transfer the file, SYN Shop has four different SMB shares available that you can use when connected to the Shop network.
+
+   - LaserShare - Laser Cutter Control Computers (First Child, New Kid, Big Boi)
+   - PrintShare - 2D Printing Computer (DTG)
+   - 3DPrintShare - 3D Printer Control Computers (Bambu FTM, Anycubic Resin)
+   - ShopBotShare - Shopbot Control Computer (VCarve Pro Master, Shopbot Controller)
+
+## media.synshop.org
+### About
 
 Media (media.synshop.org aka 10.0.40.19) is a server that houses files.  It is only accessible when
 you're in the shop and using our WiFi.
@@ -12,18 +24,18 @@ you get faster transfer speeds.
 Further, you may consider using rsync as you can start and stop jobs that may take more than a
 few hours so you can run them over a few days and if the transfer fails you don't have start from scratch.
 
-## FTP
+### FTP
 
 To access the site via FTP, use anonymous FTP which might be supported by your browser via this
 link: [ftp://media.synshop.org](ftp://media.synshop.org). 
 (or it [may not](https://www.bleepingcomputer.com/news/google/chrome-and-firefox-developers-aim-to-remove-support-for-ftp/)!)
 
-## HTTP
+### HTTP
 
 To access the site via a browser, click this link: [http://media.synshop.org](http://media.synshop.org).
 
 
-## rsync (on a mac/linux client)
+### rsync (on a mac/linux client)
 
 To access the site via rsync
 
@@ -36,3 +48,4 @@ presentations from HOPE 2018, you would find this URL:
 that'd be: `./pub/infocon.org/cons/2600/The\ Circle\ of\ HOPE\ \(2018\)/`
 1. To sync all these to the current directory you're in, you'd run this command and enter the password `media` when
 prompted: `rsync -avz  -e ssh --progress "media@media.synshop.org:./pub/infocon.org/cons/2600/The\ Circle\ of\ HOPE\ \(2018\)/" .`
+
