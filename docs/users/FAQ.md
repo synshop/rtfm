@@ -17,7 +17,7 @@ See SYN [Shop Vision](./SYN Shop Vision.md)
 
 ## Where is the SYN shop?
  
-[5967 Harrison Dr, Las Vegas, NV 89120](https://www.google.com/maps/place/5967%20Harrison%20Dr,%20Las%20Vegas,%20NV%2089120) 
+[5967 Harrison Dr, Suite 1, Las Vegas, NV 89120](https://www.google.com/maps/place/5967%20Harrison%20Dr,%20Las%20Vegas,%20NV%2089120) 
 
 
 ## What is the best time to visit SYN Shop?
@@ -26,19 +26,18 @@ SYNShop is held open by volunteers, so we are usually there in the evenings outs
 the shop is held during the following hours: 
 
 * Monday: 7pm - 10pm 
-* Tuesday:  7pm - 10pm  Craft night, Cybersecurity Office Hours community night (alternating)
-* Wednesday: 7pm - 10pm   DC702 Meetup (Last Wednesday of the month)
-* Thursday: 6pm - 10pm
+* Tuesday:  7pm - 10pm  Craft Night
+* Wednesday: 7pm - 10pm   DC702 Meetup (Second and Last Wednesday of the month)
+* Thursday: 7pm - 10pm
 * Friday: 6:30pm - 10pm 
-* Saturday: Noon - 5pm   Sumo Robot fighting (Second Saturday of the month)  
+* Saturday: Noon - 5pm  
 * Sunday: Closed 
 
 Tuesdays, Wednesdays, and Saturdays are sometimes themed after interest groups. If you come to work, your project 
 does not have to match the theme. However these nights tend to attract members of the community 
 that are interested in that theme. Sumo Robot fighting attracts autonomous robotics enthusiasts. Craft Night
  attracts "Team Low Tech" and all others who are interested in a variety of general crafts. Think 
- of a knitting circle where one person knits, one person builds models, and another sews a quilt. Cybersecurity Office Hours 
- attracts people interested in Cybersecurity DC702 is our local Defcon enthusiasts group. 
+ of a knitting circle where one person knits, one person builds models, and another sews a quilt. DC702 is our local Defcon enthusiasts group. 
 
 You do not need to be a member to come spend time and acclimate yourself. You do need to be a member to use our equipment.
 
