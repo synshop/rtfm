@@ -41,6 +41,9 @@ tags:
 File names should be .md files using a common name. The name of the file is the name of the page's url link (rtfm.sysshop.org/users/Equipment/[filename]) This is different from the title of the page.
 
 ### Titles
+Level 1 headings should be reserved exclusively for naming individual pieces of equipment or The page in general.
+All headings in Contents will be level 2 headings or lower in priority.
+
 The title of a page depends on whether the page lists a single machine or multiple machines of different models.
 If the page is only about 1 model of machine the title should have the following format:
 `Manufacturer Model Maximum size Common name`

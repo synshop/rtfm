@@ -6,22 +6,23 @@ tags:
 Please see the Manual of Style for detailed information on what info to put under each heading.
 Any changes to this template should be updated in the manual of style too.
 
-# Manuals 
+## Manuals 
 
-# Firmware, Drivers, and Software
+## Firmware, Drivers, and Software
 
-## Required
+### Required
 
-## Optional
+### Optional
 
-# Functions
+## Costs and Consumables 
 
-## Specifications
+## Functions
 
-# Usage
+### Specifications
 
-# Maintenance
+## Usage
 
+## Maintenance
+
+### Maintenance log
 # Troubleshooting
-
-# Notable Errors 
