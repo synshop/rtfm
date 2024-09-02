@@ -1,5 +1,5 @@
 # Tags
 
-Following is a list of relevant tags:
+Tags used across RTFM are listed here:
 
 <!-- material/tags -->

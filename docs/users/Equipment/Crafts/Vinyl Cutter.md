@@ -1,3 +1,10 @@
+---
+tags:
+    - equipment
+    - vinyl
+    - cutting
+---
+
 # Silhoutte Cameo 
 
 The Cameo is located in the Crafts room on the file cabinet next to the rack, and its cabling and accesories are in the drawer labelled 'Silhouette Accessories'.

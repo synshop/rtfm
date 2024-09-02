@@ -1,3 +1,7 @@
+---
+tags:
+    - equipment
+---
 # SHARP MX-3070v Multi-Function Printer
 
 # Manuals and Drivers

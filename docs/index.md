@@ -1,4 +1,4 @@
-# SYN Shop Docs  
+# SYN Shop Docs
 
 **Apr 2022 Update: We're finishin up the [new shop on Harrison Dr in Las Vegas](https://synshop.org/location) after [moving from American Pacific in Henderson](/users/SYNShop3.0/FAQ/)! Join our [Discord server](https://synshop.org/discord) for latest info.**
 
