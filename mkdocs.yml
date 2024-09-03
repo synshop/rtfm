@@ -7,9 +7,21 @@ extra_css:
     - css/rtfm.css
 extra_javascript:
     - js/rtfm.js
+
 markdown_extensions:
-- toc:
-    permalink: ''
+# admonitions
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
+# formatting
+    - pymdownx.keys
+    - pymdownx.caret
+    - pymdownx.mark
+    - pymdownx.tilde
+# table of contents
+    - toc:
+         permalink: true
+
 repo_url: https://github.com/synshop/rtfm
 edit_uri: edit/master/docs/
 

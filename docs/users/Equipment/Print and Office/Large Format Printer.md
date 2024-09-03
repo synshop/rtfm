@@ -9,14 +9,17 @@ tags:
 ---
 # Canon iPF6400SE Large Format Printer
 
-The Large Format Printer is located in the Print room, 
+The Large Format Printer is located in the Print room. 
 ![ ](large.format.printer.png)
 
 ## Manuals 
+Documentation can be found at:
 https://www.usa.canon.com/support/p/imageprograf-ipf6400se
 ## Firmware, Drivers, and Software
 ### Required
 The required drivers are on the laptop in the print room.
+Members may also download the drivers to their own computer.
+
 https://www.usa.canon.com/support/p/imageprograf-ipf6400se
 
 ### Optional
