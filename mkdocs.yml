@@ -1,9 +1,8 @@
 site_name: RTFM
 theme:
     features:
-        - content.action.edit
-        - navigation.tabs
-        - navigation.tabs.sticky
+    - content.action.edit
+    - toc.follow
     name: material
 extra_css:
     - css/rtfm.css
