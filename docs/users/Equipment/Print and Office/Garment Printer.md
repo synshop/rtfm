@@ -12,7 +12,9 @@ tags:
 # iehk A4 DTG Printer A4 Garment Printer
 
 ## WARNINGS
-This machine is not fully functional yet. We currently need a printhead to replace the current one.
+This machine is not fully functional yet. 
+We currently need a printhead to replace the current one.
+
 ## Manuals 
 The manuals for this machine are on the printroom compute.
 Please note that these manuals are not comprehensive.
@@ -25,15 +27,25 @@ DO NOT INSTALL ANY OF THE REQUIRED SOFTWARE OR DRIVERS ON YOUR OWN DEVICE.
 The final print must be done on the print computer.
 
 ### Required
+<<<<<<< HEAD
 |----------------------------------|------------------------------------------------------------------|
+=======
+|---|---|
+>>>>>>> 6d9e5ac97afaa3917612588cdd8380e2720f6b5c
 | [DTGRIP](/users/Software/DTGRIP) | The software that lets you tweak the DTG settings prior to print |
 | EPSON Driver                     | The driver is preinstalled on the computer.                      |
 |                                  | DO NOT UPDATE THIS DRIVER. THE DTG WILL BE BRICKED.              |
 
 ### Optional
+<<<<<<< HEAD
 |------------------------------------------------------------------|---------------------------------------------------------------------|
 | [Image Manipulation Program](/users/Software/Image Manipulation) | Software that lets you alter images. GIMP, Photoshop, Krita         |
 | [Vector Graphics Program](/users/Software/Vector Graphics)       | Software that edits vectorized graphics. Size independent software. |
+=======
+|---|---|
+| [Image Manipulation Program](/users/Software/Image Manipulation) | Software that lets you alter images. GIMP, Photoshop, Krita |
+| [Vector Graphics Program](/users/Software/Vector Graphics)       | Software that edits vectorized graphics. Size independent software.                                                            |
+>>>>>>> 6d9e5ac97afaa3917612588cdd8380e2720f6b5c
 
 ## Cost and Consumables 
 This machine uses fabric and printer ink.
@@ -54,12 +66,12 @@ Please note different fabrics will have different qualities and issues.
 #### General
 * Please see [DTGRIP](/users/Software/DTGRIP) for a comprehensive guide to software settings.
 * Shake ink bottles.
-* load fabric.
+* Load fabric.
    * The top of the software will print on the side closest to the front of the machine. 
-   1. flatten shirt on panel.
+   1. Flatten shirt on panel.
    2. Place frame to hold it in place.
    3. Tug shirt taught.
-   4. Press the arrow pointing toward the back of the machine on rocker marked "in and out stop".
+   4. Press the arrow pointing toward the back of the machine on rocker switch marked "in and out stop".
     - If the shirt is not in the back of the machine, it will throw an out of paper error.
 
 #### Colored Shirts
@@ -68,8 +80,8 @@ Please note different fabrics will have different qualities and issues.
 2. Heat shirt at 330F for 30 seconds (follow instructions on main bottle).
 ##### Check Black Handling
 1. In DTGRIP go to the `White` tab.
-2. Set 'Black Handling'
-   * Color Shirts - If printing olor set it to 100%. 
+2. Set `Black Handling`
+   * Color Shirts - If printing color set it to 100%. 
    * Black/Dark Shirts - If on color check the `white` and `preview` views, and set threshold to desired level.
 
 ### Print
@@ -96,7 +108,7 @@ Please note different fabrics will have different qualities and issues.
 ### Nozzle Cleaning
 #### Computer
 1. Open DTGRIP.
-2. `File` drop down, `Nozzle Cleaning` (F12)
+2. `File` drop down, `Nozzle Cleaning` (`F12`)
 3. Repeat step 2.
 
 #### Manual

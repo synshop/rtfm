@@ -1,6 +1,6 @@
 ---
 tags:
-   -STUB
+   - STUB
    - print and office
    - print
    - paper
