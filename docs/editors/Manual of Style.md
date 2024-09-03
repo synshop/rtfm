@@ -45,7 +45,9 @@ This sentence concludes the paragraph.
 | level 3 heading | `### level 3 heading`  |
 | level 4 heading | `#### level 4 heading` |
 | etc.            | ...                    |
+
 ## Basic Formatting
+
 | element                         | syntax              | result            |
 |---------------------------------|---------------------|-------------------|
 | bold                            | `**bold**`          | **bold**          |
