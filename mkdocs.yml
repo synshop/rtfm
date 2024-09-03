@@ -2,6 +2,8 @@ site_name: RTFM
 theme:
     features:
         - content.action.edit
+        - navigation.tabs
+        - navigation.tabs.sticky
     name: material
 extra_css:
     - css/rtfm.css
@@ -9,6 +11,8 @@ extra_javascript:
     - js/rtfm.js
 
 markdown_extensions:
+    - toc:
+         permalink: true
 # admonitions
     - admonition
     - pymdownx.details
@@ -18,9 +22,6 @@ markdown_extensions:
     - pymdownx.caret
     - pymdownx.mark
     - pymdownx.tilde
-# table of contents
-    - toc:
-         permalink: true
 
 repo_url: https://github.com/synshop/rtfm
 edit_uri: edit/master/docs/
