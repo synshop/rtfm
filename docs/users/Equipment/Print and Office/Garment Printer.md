@@ -32,11 +32,12 @@ The final print must be done on the print computer.
 |                                  | DO NOT UPDATE THIS DRIVER. THE DTG WILL BE BRICKED.              |
 
 ### Optional
+
 |------------------------------------------------------------------|---------------------------------------------------------------------|
 | [Image Manipulation Program](/users/Software/Image Manipulation) | Software that lets you alter images. GIMP, Photoshop, Krita         |
 | [Vector Graphics Program](/users/Software/Vector Graphics)       | Software that edits vectorized graphics. Size independent software. |
-| [Image Manipulation Program](/users/Software/Image Manipulation) | Software that lets you alter images. GIMP, Photoshop, Krita |
-| [Vector Graphics Program](/users/Software/Vector Graphics)       | Software that edits vectorized graphics. Size independent software.                                                            |
+| [Image Manipulation Program](/users/Software/Image Manipulation) | Software that lets you alter images. GIMP, Photoshop, Krita         |
+| [Vector Graphics Program](/users/Software/Vector Graphics)       | Software that edits vectorized graphics. Size independent software. |
 
 ## Cost and Consumables 
 This machine uses fabric and printer ink.
