@@ -2,9 +2,7 @@
 tags:
   - STUB
   - equipment
-  - print
-  - and
-  - office
+  - print and office
   - print
   - fabric
   - ink
@@ -27,25 +25,18 @@ DO NOT INSTALL ANY OF THE REQUIRED SOFTWARE OR DRIVERS ON YOUR OWN DEVICE.
 The final print must be done on the print computer.
 
 ### Required
-<<<<<<< HEAD
+
 |----------------------------------|------------------------------------------------------------------|
-=======
-|---|---|
->>>>>>> 6d9e5ac97afaa3917612588cdd8380e2720f6b5c
 | [DTGRIP](/users/Software/DTGRIP) | The software that lets you tweak the DTG settings prior to print |
 | EPSON Driver                     | The driver is preinstalled on the computer.                      |
 |                                  | DO NOT UPDATE THIS DRIVER. THE DTG WILL BE BRICKED.              |
 
 ### Optional
-<<<<<<< HEAD
 |------------------------------------------------------------------|---------------------------------------------------------------------|
 | [Image Manipulation Program](/users/Software/Image Manipulation) | Software that lets you alter images. GIMP, Photoshop, Krita         |
 | [Vector Graphics Program](/users/Software/Vector Graphics)       | Software that edits vectorized graphics. Size independent software. |
-=======
-|---|---|
 | [Image Manipulation Program](/users/Software/Image Manipulation) | Software that lets you alter images. GIMP, Photoshop, Krita |
 | [Vector Graphics Program](/users/Software/Vector Graphics)       | Software that edits vectorized graphics. Size independent software.                                                            |
->>>>>>> 6d9e5ac97afaa3917612588cdd8380e2720f6b5c
 
 ## Cost and Consumables 
 This machine uses fabric and printer ink.
