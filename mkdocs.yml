@@ -22,9 +22,12 @@ markdown_extensions:
     - pymdownx.caret
     - pymdownx.mark
     - pymdownx.tilde
+    - pymdownx.emoji:
+          emoji_index: !!python/name:material.extensions.emoji.twemoji 
+          emoji_generator: !!python/name:material.extensions.emoji.to_svg
 # table of contents
     - toc:
-         permalink: ''
+         permalink: true
 repo_url: https://github.com/synshop/rtfm
 edit_uri: edit/master/docs/
 
