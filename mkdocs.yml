@@ -1,7 +1,9 @@
 site_name: RTFM
 theme:
     features:
+    - content.code.copy
     - content.action.edit
+    - content.action.view
     - toc.follow
     name: material
 extra_css:

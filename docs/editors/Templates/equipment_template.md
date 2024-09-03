@@ -27,4 +27,4 @@ This heading may be removed if the equipment has no computer program associated 
 ## Maintenance
 ### Maintenance log
 
-# Troubleshooting
+## Troubleshooting
