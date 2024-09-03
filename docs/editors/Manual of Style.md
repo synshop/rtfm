@@ -4,7 +4,7 @@ tags:
     - editors
     - style
 ---
-[TOC]
+
 # Manual of Style
 # Purpose
 
