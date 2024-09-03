@@ -10,6 +10,11 @@ extra_javascript:
     - js/rtfm.js
 
 markdown_extensions:
+# admonitions
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
+    
 # formatting
     - pymdownx.keys
     - pymdownx.caret
