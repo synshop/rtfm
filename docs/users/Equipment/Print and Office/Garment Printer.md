@@ -26,6 +26,7 @@ The final print must be done on the print computer.
 
 ### Required
 
+| Program                          | Description                                                      |
 |----------------------------------|------------------------------------------------------------------|
 | [DTGRIP](/users/Software/DTGRIP) | The software that lets you tweak the DTG settings prior to print |
 | EPSON Driver                     | The driver is preinstalled on the computer.                      |
@@ -33,6 +34,7 @@ The final print must be done on the print computer.
 
 ### Optional
 
+| Program                                                          | Description                                                         |
 |------------------------------------------------------------------|---------------------------------------------------------------------|
 | [Image Manipulation Program](/users/Software/Image Manipulation) | Software that lets you alter images. GIMP, Photoshop, Krita         |
 | [Vector Graphics Program](/users/Software/Vector Graphics)       | Software that edits vectorized graphics. Size independent software. |
@@ -56,6 +58,7 @@ It may be able to print more with additional adjustments.
 Please note different fabrics will have different qualities and issues.
 ### Preparation
 #### General
+
 * Please see [DTGRIP](/users/Software/DTGRIP) for a comprehensive guide to software settings.
 * Shake ink bottles.
 * Load fabric.
@@ -78,13 +81,13 @@ Please note different fabrics will have different qualities and issues.
 
 ### Print
 #### White Shirt
-1. `File` drop down, then `Print...`
+1. `File` drop down, then `Print...` (or use ++f10++)
 2. Make sure it is on the correct port `USB002 <EPSON L805 Series T-shirt DTG>`. Otherwise close and change it in the printer tab.
 3. Make sure `WHITE+COLOR` is **NOT** checked.
 4. `Print`
 
 #### Colored Shirt
-1. `File` drop down, then `Print...`
+1. `File` drop down, then `Print...` (or use ++f10++)
 2. Make sure it is on the correct port `USB002 <EPSON L805 Series T-shirt DTG>`. Otherwise close and change it in the printer tab.
 3. Check the `WHITE+COLOR` Option.
 4. `Print`
@@ -100,7 +103,7 @@ Please note different fabrics will have different qualities and issues.
 ### Nozzle Cleaning
 #### Computer
 1. Open DTGRIP.
-2. `File` drop down, `Nozzle Cleaning` (`F12`)
+2. `File` drop down, `Nozzle Cleaning` (or use ++f12++)
 3. Repeat step 2.
 
 #### Manual

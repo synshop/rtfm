@@ -60,9 +60,9 @@ This sentence concludes the paragraph.
 | highlight     | `==highlight==`     | ==highlight==     |
 | underline     | `^^underline^^`     | ^^underline^^     |
 | strikethrough | `~~strikethrough~~` | ~~strikethrough~~ |
-| subscript     | `sub~script`        | sub~script        |
-| superscript   | `super^script`      | super^script      |
-| keyboard      | `++keyboard++`      | ++keyboard++      |
+| subscript     | `sub~script~`       | sub~script~       |
+| superscript   | `super^script^`     | super^script^     |
+| keyboard      | `++enter++`         | ++enter++         |
 
 ## Lists
 ### ordered lists
@@ -77,6 +77,7 @@ syntax:
 ```
 
 result:
+
 1. item 1
 8. item 2
 3. item 3
@@ -91,6 +92,7 @@ syntax:
 - another other item
 ```
 result:
+
 - an item
 - another item
 - an other item
