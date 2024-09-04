@@ -1,9 +1,12 @@
 ---
 tags:
- - equipment
- - template
+    - STUB
+    - equipment
+    - electronics
+    - signal
 ---
-# Equipment Template
+# owon SmartDS8102V 100MHz 2GSa/s Digital Osilloscope
+ 
 Please see the Manual of Style for detailed information on what info to put under each heading.
 Any changes to this template should be updated in the manual of style too.
 

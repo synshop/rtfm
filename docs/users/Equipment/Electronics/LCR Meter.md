@@ -1,9 +1,5 @@
----
-tags:
- - equipment
- - template
----
-# Equipment Template
+# DER EE DE-5000 LCR Meter
+ 
 Please see the Manual of Style for detailed information on what info to put under each heading.
 Any changes to this template should be updated in the manual of style too.
 
@@ -33,3 +29,4 @@ This heading may be removed if not applicable.
 ### Maintenance log
 
 ## Troubleshooting
+

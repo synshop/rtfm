@@ -1,9 +1,12 @@
 ---
 tags:
- - equipment
- - template
+    - STUB
+    - equipment
+    - electronics
+    - power
 ---
-# Equipment Template
+# Vizatek PSM6003LK2 60V DC Power Supply
+ 
 Please see the Manual of Style for detailed information on what info to put under each heading.
 Any changes to this template should be updated in the manual of style too.
 

@@ -1,9 +1,5 @@
----
-tags:
- - equipment
- - template
----
-# Equipment Template
+# puhui T-962 280C SMT Soldering Oven
+
 Please see the Manual of Style for detailed information on what info to put under each heading.
 Any changes to this template should be updated in the manual of style too.
 

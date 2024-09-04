@@ -1,11 +1,8 @@
----
-tags:
- - equipment
- - template
----
-# Equipment Template
+# HP 33120A 15MHz Function/Arbitrary Waveform Generator
+
 Please see the Manual of Style for detailed information on what info to put under each heading.
 Any changes to this template should be updated in the manual of style too.
+
 
 ## Manuals 
 
@@ -33,3 +30,4 @@ This heading may be removed if not applicable.
 ### Maintenance log
 
 ## Troubleshooting
+
