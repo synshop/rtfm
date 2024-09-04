@@ -10,7 +10,7 @@ tags:
 # Canon iPF6400SE Large Format Printer
 
 The Large Format Printer is located in the Print room. 
-![ ](large.format.printer.png)
+![ ](images/largeformatprinter/large.format.printer.png)
 
 ## Manuals 
 Documentation can be found at:
