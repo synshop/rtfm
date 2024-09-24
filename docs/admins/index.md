@@ -1,7 +1,8 @@
-# rtfm
+# rtfm administration
 
 rtfm site is built with [MkDocs](https://www.mkdocs.org/).  
 
+For systems administration content that used to be in this section, please see [google docs](https://docs.google.com/document/d/17BsZgndsAvruVEW8TnPwmr_dyF2HlpQ7IftDi_4iuFE/edit).
 
 ## Content changes
 
