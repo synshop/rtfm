@@ -1,6 +1,0 @@
-# Electronics
-
-## About
-## Activities
-## Equipment
-

@@ -1,8 +1,0 @@
-# Crafts
-
-## About
-## Activities
-## Equipment
-
-
-

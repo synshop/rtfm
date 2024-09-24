@@ -8,7 +8,7 @@ tags:
 ## Titles and file names
 ### Filenames
 File names should be .md files using a common name. 
-The name of the file is the name of the page's url link (rtfm.sysshop.org/users/Equipment/[filename]) This is different from the title of the page.
+The name of the file is the name of the page's url link (rtfm.sysshop.org/members/Equipment/[filename]) This is different from the title of the page.
 
 ### Titles
 Level 1 headings should be reserved exclusively for naming individual pieces of equipment or The page in general.
