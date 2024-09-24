@@ -4,6 +4,11 @@ theme:
     - content.code.copy
     - content.action.edit
     - content.action.view
+    - navigation.instant
+    - navigation.indexes
+    - navigation.top
+    - search.highlight
+    - search.suggest
     - toc.follow
     name: material
 extra_css:
@@ -13,11 +18,15 @@ extra_javascript:
 
 markdown_extensions:
 # admonitions
+    - abbr
     - admonition
+    - attr_list
+    - def_list
+    - tables
+    - footnotes
+    - meta
     - pymdownx.details
     - pymdownx.superfences
-    
-# formatting
     - pymdownx.keys
     - pymdownx.caret
     - pymdownx.mark
@@ -33,6 +42,7 @@ edit_uri: edit/master/docs/
 
 plugins:
     - search
+    - awesome-pages
     - tags:
          tags_file: tags.md
     - mermaid2
