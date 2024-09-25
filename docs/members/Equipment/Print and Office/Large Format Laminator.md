@@ -4,7 +4,7 @@ tags:
  - print and office
  - lamination
 ---
-# Ultima 65 27" Large Format Laminator
+# GBC Ultima 65 27" Large Format Laminator
 Please see the Manual of Style for detailed information on what info to put under each heading.
 Any changes to this template should be updated in the manual of style too.
 
