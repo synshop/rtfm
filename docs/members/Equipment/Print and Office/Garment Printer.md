@@ -10,7 +10,7 @@ tags:
 # iehk A4 DTG Printer A4 Garment Printer
 
 ## Manuals 
-The manuals for this machine are on the printroom compute.
+The manuals for this machine are on the printroom computer.
 Please note that these manuals are not comprehensive.
 
 ## Firmware, Drivers, and Software
@@ -20,7 +20,7 @@ Therefore it is only available on the print room lap top.
 
 !!! danger "DO NOT INSTALL ANY REQUIRED SOFTWARE OR DRIVERS ON YOUR OWN DEVICE"
 
-    If the driveer is updated it will brick the machine.
+    If the driver is updated it will brick the machine.
     The final print must be done on the print computer.
 
 ### Required
