@@ -79,4 +79,4 @@ We regularly review the bylaws and the current copy is [available for all to rea
 
 ## What equipment do you have?
 
-Lots!  See our [tool list](SYN Shop Tool List.md) for specifics.
+Lots!  See our [tool list](Equipment) for specifics.
