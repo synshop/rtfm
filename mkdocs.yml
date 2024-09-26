@@ -33,11 +33,7 @@ markdown_extensions:
           pygments_lang_class: true
     - pymdownx.inlinehilite
     - pymdownx.snippets
-    - pymdownx.superfences:
-        custom_fences:
-            - name: mermaid
-              class: mermaid
-              format: !!python/name:pymdownx.superfences.fence_code_format
+    - pymdownx.superfences
     - pymdownx.keys
     - pymdownx.caret
     - pymdownx.mark
@@ -55,7 +51,6 @@ edit_uri: edit/master/docs/
 
 plugins:
     - search
-    - social
     - awesome-pages
     - tags:
          tags_file: tags.md

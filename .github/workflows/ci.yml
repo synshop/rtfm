@@ -15,7 +15,6 @@ jobs:
       - run: pip install "mkdocs-material[imaging]"
       - run: pip install mkdocs-mermaid2-plugin
       - run: pip install mkdocs-awesome-pages-plugin
-      - run: apt-get install libcairo2-dev libfreetype6-dev libffi-dev libjpeg-dev libpng-dev libz-dev
       - run: mkdir local_public
       - run: mkdocs build --clean -d ./local_public/
 
