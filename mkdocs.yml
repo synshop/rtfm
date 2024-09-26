@@ -25,7 +25,6 @@ markdown_extensions:
     - tables
     - footnotes
     - meta
-    - md_in_html
     - pymdownx.details
     - pymdownx.highlight:
       anchor_linenums: true
