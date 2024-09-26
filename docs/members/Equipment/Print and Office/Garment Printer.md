@@ -20,8 +20,8 @@ Therefore it is only available on the print room lap top.
 
 !!! danger "DO NOT INSTALL ANY REQUIRED SOFTWARE OR DRIVERS ON YOUR OWN DEVICE"
 
-  If the driveer is updated it will brick the machine.
-  The final print must be done on the print computer.
+    If the driveer is updated it will brick the machine.
+    The final print must be done on the print computer.
 
 ### Required
 
