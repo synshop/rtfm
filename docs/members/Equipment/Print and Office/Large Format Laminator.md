@@ -21,7 +21,16 @@ The cost of lamination is $.20 per foot. Base this on the finished item-- if you
 [27" wide 1.5 mil thick GBC Laminating Film](https://www.amazon.com/gp/product/B0006BB7X2/) sold in packages of two 500' rolls (2 rolls are required) **without** the "EZ-Load" feature. Later models of this laminator have an "EZ-Load" system that is not compatible with this laminator.
 
 ### User Provided
-You provide the thing you want to laminate. Objects to be laminated should be semi-flexible and relatively smooth. **NO METAL EVER**
+You provide the thing you want to laminate. Objects to be laminated should be semi-flexible and relatively smooth.
+
+!!! danger "NO METAL EVER"
+    Do not laminate anything with metal, including metallic inks, staples, or glitter. 
+    Do not touch the red hot rollers with anything metal-- the hot rollers are easily damaged and way too expensive to replace!
+    Putting metal through the laminator will damage the hot rollers and ruin the machine.
+
+!!! tip "Cold Laminator"
+    Use the cold laminator if your media uses any of the banned materials.
+
 
 ## Functions
 The large format laminator is useful for laminating items that are larger than 8.5"x11", such as posters and maps. The laminator uses rolls of laminating film, which are melted onto the object to be laminated.
@@ -39,7 +48,10 @@ Electrical requirements:
 ## Usage
 Check that the laminator film rolls are fully loaded (there should be a little bit of film coming out of the back of the machine.  
 
-**WARNING: Do not laminate anything with metal, including metallic inks, staples, or glitter. Do not touch the red hot rollers with anything metal-- the hot rollers are easily damaged and way too expensive to replace\!** Putting metal through the laminator will damage the hot rollers and ruin the machine.
+!!! danger "NO METAL EVER"
+    Do not laminate anything with metal, including metallic inks, staples, or glitter. 
+    Do not touch the red hot rollers with anything metal-- the hot rollers are easily damaged and way too expensive to replace! 
+    Putting metal through the laminator will damage the hot rollers and ruin the machine.
 
 1. Plug machine into a wall outlet and turn it on (power switch is on the back left of the machine).   
    - This machine uses a lot of power; the wall outlet is the least likely to trip the circuit breaker on the machine.  
@@ -50,13 +62,19 @@ Check that the laminator film rolls are fully loaded (there should be a little b
 4. Make sure the safety shield (clear plastic in front) is down.  
 5. Make sure whatever you are laminating is flat and ready to laminate.
 
-**AGAIN: DO NOT LAMINATE ANYTHING METAL OR CONTAINING METAL OR GLITTER\!\!\!\!\!**
+!!! danger "NO METAL EVER"
+    Do not laminate anything with metal, including metallic inks, staples, or glitter. 
+    Do not touch the red hot rollers with anything metal-- the hot rollers are easily damaged and way too expensive to replace!
+    Putting metal through the laminator will damage the hot rollers and ruin the machine.
 
 6. Set the feed guide (on the front feed table-- it has a couple of screws for you to unscrew, position, and screw into place) to help guide the object to be laminated.  
 7. Position the object in the front of the laminator, touching the film.  
 8. Press **RUN**.  
-   - **DO NOT leave the laminator unattended while it is running.**   
-   - **Avoid stopping the laminator while it is running.**  
+
+!!! warning "DO NOT leave the laminator unattended while it is running."
+
+!!! warning "Avoid stopping the laminator while it is running." 
+
 9. When the laminated object has cleared the back of the machine by at least 1”, press **STOP**.
 10. Use the manual cutter on the back of the machine to cleanly slice the laminated object away.  
 11. Power off the machine when done.
