@@ -56,7 +56,7 @@ edit_uri: edit/master/docs/
 
 plugins:
     - search
-    - social
+ #   - social
     - awesome-pages
     - tags:
          tags_file: tags.md
