@@ -4,4 +4,8 @@
 ## About
 ## Activities
 ## Equipment
-
+* Full Spectrum Laser Cutters:
+    * All laser cutters use [Retina Engrave](/members/Software/Retina Engrave)
+    * ["First Child"](/members/Equipment/Laser Cutting/First Child Laser Cutter) -  90 Watt Pro LF Series 24" x 18" CO2 (Currently being rebuilt)
+    * ["Big Boi"](/members/Equipment/Laser Cutting/Big Boi Laser Cutter) - 150 Watt Pro LF Series 48" x 36" CO2
+    * ["New Kid"](/members/Equipment/Laser Cutting/New Kid Laser Cutter) - Full Spectrum -  90 Watt Pro LF Series 24" x 16" CO2

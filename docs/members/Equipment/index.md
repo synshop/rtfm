@@ -1,7 +1,20 @@
-# SYN Shop Tool & Equipment List
+# SYN Shop Tool & Equipment 
 
-SYN Shop provides a large amount of equipment for paying members to use. We 
-try to stock equipment that most people don't have access to at home, and are working to build out to a complete shop facility. The current list of equipment is as follows:
+<div class="grid cards" markdown>
+
+- :material-printer: __[Print and Office](/members/Equipment/Print and Office/index.md/)__ Graphics on many mediums
+- :fontawesome-solid-paintbrush: __[Arts and Crafts](/members/Equipment/Crafts/index.md/)__ Handmade creations
+- :material-battery: __[Electronics](/members/Equipment/Electronics/index.md)__ Lights, waves and electrical circuits
+- :material-printer-3d-nozzle: __[3D Printing](/members/Equipment/3D Printing/index.md)__ Printed objects in filament or resin
+- :fontawesome-solid-wand-sparkles: __[Laser Cutting](/members/Equipment/Laser Cutting/index.md)__ CNC controlled laser cutting
+- :material-saw-blade: __[Danger Room](/members/Equipment/Danger Room/index.md)__ Things to cut and mend wood and metal
+
+</div>
+
+SYN Shop provides a large amount of equipment for paying members to use. 
+We try to stock equipment that most people don't have access to at home, and are working to build out to a complete shop facility. 
+Each area's page has a more comprehensive list. 
+The current list of equipment is as follows:
 
 ## Rapid Prototyping
 
@@ -73,7 +86,6 @@ try to stock equipment that most people don't have access to at home, and are wo
 
 ## Crafts
 
-* 9" thermal laminator
 * [Silhouette Cameo](https://www.silhouettecameo.com/) and accessories. No vinyl, bring your own! Up to 12" wide.
 * Leather hand tools, punches and scrap leather
 * Airbrush - we have basic airbrush paints, if you need something specific, bring it. We recommend Createx brand paints, for optimal flow
@@ -81,6 +93,7 @@ try to stock equipment that most people don't have access to at home, and are wo
 * 24" acrylic bender
 
 ## Electronics
+
 * Soldering
     * Soldering Irons - Hakko FX-888
     * SMD Hot Air Rework Station - Aoyue 2702 with all nozzles
@@ -111,12 +124,11 @@ try to stock equipment that most people don't have access to at home, and are wo
 * [Canon iPF6400SE 24" Large Format Printer](/members/Equipment/Print and Office/Large Format Printer/)
 * [Brother P-Touch PT-P700 24mm Label Maker](/members/Equipment/Print and Office/P-Touch Label Maker/)
 * VEVOR 胶装机-V110 A4 Thermal Glue Binder
-* [Ultima 65 LArge Format Laminator](/members/Equipment/Print and Office/Large Format Laminator/)
+* [GBC Ultima 65 LArge Format Laminator](/members/Equipment/Print and Office/Large Format Laminator/)
 * Large Rotary Cutter
 * Miscelaneous Print and Office Tools 
 
  If you have equipment you are willing to donate, or would like to see us 
  purchase, make a comment below, or [contact us](https://synshop.org/contact).
 
-		
 SYN Shop V 1.0 tool list on [Google Docs](https://docs.google.com/spreadsheet/pub?hl=en_US&hl=en_US&key=0AiEeg-U7TrF4dEo1WFdSYWdCcXZYNUR2N0RNajNHSVE&single=true&gid=0&output=html).

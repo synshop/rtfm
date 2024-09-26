@@ -57,8 +57,6 @@ It may be able to print more with additional adjustments.
 ## Usage
 Please note different fabrics will have different qualities and issues.
 ### Preparation
-#### General
-
 * Please see [DTGRIP](/members/Software/DTGRIP) for a comprehensive guide to software settings.
 * Shake ink bottles.
 * Load fabric.
@@ -69,24 +67,55 @@ Please note different fabrics will have different qualities and issues.
    4. Press the arrow pointing toward the back of the machine on rocker switch marked "in and out stop".
     - If the shirt is not in the back of the machine, it will throw an out of paper error.
 
-#### Colored Shirts
-##### Optional Image Armour ULTRA Dark Shirt Formula
-1. Spray down shirt with Image Armour ULTRA Dark Shirt Formula.
-2. Heat shirt at 330F for 30 seconds (follow instructions on main bottle).
-##### Check Black Handling
-1. In DTGRIP go to the `White` tab.
-2. Set `Black Handling`
-   * Color Shirts - If printing color set it to 100%. 
-   * Black/Dark Shirts - If on color check the `white` and `preview` views, and set threshold to desired level.
+### Printing
 
-### Print
-#### White Shirt
+=== White Shirts
+
+__Print__
+-------------------------------------------------------------------------------
 1. `File` drop down, then `Print...` (or use ++f10++)
 2. Make sure it is on the correct port `USB002 <EPSON L805 Series T-shirt DTG>`. Otherwise close and change it in the printer tab.
 3. Make sure `WHITE+COLOR` is **NOT** checked.
 4. `Print`
 
-#### Colored Shirt
+=== Light Colored Shirts
+
+* Optional Image Armour ULTRA Dark Shirt Formula
+1. Spray down shirt with Image Armour ULTRA Dark Shirt Formula.
+2. Heat shirt at 330F for 30 seconds (follow instructions on main bottle).
+
+__Check Black Handling__
+-------------------------------------------------------------------------------
+
+1. In DTGRIP go to the `White` tab.
+2. Set `Black Handling`
+   * Color Shirts - If printing color set it to 100%. 
+   * Black/Dark Shirts - If on color check the `white` and `preview` views, and set threshold to desired level.
+
+
+__Print__
+-------------------------------------------------------------------------------
+1. `File` drop down, then `Print...` (or use ++f10++)
+2. Make sure it is on the correct port `USB002 <EPSON L805 Series T-shirt DTG>`. Otherwise close and change it in the printer tab.
+3. Check the `WHITE+COLOR` Option.
+4. `Print`
+
+=== Dark Shirts
+
+* Optional Image Armour ULTRA Dark Shirt Formula
+1. Spray down shirt with Image Armour ULTRA Dark Shirt Formula.
+2. Heat shirt at 330F for 30 seconds (follow instructions on main bottle).
+
+__Check Black Handling__
+-------------------------------------------------------------------------------
+
+1. In DTGRIP go to the `White` tab.
+2. Set `Black Handling`
+   * Color Shirts - If printing color set it to 100%. 
+   * Black/Dark Shirts - If on color check the `white` and `preview` views, and set threshold to desired level.
+
+__Print__
+-------------------------------------------------------------------------------
 1. `File` drop down, then `Print...` (or use ++f10++)
 2. Make sure it is on the correct port `USB002 <EPSON L805 Series T-shirt DTG>`. Otherwise close and change it in the printer tab.
 3. Check the `WHITE+COLOR` Option.
