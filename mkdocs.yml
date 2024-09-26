@@ -60,4 +60,4 @@ plugins:
     - awesome-pages
     - tags:
          tags_file: tags.md
-    - mermaid2
+#    - mermaid2
