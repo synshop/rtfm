@@ -36,7 +36,7 @@ Electrical requirements:
  - Current: 12.5
  - Power: 1500 W
 
-##Usage
+## Usage
 Check that the laminator film rolls are fully loaded (there should be a little bit of film coming out of the back of the machine.  
 
 **WARNING: Do not laminate anything with metal, including metallic inks, staples, or glitter. Do not touch the red hot rollers with anything metal-- the hot rollers are easily damaged and way too expensive to replace\!** Putting metal through the laminator will damage the hot rollers and ruin the machine.
@@ -46,7 +46,7 @@ Check that the laminator film rolls are fully loaded (there should be a little b
 2. Wait 15 minutes for it to become hot. The **HEAT** light will blink while heating, and the **READY** light will turn on when it is fully heated.  
    - Note: If the Heat light is still blinking after 20 minutes, do a test with some scrap paper to make sure it’s hot enough.  If the test works, feel free to laminate even if the READY light isn’t on.  
 3. Press the “1.5 & 3 MIL” button. (As of Sep 2024, the film currently loaded is 1.5 mil.)  
-   - If you are laminating cardstock or anything heavier than normal 20 lb. paper, press the “SLOW” button to slow the machine down. You can always go slower than needed.  
+   - If you are laminating cardstock or anything heavier than normal 20 lb. (75gsm) paper, press the “SLOW” button to slow the machine down. You can always go slower than needed.  
 4. Make sure the safety shield (clear plastic in front) is down.  
 5. Make sure whatever you are laminating is flat and ready to laminate.
 
