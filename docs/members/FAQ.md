@@ -79,4 +79,4 @@ We regularly review the bylaws and the current copy is [available for all to rea
 
 ## What equipment do you have?
 
-Lots!  See our [tool list](Equipment) for specifics.
+Lots!  See our [tool list](/members/Equipment) for specifics.
