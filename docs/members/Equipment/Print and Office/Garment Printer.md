@@ -9,10 +9,6 @@ tags:
 ---
 # iehk A4 DTG Printer A4 Garment Printer
 
-## WARNINGS
-This machine is not fully functional yet. 
-We currently need a printhead to replace the current one.
-
 ## Manuals 
 The manuals for this machine are on the printroom compute.
 Please note that these manuals are not comprehensive.
@@ -21,8 +17,10 @@ Please note that these manuals are not comprehensive.
 The required and optional software are installed on the print room laptop.
 The DTG Software requires a physical encryption key.
 Therefore it is only available on the print room lap top.
-DO NOT INSTALL ANY OF THE REQUIRED SOFTWARE OR DRIVERS ON YOUR OWN DEVICE.
-The final print must be done on the print computer.
+
+!!! danger "DO NOT INSTALL ANY REQUIRED SOFTWARE OR DRIVERS ON YOUR OWN DEVICE"
+  If the driveer is updated it will brick the machine.
+  The final print must be done on the print computer.
 
 ### Required
 
@@ -69,7 +67,7 @@ Please note different fabrics will have different qualities and issues.
 
 ### Printing
 
-=== White Shirts
+=== "White Shirts"
 
 __Print__
 -------------------------------------------------------------------------------
@@ -78,7 +76,7 @@ __Print__
 3. Make sure `WHITE+COLOR` is **NOT** checked.
 4. `Print`
 
-=== Light Colored Shirts
+=== "Light Colored Shirts"
 
 * Optional Image Armour ULTRA Dark Shirt Formula
 1. Spray down shirt with Image Armour ULTRA Dark Shirt Formula.
@@ -100,7 +98,7 @@ __Print__
 3. Check the `WHITE+COLOR` Option.
 4. `Print`
 
-=== Dark Shirts
+=== "Dark Shirts"
 
 * Optional Image Armour ULTRA Dark Shirt Formula
 1. Spray down shirt with Image Armour ULTRA Dark Shirt Formula.
