@@ -19,6 +19,7 @@ The DTG Software requires a physical encryption key.
 Therefore it is only available on the print room lap top.
 
 !!! danger "DO NOT INSTALL ANY REQUIRED SOFTWARE OR DRIVERS ON YOUR OWN DEVICE"
+
   If the driveer is updated it will brick the machine.
   The final print must be done on the print computer.
 
@@ -69,55 +70,51 @@ Please note different fabrics will have different qualities and issues.
 
 === "White Shirts"
 
-__Print__
--------------------------------------------------------------------------------
-1. `File` drop down, then `Print...` (or use ++f10++)
-2. Make sure it is on the correct port `USB002 <EPSON L805 Series T-shirt DTG>`. Otherwise close and change it in the printer tab.
-3. Make sure `WHITE+COLOR` is **NOT** checked.
-4. `Print`
+  __Print__
+  1. `File` drop down, then `Print...` (or use ++f10++)
+  2. Make sure it is on the correct port `USB002 <EPSON L805 Series T-shirt DTG>`. Otherwise close and change it in the printer tab.
+  3. Make sure `WHITE+COLOR` is **NOT** checked.
+  4. `Print`
 
 === "Light Colored Shirts"
 
-* Optional Image Armour ULTRA Dark Shirt Formula
-1. Spray down shirt with Image Armour ULTRA Dark Shirt Formula.
-2. Heat shirt at 330F for 30 seconds (follow instructions on main bottle).
+  * Optional Image Armour ULTRA Dark Shirt Formula
+  1. Spray down shirt with Image Armour ULTRA Dark Shirt Formula.
+  2. Heat shirt at 330F for 30 seconds (follow instructions on main bottle).
 
 __Check Black Handling__
--------------------------------------------------------------------------------
 
-1. In DTGRIP go to the `White` tab.
-2. Set `Black Handling`
-   * Color Shirts - If printing color set it to 100%. 
-   * Black/Dark Shirts - If on color check the `white` and `preview` views, and set threshold to desired level.
+  1. In DTGRIP go to the `White` tab.
+  2. Set `Black Handling`
+     * Color Shirts - If printing color set it to 100%. 
+     * Black/Dark Shirts - If on color check the `white` and `preview` views, and set threshold to desired level.
 
 
-__Print__
--------------------------------------------------------------------------------
-1. `File` drop down, then `Print...` (or use ++f10++)
-2. Make sure it is on the correct port `USB002 <EPSON L805 Series T-shirt DTG>`. Otherwise close and change it in the printer tab.
-3. Check the `WHITE+COLOR` Option.
-4. `Print`
+  __Print__
+
+  1. `File` drop down, then `Print...` (or use ++f10++)
+  2. Make sure it is on the correct port `USB002 <EPSON L805 Series T-shirt DTG>`. Otherwise close and change it in the printer tab.
+  3. Check the `WHITE+COLOR` Option.
+  4. `Print`
 
 === "Dark Shirts"
 
-* Optional Image Armour ULTRA Dark Shirt Formula
-1. Spray down shirt with Image Armour ULTRA Dark Shirt Formula.
-2. Heat shirt at 330F for 30 seconds (follow instructions on main bottle).
+  * Optional Image Armour ULTRA Dark Shirt Formula
+  1. Spray down shirt with Image Armour ULTRA Dark Shirt Formula.
+  2. Heat shirt at 330F for 30 seconds (follow instructions on main bottle).
 
-__Check Black Handling__
--------------------------------------------------------------------------------
+  __Check Black Handling__
 
-1. In DTGRIP go to the `White` tab.
-2. Set `Black Handling`
-   * Color Shirts - If printing color set it to 100%. 
-   * Black/Dark Shirts - If on color check the `white` and `preview` views, and set threshold to desired level.
+  1. In DTGRIP go to the `White` tab.
+  2. Set `Black Handling`
+     * Color Shirts - If printing color set it to 100%. 
+     * Black/Dark Shirts - If on color check the `white` and `preview` views, and set threshold to desired level.
 
-__Print__
--------------------------------------------------------------------------------
-1. `File` drop down, then `Print...` (or use ++f10++)
-2. Make sure it is on the correct port `USB002 <EPSON L805 Series T-shirt DTG>`. Otherwise close and change it in the printer tab.
-3. Check the `WHITE+COLOR` Option.
-4. `Print`
+  __Print__
+  1. `File` drop down, then `Print...` (or use ++f10++)
+  2. Make sure it is on the correct port `USB002 <EPSON L805 Series T-shirt DTG>`. Otherwise close and change it in the printer tab.
+  3. Check the `WHITE+COLOR` Option.
+  4. `Print`
 
 ## Maintenance
 | Task             | Description                                                                                        | Frequency                         |
