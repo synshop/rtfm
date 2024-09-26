@@ -1,4 +1,5 @@
 site_name: RTFM
+# site_url: https://rtfm.synshop.org
 theme:
     features:
     - content.code.copy
@@ -33,7 +34,6 @@ markdown_extensions:
           pygments_lang_class: true
     - pymdownx.inlinehilite
     - pymdownx.snippets
-    - pymdownx.superfences
     - pymdownx.keys
     - pymdownx.caret
     - pymdownx.mark
@@ -54,4 +54,4 @@ plugins:
     - awesome-pages
     - tags:
          tags_file: tags.md
-    - mermaid2
+#    - mermaid2
