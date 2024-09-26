@@ -71,6 +71,7 @@ Please note different fabrics will have different qualities and issues.
 === "White Shirts"
 
     __Print__
+
   	 1. `File` drop down, then `Print...` (or use ++f10++)
     2. Make sure it is on the correct port `USB002 <EPSON L805 Series T-shirt DTG>`. Otherwise close and change it in the printer tab.
     3. Make sure `WHITE+COLOR` is **NOT** checked.
@@ -111,6 +112,7 @@ Please note different fabrics will have different qualities and issues.
        * Black/Dark Shirts - If on color check the `white` and `preview` views, and set threshold to desired level.
 
     __Print__
+
     1. `File` drop down, then `Print...` (or use ++f10++)
     2. Make sure it is on the correct port `USB002 <EPSON L805 Series T-shirt DTG>`. Otherwise close and change it in the printer tab.
     3. Check the `WHITE+COLOR` Option.
