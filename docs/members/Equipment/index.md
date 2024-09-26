@@ -2,12 +2,12 @@
 
 <div class="grid cards" markdown>
 
-- :material-printer: [Print and Office](/members/Equipment/Print and Office/index.md/) Graphics on many mediums
-- :fontawesome-solid-paintbrush: [Arts and Crafts](/members/Equipment/Crafts/index.md/) Handmade creations
-- :material-battery: [Electronics](/members/Equipment/Electronics/index.md) Lights, waves and electrical circuits
-- :material-printer-3d-nozzle: [3D Printing](/members/Equipment/3D Printing/index.md) Printed objects in filament or resin
-- :fontawesome-solid-wand-sparkles: [Laser Cutting](/members/Equipment/Laser Cutting/index.md) CNC controlled laser cutting
-- :material-saw-blade: [Danger Room](/members/Equipment/Danger Room/index.md) Things to cut and mend wood and metal
+- :material-printer: [Print and Office](/members/Equipment/Print and Office/) Graphics on many mediums
+- :fontawesome-solid-paintbrush: [Arts and Crafts](/members/Equipment/Crafts/) Handmade creations
+- :material-battery: [Electronics](/members/Equipment/Electronics/) Lights, waves and electrical circuits
+- :material-printer-3d-nozzle: [3D Printing](/members/Equipment/3D Printing/) Printed objects in filament or resin
+- :fontawesome-solid-wand-sparkles: [Laser Cutting](/members/Equipment/Laser Cutting/) CNC controlled laser cutting
+- :material-saw-blade: [Danger Room](/members/Equipment/Danger Room/) Things to cut and mend wood and metal
 
 </div>
 
