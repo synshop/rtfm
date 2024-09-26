@@ -1,5 +1,5 @@
 site_name: RTFM
-site_url: https://rtfm.synshop.org
+# site_url: https://rtfm.synshop.org
 theme:
     features:
     - content.code.copy
