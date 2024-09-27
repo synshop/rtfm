@@ -126,8 +126,8 @@ Please note different fabrics will have different qualities and issues.
 ## Maintenance
 | Task             | Description                                                                                        | Frequency                         |
 |------------------|----------------------------------------------------------------------------------------------------|-----------------------------------|
-| Nozzle Cleaning  | The Nozzles must be cleaned daily, or ink could dryout and clog the lines, dampers, and printhead. | Daily                             |
-| Bottle Shaking   | The inks must be agitated or the pigments will settle                                              | Daily                             |
+| Nozzle Cleaning  | The Nozzles must be cleaned, or ink could dryout and clog the lines, dampers, and printhead.       | Frequently as possible            |
+| Bottle Shaking   | The inks must be agitated or the pigments will settle                                              | Frequently as possible            |
 | Dump Wastebottle | Empty waste bottle into sink                                                                       | when waste bottle is 2/3rds full. |
 |                  |                                                                                                    |                                   |
 
