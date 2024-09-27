@@ -10,9 +10,11 @@ Any inlcuded lines in an admonition must begin with 4 leading spaces.
 
 ``` markdown title="Admonition"
 !!! note
+
     This is a note admonition.
 
 !!! note "note admonition with title"
+
     This is a note admonition.
 ```
 
