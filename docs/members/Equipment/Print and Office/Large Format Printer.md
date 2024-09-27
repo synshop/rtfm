@@ -5,6 +5,7 @@ tags:
    - print
    - paper
    - ink
+   - large format
    - posters
 ---
 # Canon iPF6400SE Large Format Printer
