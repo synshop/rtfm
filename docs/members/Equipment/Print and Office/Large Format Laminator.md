@@ -3,6 +3,7 @@ tags:
  - equipment
  - print and office
  - lamination
+ - large format
 ---
 # GBC Ultima 65 27" Large Format Laminator
 Please see the Manual of Style for detailed information on what info to put under each heading.
