@@ -8,7 +8,7 @@ Admonitions add snippets of information without breaking the reading flow.
 Admonitions are created with `!!! <admonition type> "optional title"`.
 Any inlcuded lines in an admonition must begin with 4 leading spaces.
 
-``` markdown title="Admonition"
+``` markdown
 !!! note
 
     This is a note admonition.
