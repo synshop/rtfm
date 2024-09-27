@@ -1,8 +1,8 @@
 nav:
-  - Formating Help and Guideines:
-    - Formatting.md
-    - Admonitions.md
-  - Article Guidelines:
-    - Articles.md
-    - Equipment Articles.md
-    - Software Articles.md
+    - Formating Help and Guideines:
+        - Formatting.md
+        - Admonitions.md
+    - Article Guidelines:
+        - Articles.md
+        - Equipment Articles.md
+        - Software Articles.md
