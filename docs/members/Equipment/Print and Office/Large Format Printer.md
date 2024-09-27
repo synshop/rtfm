@@ -1,4 +1,5 @@
 ---
+description: A 24" large format printer for printing posters, game mats, and blueprints.
 tags:
    - STUB
    - print and office
