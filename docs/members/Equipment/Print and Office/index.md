@@ -45,3 +45,4 @@
 * Nix Mini Color Sensor
 * Fellowes DM8C Paper Shredder
 * Canon CanoScan LiDE 220 8.5"x11.5" Scanner
+* Porta-Trace 1118 11"x18" Light Box
