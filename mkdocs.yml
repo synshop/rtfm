@@ -51,7 +51,8 @@ edit_uri: edit/master/docs/
 
 plugins:
     - search
+    - social
     - awesome-pages
     - tags:
          tags_file: tags.md
-#    - mermaid2
+    - mermaid2
