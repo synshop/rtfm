@@ -58,6 +58,11 @@ Please note different fabrics will have different qualities and issues.
 ### Preparation
 * Please see [DTGRIP](/members/Software/DTGRIP) for a comprehensive guide to software settings.
 * Shake ink bottles.
+
+!!! tip "Recommended: Pretreatment"
+    If you are using a colored shirt, especially a dark colored shirt use a pretreatment, such as the Image Armor ULTRA Dark Shirt formula.
+    Pretreatment will make the fabric absorb less of the ink, making the image appear more brilliant.
+  
 * Load fabric.
    * The top of the software will print on the side closest to the front of the machine. 
    1. Flatten shirt on panel.
@@ -79,10 +84,10 @@ Please note different fabrics will have different qualities and issues.
 
 === "Light Colored Shirts"
 
-    * Optional Image Armour ULTRA Dark Shirt Formula
-    1. Spray down shirt with Image Armour ULTRA Dark Shirt Formula.
-    2. Heat shirt at 330F for 30 seconds (follow instructions on main bottle).
-
+    !!! tip "Recommended: Pretreatment"
+        Consider using a pretreatment if the color of the shirt bleeds through.
+        Follow the instructions on your pretreatment solution.
+        
     __Check Black Handling__
 
     1. In DTGRIP go to the `White` tab.
@@ -100,9 +105,9 @@ Please note different fabrics will have different qualities and issues.
 
 === "Dark Shirts"
 
-    * Optional Image Armour ULTRA Dark Shirt Formula
-    1. Spray down shirt with Image Armour ULTRA Dark Shirt Formula.
-    2. Heat shirt at 330F for 30 seconds (follow instructions on main bottle).
+    !!! tip "Recommended: Image Armour ULTRA Dark Shirt Formula"
+        1. Spray down shirt with Image Armour ULTRA Dark Shirt Formula.
+        2. Heat shirt at 330F for 30 seconds (follow instructions on main bottle).
 
     __Check Black Handling__
 
