@@ -93,8 +93,7 @@ Please note different fabrics will have different qualities and issues.
     1. In DTGRIP go to the `White` tab.
     2. Set `Black Handling`
        * Color Shirts - If printing color set it to 100%. 
-       * Black/Dark Shirts - If on color check the `white` and `preview` views, and set threshold to desired level.
-
+       
 
     __Print__
 
@@ -112,9 +111,10 @@ Please note different fabrics will have different qualities and issues.
     __Check Black Handling__
 
     1. In DTGRIP go to the `White` tab.
-    2. Set `Black Handling`
-       * Color Shirts - If printing color set it to 100%. 
+    2. Set `Black Handling` 
        * Black/Dark Shirts - If on color check the `white` and `preview` views, and set threshold to desired level.
+       It may be advantageous to let the black of the shirt show though for some graphics.
+       Otherwise set this to 100%.
 
     __Print__
 
