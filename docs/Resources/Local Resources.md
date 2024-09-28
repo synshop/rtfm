@@ -78,3 +78,8 @@ Las Vegas, NV 89102](http://maps.google.com/maps?hl=en&biw=1363&bih=746&bav=on.2
 On Western Ave (Highland turns into Western) just North of the Sahara overpass on the East side of the street  
 Extensive inventory with local pickup. Free catalog in store or order online. Open M-F only.
 
+## Wood
+### [Woodcraft](https://www.woodcraft.com/pages/store/las-vegas)
+[5220 West Charleston Blvd
+Las Vegas, NV 89146](https://www.google.com/maps/place/Woodcraft+of+Las+Vegas/@36.1595044,-115.2152061,17z/data=!3m1!4b1!4m14!1m7!3m6!1s0x80c8c14933e0ec3f:0xe5fe212539829f43!2sWoodcraft+of+Las+Vegas!8m2!3d36.1595001!4d-115.2126312!16s%2Fg%2F11s0zvk25w!3m5!1s0x80c8c14933e0ec3f:0xe5fe212539829f43!8m2!3d36.1595001!4d-115.2126312!16s%2Fg%2F11s0zvk25w?entry=ttu&g_ep=EgoyMDI0MDkyNS4wIKXMDSoASAFQAw%3D%3D)
+Charleston just West of Decatur.
