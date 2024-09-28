@@ -23,14 +23,23 @@ If the page contains multiple machines then the 1st primary heading should be th
 `Manufacturer Model number Maximum size`
 
 ## Contents
+!!! tip "Answering Questions"
+    When filling out the contents of a template, treat each heading like you are answering someone's question about a piece of equipment.
+    The following section provides questions for each heading.
+    
 For new equipment entries copy equipment_template.md and rename it to the appropriate file name.
 
 A template for equipment pages is provided at:
 
 ### Manuals
+!!! question "Where can I get more information about this equipment?"
+
 Links to the equipment's full manual should be provided under this heading.
 
 ### Firmware, Drivers, and Software
+!!! question "Will I need to use any computer programs? What do I need to download?"
+    If the answer to the first question is no, you can remove this heading and its subheadings.
+    
 Relevant programs related to the equipment should get listed here.
 Information about whether the software is already available on SYN Shop computers should also be indicated under this heading.
 Distinguish between necessary and optional firmware in the subheadings below.
@@ -49,19 +58,33 @@ Software that is relevant, but optional can be listed under this heading.
 If there are multiple programs that serve the same function, consider making subheadings.
 
 ### Function
+!!! question "Why would I need to use this equipment? What can it do?"
+
 This section should express to a reader what the machine does, and why someone would use it.
 
 #### Specifications
+!!! question "How big, how much?"
+
 List information about the sizes of material it can take under this heading.
 
 ### Cost and Consumables 
-This section should describe any additional costs past a membership to use this machine.
+!!! question "Does this equipment consume any materials?"
+    Does the shop provide any materials?
+    What is a fair donation to the shop if it does?
+
+This section should describe any additional costs past a membership to use this machine,
+what is a fair donation if it uses shop provided consumables,
+and also what of the member's material will be consumed.
 It should articulate what materials are potentially consumed during usage.
 
 ### Usage
+!!! question "How do I use this?"
+
 This section should describe the specific usage of a machine and provide adequate instructions on how to use that machine.
 
 ### Maintenance
+!!! question "What should be regularly checked on this equipment?"
+
 This section should list maintenance tasks. This ideally should be summarized with a markdown table with the name description and frequency of the task. 
 A detail set of instructions can be provided in subheadings.
 
@@ -75,4 +98,7 @@ A detail set of instructions can be provided in subheadings.
 Any notable issues should be posted under this heading.
 
 ### Troubleshooting
+!!! question "Why isn't it working!?"
+
 This provides a list of common issues and steps to fixing them.
+
