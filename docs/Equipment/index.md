@@ -22,7 +22,7 @@ The current list of equipment is as follows:
     * [Cetus3D](https://www.cetus3d.com/) - PLA Only printer
     * [Bambu X1 Carbon](https://bambulab.com/en-us/x1) (2 printers) - With 4 Filament AMS
     * [Anycubic Photon Series LCD-Based SLA Resin 3D Printer](https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-3d-printer) - 3 printers
-    * [Fusion 3 F400-s](F400-s) - Large format PLA 3D Printer
+    * [Fusion 3 F400-s](3D Printing/F400-s) - Large format PLA 3D Printer
 * Full Spectrum Laser Cutters:
     * All laser cutters use [Retina Engrave](../Software/Retina Engrave)
     * ["First Child"](Laser Cutting/First Child Laser Cutter) -  90 Watt Pro LF Series 24" x 18" CO2 (Currently being rebuilt)
