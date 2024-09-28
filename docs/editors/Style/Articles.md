@@ -16,7 +16,7 @@ A brief description can also be provided.
 
 ```yaml
 ---
-description: A brief description can be provided here.
+description: A brief description that will be displayed when the article is linked to a social media site.
 tags:
     - tag
 ---
