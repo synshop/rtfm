@@ -2,12 +2,12 @@
 
 <div class="grid cards" markdown>
 
-- :material-printer: [Print and Office](/members/Equipment/Print and Office/) Graphics on many mediums
-- :fontawesome-solid-paintbrush: [Arts and Crafts](/members/Equipment/Crafts/) Handmade creations
-- :material-battery: [Electronics](/members/Equipment/Electronics/) Lights, waves and electrical circuits
-- :material-printer-3d-nozzle: [3D Printing](/members/Equipment/3D Printing/) Printed objects in filament or resin
-- :fontawesome-solid-wand-sparkles: [Laser Cutting](/members/Equipment/Laser Cutting/) CNC controlled laser cutting
-- :material-saw-blade: [Danger Room](/members/Equipment/Danger Room/) Things to cut and mend wood and metal
+- :material-printer: [Print and Office](Print and Office) Graphics on many mediums
+- :fontawesome-solid-paintbrush: [Arts and Crafts](Crafts) Handmade creations
+- :material-battery: [Electronics](Electronics) Lights, waves and electrical circuits
+- :material-printer-3d-nozzle: [3D Printing](3D Printing) Printed objects in filament or resin
+- :fontawesome-solid-wand-sparkles: [Laser Cutting](Laser Cutting) CNC controlled laser cutting
+- :material-saw-blade: [Danger Room](Danger Room) Things to cut and mend wood and metal
 
 </div>
 
@@ -22,12 +22,12 @@ The current list of equipment is as follows:
     * [Cetus3D](https://www.cetus3d.com/) - PLA Only printer
     * [Bambu X1 Carbon](https://bambulab.com/en-us/x1) (2 printers) - With 4 Filament AMS
     * [Anycubic Photon Series LCD-Based SLA Resin 3D Printer](https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-3d-printer) - 3 printers
-    * [Fusion 3 F400-s](/members/Equipment/F400-s) - Large format PLA 3D Printer
+    * [Fusion 3 F400-s](F400-s) - Large format PLA 3D Printer
 * Full Spectrum Laser Cutters:
-    * All laser cutters use [Retina Engrave](/members/Software/Retina Engrave)
-    * ["First Child"](/members/Equipment/Laser Cutting/First Child Laser Cutter) -  90 Watt Pro LF Series 24" x 18" CO2 (Currently being rebuilt)
-    * ["Big Boi"](/members/Equipment/Laser Cutting/Big Boi Laser Cutter) - 150 Watt Pro LF Series 48" x 36" CO2
-    * ["New Kid"](/members/Equipment/Laser Cutting/New Kid Laser Cutter) - Full Spectrum -  90 Watt Pro LF Series 24" x 16" CO2
+    * All laser cutters use [Retina Engrave](../Software/Retina Engrave)
+    * ["First Child"](Laser Cutting/First Child Laser Cutter) -  90 Watt Pro LF Series 24" x 18" CO2 (Currently being rebuilt)
+    * ["Big Boi"](Laser Cutting/Big Boi Laser Cutter) - 150 Watt Pro LF Series 48" x 36" CO2
+    * ["New Kid"](Laser Cutting/New Kid Laser Cutter) - Full Spectrum -  90 Watt Pro LF Series 24" x 16" CO2
 * 24" Acrylic Bender
 
 ## Carpentry / CNC / Shop Equipment
@@ -45,15 +45,15 @@ The current list of equipment is as follows:
 * Kiln - for melting stuff
 
 * Free Standing Power Tools 
-    * [ShopBot](/members/Equipment/ShopBot) PRSstandard CNC [96-48](https://www.shopbottools.com/products/standard)
-    * [Table Saw](/members/Equipment/Danger Room/Table Saw/) - Delta cabinet saw
-    * [Table Saw](/members/Equipment/Danger Room/Table Saw/) - Grizzly G1023RLWX 10" 5HP 240V Tablesaw, CAB. LEFTTILT
-    * [Track Saw: Grizzly PRO T33300](/members/Equipment/Danger Room/Track Saw) - 6-1/4" Track Saw with 110 inch rails
-    * [Band Saw](/members/Equipment/Danger Room/Band Saw) (Grizzly G0513ANV - 17" 2 HP Band Saw, Anniversary Edition)
+    * [ShopBot](Danger Room/ShopBot) PRSstandard CNC [96-48](https://www.shopbottools.com/products/standard)
+    * [Table Saw](Danger Room/Table Saw/) - Delta cabinet saw
+    * [Table Saw](Danger Room/Table Saw/) - Grizzly G1023RLWX 10" 5HP 240V Tablesaw, CAB. LEFTTILT
+    * [Track Saw: Grizzly PRO T33300](Danger Room/Track Saw) - 6-1/4" Track Saw with 110 inch rails
+    * [Band Saw](Danger Room/Band Saw) (Grizzly G0513ANV - 17" 2 HP Band Saw, Anniversary Edition)
     * Router table: Ryobi router and table
-    * [14" Surface Planer](/members/Equipment/Danger Room/Surface Planer) - Powermatic 
-    * [8" Jointer](/members/Equipment/Danger Room/Jointer)
-    * [Drill Press](/members/Equipment/Danger Room/Drill Press) - Craftsman Professional 3/4 hp 17'' Drill Press 
+    * [14" Surface Planer](Danger Room/Surface Planer) - Powermatic 
+    * [8" Jointer](Danger Room/Jointer)
+    * [Drill Press](Danger Room/Drill Press) - Craftsman Professional 3/4 hp 17'' Drill Press 
     * Dust Collector to all free stranding tools
     
 * Hand Tools
@@ -119,12 +119,12 @@ The current list of equipment is as follows:
 
 ## Print and Office
 
-* [SHARP MX-3070v A3 Multifunction Printer](/members/Equipment/Print and Office/Multi-Function Printer/)
-* [iehk A4 DTG A4 T-Shirt Printer](/members/Equipment/Print and Office/Garment Printer/)
-* [Canon iPF6400SE 24" Large Format Printer](/members/Equipment/Print and Office/Large Format Printer/)
-* [Brother P-Touch PT-P700 24mm Label Maker](/members/Equipment/Print and Office/P-Touch Label Maker/)
+* [SHARP MX-3070v A3 Multifunction Printer](Print and Office/Multi-Function Printer/)
+* [iehk A4 DTG A4 T-Shirt Printer](Print and Office/Garment Printer/)
+* [Canon iPF6400SE 24" Large Format Printer](Print and Office/Large Format Printer/)
+* [Brother P-Touch PT-P700 24mm Label Maker](Print and Office/P-Touch Label Maker/)
 * VEVOR 胶装机-V110 A4 Thermal Glue Binder
-* [GBC Ultima 65 LArge Format Laminator](/members/Equipment/Print and Office/Large Format Laminator/)
+* [GBC Ultima 65 LArge Format Laminator](Print and Office/Large Format Laminator/)
 * Large Rotary Cutter
 * Miscelaneous Print and Office Tools 
 

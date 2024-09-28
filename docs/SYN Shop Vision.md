@@ -21,7 +21,7 @@ If you are in the Las Vegas valley area and are interested in the hackerspace id
 join our [discord](https://synshop.org/discord), 
 sign up to one of our [Mailing Lists](./Mailing Lists), 
 or show up to a [SYN Shop event](https://synshop.org/events). 
-Or just stop by during our [open hours](https://rtfm.synshop.org/members/FAQ/#what-is-the-best-time-to-visit-syn-shop) to check the place out. 
+Or just stop by during our [open hours](https://rtfm.synshop.org/FAQ/#what-is-the-best-time-to-visit-syn-shop) to check the place out. 
 
 ## The Name
 What does the name "SYN Shop" mean, and why do we call ourselves by that name?

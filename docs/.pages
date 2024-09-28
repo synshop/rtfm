@@ -1,4 +1,6 @@
 nav:
+    - index.md
+    - SYN Shop Vision.md
     - FAQ.md
     - kiosk.md
     - About SYN Shop
@@ -7,3 +9,5 @@ nav:
     - Projects
     - Resources
     - Documents
+    - ...
+    - tags.md

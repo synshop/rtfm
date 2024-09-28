@@ -13,7 +13,7 @@ and growing the community of hackers/makers/tinkerers/geeks in Las Vegas. We als
 to meet people from other hackerspaces, and have seen people visit SYN Shop from 
 hackerspaces world wide.
 
-See SYN [Shop Vision](./SYN Shop Vision.md) 
+See SYN [Shop Vision](SYN Shop Vision.md) 
 
 ## Where is the SYN shop?
  
@@ -79,4 +79,4 @@ We regularly review the bylaws and the current copy is [available for all to rea
 
 ## What equipment do you have?
 
-Lots!  See our [tool list](/members/Equipment) for specifics.
+Lots!  See our [tool list](Equipment) for specifics.

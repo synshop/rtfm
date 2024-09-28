@@ -8,11 +8,11 @@ tags:
 
 * The shop's largest laser cutter, thus it is called "Big Boi"
 * 150 Watt Pro LF Series 48" x 36" CO2
-* Uses [Retina Engrave](/members/Software/Retina Engrave)
-* See also ["First Child"](/members/Equipment/Laser Cutting/First Child Laser Cutter) and ["New Kid"](/members/Equipment/Laser Cutting/New Kid Laser Cutter) laser cutters
+* Uses [Retina Engrave](../Software/Retina Engrave)
+* See also ["First Child"](../Equipment/Laser Cutting/First Child Laser Cutter) and ["New Kid"](../Equipment/Laser Cutting/New Kid Laser Cutter) laser cutters
 
-![ ](images/lasercutters/big.boi.far.jpg)
-![ ](images/lasercutters/big.boi.close.jpg)
+![ ](../images/lasercutters/big.boi.far.jpg)
+![ ](../images/lasercutters/big.boi.close.jpg)
 
 ## Current Status
 

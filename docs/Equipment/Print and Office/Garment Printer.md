@@ -25,20 +25,20 @@ Therefore it is only available on the print room lap top.
 
 ### Required
 
-| Program                          | Description                                                      |
-|----------------------------------|------------------------------------------------------------------|
-| [DTGRIP](/members/Software/DTGRIP) | The software that lets you tweak the DTG settings prior to print |
-| EPSON Driver                     | The driver is preinstalled on the computer.                      |
-|                                  | DO NOT UPDATE THIS DRIVER. THE DTG WILL BE BRICKED.              |
+| Program                         | Description                                                      |
+|---------------------------------|------------------------------------------------------------------|
+| [DTGRIP](../../Software/DTGRIP) | The software that lets you tweak the DTG settings prior to print |
+| EPSON Driver                    | The driver is preinstalled on the computer.                      |
+|                                 | DO NOT UPDATE THIS DRIVER. THE DTG WILL BE BRICKED.              |
 
 ### Optional
 
 | Program                                                          | Description                                                         |
 |------------------------------------------------------------------|---------------------------------------------------------------------|
-| [Image Manipulation Program](/members/Software/Image Manipulation) | Software that lets you alter images. GIMP, Photoshop, Krita         |
-| [Vector Graphics Program](/members/Software/Vector Graphics)       | Software that edits vectorized graphics. Size independent software. |
-| [Image Manipulation Program](/members/Software/Image Manipulation) | Software that lets you alter images. GIMP, Photoshop, Krita         |
-| [Vector Graphics Program](/members/Software/Vector Graphics)       | Software that edits vectorized graphics. Size independent software. |
+| [Image Manipulation Program](../../Software/Image Manipulation) | Software that lets you alter images. GIMP, Photoshop, Krita         |
+| [Vector Graphics Program](../../Software/Vector Graphics)       | Software that edits vectorized graphics. Size independent software. |
+| [Image Manipulation Program](../../Software/Image Manipulation) | Software that lets you alter images. GIMP, Photoshop, Krita         |
+| [Vector Graphics Program](../../Software/Vector Graphics)       | Software that edits vectorized graphics. Size independent software. |
 
 ## Cost and Consumables 
 This machine uses fabric and printer ink.
@@ -56,7 +56,7 @@ It may be able to print more with additional adjustments.
 ## Usage
 Please note different fabrics will have different qualities and issues.
 ### Preparation
-* Please see [DTGRIP](/members/Software/DTGRIP) for a comprehensive guide to software settings.
+* Please see [DTGRIP](../../Software/DTGRIP) for a comprehensive guide to software settings.
 * Shake ink bottles.
 
 !!! tip "Recommended: Pretreatment"

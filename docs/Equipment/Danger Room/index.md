@@ -17,15 +17,15 @@
 * Kiln - for melting stuff
 
 * Free Standing Power Tools 
-    * [ShopBot](/members/Equipment/ShopBot) PRSstandard CNC [96-48](https://www.shopbottools.com/products/standard)
-    * [Table Saw](/members/Equipment/Danger Room/Table Saw/) - Delta cabinet saw
-    * [Table Saw](/members/Equipment/Danger Room/Table Saw/) - Grizzly G1023RLWX 10" 5HP 240V Tablesaw, CAB. LEFTTILT
-    * [Track Saw: Grizzly PRO T33300](/members/Equipment/Danger Room/Track Saw) - 6-1/4" Track Saw with 110 inch rails
-    * [Band Saw](/members/Equipment/Danger Room/Band Saw) (Grizzly G0513ANV - 17" 2 HP Band Saw, Anniversary Edition)
+    * [ShopBot](ShopBot) PRSstandard CNC [96-48](https://www.shopbottools.com/products/standard)
+    * [Table Saw](Table Saw) - Delta cabinet saw
+    * [Table Saw](Table Saw) - Grizzly G1023RLWX 10" 5HP 240V Tablesaw, CAB. LEFTTILT
+    * [Track Saw: Grizzly PRO T33300](Track Saw) - 6-1/4" Track Saw with 110 inch rails
+    * [Band Saw](Band Saw) (Grizzly G0513ANV - 17" 2 HP Band Saw, Anniversary Edition)
     * Router table: Ryobi router and table
-    * [14" Surface Planer](/members/Equipment/Danger Room/Surface Planer) - Powermatic 
-    * [8" Jointer](/members/Equipment/Danger Room/Jointer)
-    * [Drill Press](/members/Equipment/Danger Room/Drill Press) - Craftsman Professional 3/4 hp 17'' Drill Press 
+    * [14" Surface Planer](Surface Planer) - Powermatic 
+    * [8" Jointer](Jointer)
+    * [Drill Press](Drill Press) - Craftsman Professional 3/4 hp 17'' Drill Press 
     * Dust Collector to all free stranding tools
     
 * Hand Tools
@@ -44,6 +44,5 @@
     * Angle Grinder - Dewalt 
 
 ## Welding
-
     * MIG Welder - Hobart 110 Amp MIG/Flux Wire Welder 
     * Stick Welder

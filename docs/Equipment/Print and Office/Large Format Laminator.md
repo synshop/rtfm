@@ -11,9 +11,9 @@ Any changes to this template should be updated in the manual of style too.
 
 ## Manuals 
 
-The instruction manual for this machine is [available in PDF form](/members/Equipment/Print%20and%20Office/gbc_ultima_65_user_manual.pdf). 
+The instruction manual for this machine is [available in PDF form](gbc_ultima_65_user_manual.pdf). 
 
-If something more serious starts happening, the service manual is also [available](/members/Equipment/Print and Office/ultima_65-service-manual.pdf). Note that both of these manuals are for later-models of this laminator, so there may be some slight differences.
+If something more serious starts happening, the service manual is also [available](ultima_65-service-manual.pdf). Note that both of these manuals are for later-models of this laminator, so there may be some slight differences.
 
 ## Costs and Consumables 
 The cost of lamination is $.20 per foot. Base this on the finished item-- if you are laminating a poster that is 2” wide and 3” tall, please donate $.60 to the shop; don’t worry about the 3-5 inches needed at the top and bottom of the object to feed it into the laminator. If you accidentally burn through more than a foot of film learning how to set up your job, please toss a coin to your witcher.

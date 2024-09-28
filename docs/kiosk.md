@@ -31,7 +31,7 @@ and open source:
   * The display of upcoming events is from our MeetUp page and is displayed
     using [MeetupEvents](https://github.com/Ths2-9Y-LqJt6/MeetupScraper).
   * The spinning shop logo is just an SVG image and you can download it from 
-    [this wiki](/members/Logos/). To read more about CSS animations, 
+    [this wiki](Logos). To read more about CSS animations, 
     check out [getflywheel's site](https://getflywheel.com/layout/svg-animations-css-how-to/ )!
   * The list of members who have recently used their fob to unlock the front door, comes 
     from our security system.  Read more about on the [fobber project](https://github.com/Ths2-9Y-LqJt6/fobber)!
