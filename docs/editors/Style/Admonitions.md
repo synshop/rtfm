@@ -1,3 +1,11 @@
+---
+description: Snippets of information that don't break the flow of reading.
+tags:
+    - style
+    - formatting
+    - information
+    - admonitions
+---
 # Admonitions
 For more information on admonitions see [the mkdocs-material documentation](https://squidfunk.github.io/mkdocs-material/reference/admonitions/)
 

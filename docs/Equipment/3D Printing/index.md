@@ -1,3 +1,9 @@
+---
+description: A listing of SYN Shop's 3D Printing equipment.
+tags:
+    - equipment
+    - 3d printing
+---
 # 3D Printing
 ## About
 ## Activities

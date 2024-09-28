@@ -1,4 +1,5 @@
 ---
+description: A heavy duty sewing machine capable of sewing leather.
 tags:
     - equipment
     - crafts

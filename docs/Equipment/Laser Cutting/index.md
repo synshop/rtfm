@@ -1,3 +1,9 @@
+---
+description: A listing of SYN Shop's laser cutting equipment.
+tags:
+    - equipment
+    - laser cutting
+---
 # Laser Cutting
 
 

@@ -1,3 +1,6 @@
+---
+description: A list of guides and tutorials for projects that you can do at the shop.
+---
 # Individual Projects
 This section provides tutorials on projects that will use multiple pieces of equipment.
 

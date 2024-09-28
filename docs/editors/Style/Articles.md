@@ -1,7 +1,9 @@
 ---
+description: RTFM guidelines on writing articles in general. Specific types of articles have their own pages.
 tags:
     - editors
     - style
+    - articles
 ---
 # Articles
 This article along with more specific articles describes the structure of specific pages. 

@@ -1,3 +1,9 @@
+--- 
+description: A listing of SYN Shop's print and office equipment.
+tags:
+- equipment
+- print and office
+---
 # Print and Office
 
 ## About

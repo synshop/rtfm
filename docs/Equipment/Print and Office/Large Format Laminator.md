@@ -1,4 +1,5 @@
 ---
+description: A 27 inch hot laminator for laminating NON-METALIC media and ink. NO METAL EVER
 tags:
  - equipment
  - print and office

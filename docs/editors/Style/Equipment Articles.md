@@ -1,4 +1,5 @@
 ---
+description: RTFM Guidelines on editing equipment articles. Remember it's like answering questions!
 tags:
     - editors
     - style
@@ -27,9 +28,7 @@ If the page contains multiple machines then the 1st primary heading should be th
     When filling out the contents of a template, treat each heading like you are answering someone's question about a piece of equipment.
     The following section provides questions for each heading.
     
-For new equipment entries copy equipment_template.md and rename it to the appropriate file name.
-
-A template for equipment pages is provided at:
+For new equipment entries copy [equipment_template.md](https://raw.githubusercontent.com/synshop/rtfm/refs/heads/master/docs/editors/Templates/equipment_template.md) and rename it to the appropriate file name.
 
 ### Manuals
 !!! question "Where can I get more information about this equipment?"

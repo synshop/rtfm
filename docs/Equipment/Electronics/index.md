@@ -1,3 +1,9 @@
+--- 
+description: A listing of SYN Shop's electronics equipment.
+tags: 
+    - equipment
+    - electronics
+---
 # Electronics
 
 ## About

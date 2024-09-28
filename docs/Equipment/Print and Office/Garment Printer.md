@@ -1,4 +1,5 @@
 ---
+description: An A4 size printer for printing on shirts, totes, and other fabrics.
 tags:
   - STUB
   - equipment

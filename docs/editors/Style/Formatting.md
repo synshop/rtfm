@@ -1,4 +1,5 @@
 ---
+description: Guide on basic formatting available in RTFM.
 tags:
     - style
     - formatting
@@ -95,5 +96,5 @@ result:
 
 ## mkdocs-material Extensions
 
-### Admonitions
-### Grids
+* [Admonitions](Admonitions) - [mkdocs-material documentation](https://squidfunk.github.io/mkdocs-material/reference/admonitions/)
+* [Grids](Grids) - [mkdocs-material documentation](https://squidfunk.github.io/mkdocs-material/reference/grids/)

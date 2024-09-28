@@ -1,3 +1,11 @@
+---
+description: A listing of SYN Shop's Craft tools and equipment.
+tags:
+    - equipment
+    - arts and crafts
+    - crafts
+---
+
 # Crafts
 
 ## About

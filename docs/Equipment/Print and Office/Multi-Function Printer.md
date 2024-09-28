@@ -1,4 +1,5 @@
 ---
+description: A full color office printer, copier and scanner.
 tags:
     - equipment
 ---

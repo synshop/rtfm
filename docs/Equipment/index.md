@@ -1,3 +1,8 @@
+--- 
+description: A simplified list of the equipment available at the shop. Moer detailed lists are availabe under each department's article.
+tags:
+    - equipment
+---
 # SYN Shop Tool & Equipment 
 
 <div class="grid cards" markdown>
