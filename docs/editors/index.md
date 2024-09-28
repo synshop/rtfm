@@ -6,12 +6,20 @@ tags:
 ---
 
 # Manual of Style
-This manual of style provides editors with guidelines that will help readers use RTFM more intuitively.
-The manual is broken down into smaller articles for ease of navigation.
-## Navigation
+This manual of style provides editors with guidelines to improve the reader experience of RTFM.
+The goal is to first make RTFM more intuitive to read and find information,
+and second direct editors as to what and how information is organized on RTFM.
 
-* [Formatting](/editors/Style/Formatting)
+The manual is broken down into smaller articles for ease of navigation.
+## Formatting
+These articles explain different formatting features of this implementation of markdown.
+* [Formatting](Style/Formatting)
     * [Admonitions](Style/Admonitions)
-* [Articles](/editors/Style/Articles)
-    * [Equipment Articles](/editors/Style/Equipment Articles)
-    * [Software Articles](/editors/Style/Software Articles)
+
+## Articles
+These articles articulate the structure expected for various types of articles on RTFM.
+* [Articles](Style/Articles)
+    * [Equipment Articles](Style/Equipment Articles)
+    * [Software Articles](Style/Software Articles)
+    * [Individual Project Articles](Style/Individual Project Articles)
+    * [Shop Project Articles](Style/Shop Project Articles)
