@@ -1,0 +1,9 @@
+nav:
+    - Formatting:
+        - Formatting.md
+        - Admonitions.md
+    - Articles:
+        - Articles.md
+        - Equipment Articles.md
+        - Software Articles.md
+    
