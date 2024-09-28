@@ -28,4 +28,6 @@ There are 4 ways you can contribute.
 1. Message the #rtfm channel on discord to discuss various improvements. Discord link at https://synshop.org/discord
 2. Create an [issue on github](https://github.com/synshop/rtfm/issues/new).
 3. Fork https://github.com/synshop/rtfm and make a pull request.
-4. Ask an RTFM for contributor access and contribute directly on github. (members only)
+    If you do this consider adding more information to one of the [STUB Articles](https://rtfm.synshop.org/tags/#stub).   
+5. Ask an RTFM for contributor access and contribute directly on github. (members only)
+    If you do this consider adding more information to one of the [STUB Articles](https://rtfm.synshop.org/tags/#stub).   
