@@ -11,6 +11,7 @@ The manual is broken down into smaller articles for ease of navigation.
 ## Navigation
 
 - [Formatting](/editors/Style/Formatting)
+- [Admonitions](Style/Admonitions)
 - [Articles](/editors/Style/Articles)
-  - [Equipment Articles](/edtors/Style/Equipment Articles)
-  - [Software Articles](/edtors/Style/Software Articles)
+  - [Equipment Articles](/editors/Style/Equipment Articles)
+  - [Software Articles](/editors/Style/Software Articles)
