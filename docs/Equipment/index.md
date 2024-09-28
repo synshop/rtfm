@@ -7,7 +7,7 @@
 - :material-battery: [Electronics](Electronics) Lights, waves and electrical circuits
 - :material-printer-3d-nozzle: [3D Printing](3D Printing) Printed objects in filament or resin
 - :fontawesome-solid-wand-sparkles: [Laser Cutting](Laser Cutting) CNC controlled laser cutting
-- :material-saw-blade: [Danger Room](Danger Room) Things to cut and mend wood and metal
+- :material-saw-blade: [Danger Room](Danger Room) Tools to shape wood and metal
 
 </div>
 
