@@ -6,7 +6,7 @@ RTFM is the documentation for the SYN Shop.
 It is currently being reworked in many areas described below.
 
 ## Equipment List
-    The main equipment list will be summarized, and detailed lists will be provided for each department.
+The main equipment list will be summarized, and detailed lists will be provided for each department.
 ## Equipment
 Equipment pages are being standardized to provide more regular and accessible information for shop members.
 Ideally people should be able to read an equipment article and understand how it works and why they would use the equipment.
