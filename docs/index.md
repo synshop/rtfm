@@ -27,7 +27,7 @@ It's encouraged to contribute to RTFM to help improve RTFM's organization and av
 ### What help do we need?
 Here are some common ways you can help rtfm:
 
-* Filling [STUB articles](https://rtfm.synshop.org/tags/#stub) with more information.   
+* Filling [STUB articles](tags/#stub) with more information.
 
 * Improve the style of pages so it conforms to the [Manual of Style](editors). This can include:
 
@@ -40,10 +40,10 @@ Here are some common ways you can help rtfm:
 
 There are 4 ways to get engaged with SYN Shop RTFM:
 
-* Message the #rtfm channel on discord to discuss various improvements. Discord link at https://synshop.org/discord
+* Message the `#rtfm` channel on discord to discuss various improvements. Discord link at [https://synshop.org/discord](https://synshop.org/discord)
 
 * Create an [issue on github](https://github.com/synshop/rtfm/issues/new).
 
-* Fork https://github.com/synshop/rtfm and make a pull request.  
+* Fork [https://github.com/synshop/rtfm](https://github.com/synshop/rtfm) and make a pull request.
 
-* Ask an RTFM admin for contributor access and contribute directly on github. (members only)
+* Ask an RTFM admin for contributor access and edit directly on github. (members only)
