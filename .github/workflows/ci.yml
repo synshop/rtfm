@@ -15,7 +15,7 @@ jobs:
       - run: pip install "mkdocs-material[imaging]"
       - run: pip install mkdocs-mermaid2-plugin
       - run: pip install mkdocs-awesome-pages-plugin
-      - run: pip install mkdocs-redirects
+#      - run: pip install mkdocs-redirects
       - run: mkdir local_public
       - run: mkdocs build --clean -d ./local_public/
 
