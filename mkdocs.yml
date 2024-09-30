@@ -6,7 +6,7 @@ theme:
     - content.action.edit
     - content.action.view
     - navigation.instant
-    - navigation.instant.progress
+#    - navigation.instant.progress
     - navigation.indexes
     - navigation.sections
     - navigation.tabs

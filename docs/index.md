@@ -2,7 +2,7 @@
 description: The documentation for SYN Shop.
 ---
 
-# SYN Shop Docs
+# RTFM Home
 
 RTFM is SYN Shop's documentation for common usage at SYN Shop.
 You can read it for information about equipment, tutorials, or resources.
