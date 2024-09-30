@@ -36,7 +36,9 @@ Here are some common ways you can help rtfm:
     * Add tags to the front matter of an article.
     * Improving reading flow with the use of [admonitions](editors/Style/Admonitions), [grids](https://squidfunk.github.io/mkdocs-material/reference/grids/), or [tabs](https://squidfunk.github.io/mkdocs-material/reference/content-tabs/).
 
-There are 4 ways to get engaged with SYN Shop RTFM.
+### How do I get involved?
+
+There are 4 ways to get engaged with SYN Shop RTFM:
 
 * Message the #rtfm channel on discord to discuss various improvements. Discord link at https://synshop.org/discord
 
