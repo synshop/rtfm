@@ -6,7 +6,7 @@ While it's a work in progress, as of Nov 2019, it looks like this:
 
 And the mini-display and computer looks like this:
 
-<img style="width: 50%;" src="../../images/kiosk.rasbperry.pi.jpeg">
+<img style="width: 50%;" src="../images/kiosk.rasbperry.pi.jpeg">
 
 So what is all this stuff and how does it work?!  The large top display
 is simply a TV.  This one happens to be an industrial one normally used in a 
