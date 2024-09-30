@@ -1,5 +1,6 @@
 nav:
     - Active:
+        - kiosk.md
         - RTFM.md
     - Inactive:
         - ...

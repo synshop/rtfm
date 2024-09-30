@@ -1,5 +1,5 @@
 
-# SYN Shop Vision
+# About SYN Shop
 
 SYN Shop is a [hackerspace](https://en.wikipedia.org/wiki/Hackerspace) located in Las Vegas, Nevada. It is a space for sharing, creation, collaboration, research, development, mentoring, and of course, learning. Our motto is: "Let's make stuff awesome!''
 

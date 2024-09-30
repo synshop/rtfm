@@ -35,6 +35,3 @@ and open source:
     check out [getflywheel's site](https://getflywheel.com/layout/svg-animations-css-how-to/ )!
   * The list of members who have recently used their fob to unlock the front door, comes 
     from our security system.  Read more about on the [fobber project](https://github.com/Ths2-9Y-LqJt6/fobber)!
-    
- If you're a shop administrator looking to rebuild this system in case it crashed or something,
- check out the [admin page](/admins/kiosk/) on it.
