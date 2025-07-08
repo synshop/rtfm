@@ -12,14 +12,15 @@ tags:
 
 ### FDM Printers
 
-* Bambu X1 Carbon 250mm^3^ (2 printers) - With 4 Filament AMS
-* [Fusion 3 F400-s](F400-s) - Large format PLA 3D Printer
-* Creality Ender 3 220x220x250mm FDM 3D Printer
-* [Cetus3D](https://www.cetus3d.com/) - PLA Only printer
+* BambuLab X1 Carbon
+    * 3 printers
+    * 256 mm ^3^ print area 
+    * With 4 Filament AMS
+* BambuLab H2D Dual Nozzle printer
+    * With 4 Filament AMS
+    * 350mm x 320mm x 325mm print area
 
 ### Resin Printers
-* Anycubic Photon Series LCD-Based SLA Resin 3D Printer - 3 printers
 * Elegoo Saturn 3 12K 218x122x250mm^3^ Resin Printer
 * Elegoo Mercury X Cure Curing Station
 * Elegoo Mercury X Wash Washing Station
-* 
