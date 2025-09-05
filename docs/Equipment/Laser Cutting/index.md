@@ -10,12 +10,12 @@ tags:
 ## Activities
 
 ## Equipment
-* All laser cutters use [Retina Engrave](../Software/Retina Engrave)
+* All laser cutters use [Lightburn](../Software/Lightburn)
 
 ### Laser Cutters
-* ["First Child"](First Child Laser Cutter) -  90 Watt Pro LF Series 24" x 18" CO2 (Currently being rebuilt)
+* ["First Child"](First Child Laser Cutter) -  90 Watt Pro LF Series 24" x 18" CO2
 * ["Big Boi"](Big Boi Laser Cutter) - 150 Watt Pro LF Series 48" x 36" CO2
-* ["New Kid"](New Kid Laser Cutter) - Full Spectrum -  90 Watt Pro LF Series 24" x 16" CO2
+* ["New Kid"](New Kid Laser Cutter) - 2W IR Laser (useful for metal heat-painting/engraving)
 
 ### Auxiliary
 * S&A CW-3000 Industrial Chiller
