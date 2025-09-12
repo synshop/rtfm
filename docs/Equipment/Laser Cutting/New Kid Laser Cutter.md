@@ -7,7 +7,7 @@ tags:
 
 * The shop's newest laser cutter, thus it is called "New Kid"
 * 90 Watt Pro LF Series 24" x 18" CO2
-* Uses Lightburn.
+* Uses [Lightburn](../../Software/Lightburn Quick Guide.md)
 * See also ["Big Boi"](../Equipment/Big Boi Laser Cutter) and ["First Child"](../Equipment/First Child Laser Cutter) laser cutters
 
 ![ ](../images/lasercutters/new.kid.far.jpg)
