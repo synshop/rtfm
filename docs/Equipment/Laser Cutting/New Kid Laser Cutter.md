@@ -6,7 +6,7 @@ tags:
 # "New Kid"  Laser Cutter
 
 * The shop's newest laser cutter, thus it is called "New Kid"
-* 90 Watt Pro LF Series 24" x 18" CO2
+* Sculpfun IR-2 1064nm Infrared Laser Module
 * Uses [Lightburn](../../Software/Lightburn Quick Guide.md)
 * See also ["Big Boi"](../Big Boi Laser Cutter) and ["First Child"](../First Child Laser Cutter) laser cutters
 
