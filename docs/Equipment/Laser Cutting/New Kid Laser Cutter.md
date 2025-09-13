@@ -17,7 +17,6 @@ tags:
 * See also ["Big Boi"](../Big Boi Laser Cutter) and ["First Child"](../First Child Laser Cutter) laser cutters
 
 ![ ](../images/lasercutters/new.kid.far.jpg)
-![ ](../images/lasercutters/new.kid.close.jpg)
 
 ## Current Status
 
