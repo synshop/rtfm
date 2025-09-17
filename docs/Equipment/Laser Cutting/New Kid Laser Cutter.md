@@ -10,8 +10,8 @@ tags:
   Sculpfun IR-2 1064nm 2 Watt Infrared
   ###Software:
 * Lightburn
-    [Quick%20Start%29Guide](../../Software/Lightburn Quick Guide.md)
-    [2.0%20Manual](https://lightburnsoftware.github.io/DocsResources/PDF/LB/LightBurn2.0.pdf)
+    [Quick Start Guide](../../Software/Lightburn Quick Guide.md)
+    [Lightburn 2.0 Manual](https://lightburnsoftware.github.io/DocsResources/PDF/LB/LightBurn2.0.pdf)
   
 * ### 🔧 Key Features
 
