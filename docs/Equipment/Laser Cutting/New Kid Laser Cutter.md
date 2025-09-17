@@ -1,12 +1,15 @@
 ---
 tags:
     - equipment
-    - laser cutter
+    - laser etcher
+    https://lightburnsoftware.github.io/DocsResources/PDF/LB/LightBurn2.0.pdf
 ---
-# "New Kid"  Laser Cutter
+# "New Kid"  Laser Etcher
 
 * The shop's newest laser engraver, thus it is called "New Kid"
-* Sculpfun IR-2 1064nm 2 Watt Infrared Laser Module
+* ##Laser Module:
+  Sculpfun IR-2 1064nm 2 Watt Infrared
+  
 * ### 🔧 Key Features
 
 - **Engravable Materials**: Gold, silver, platinum, copper, aluminum, zinc, iron, stainless steel, metal oxides and alloys, plastics, and dark acrylics.
