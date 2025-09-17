@@ -19,7 +19,7 @@ tags:
 - **High Precision**: Ultra-fine 0.03mm laser spot  
 - **Pulse Energy**: 20,000Hz
 
-* Uses 
+
 * See also ["Big Boi"](../Big Boi Laser Cutter) and ["First Child"](../First Child Laser Cutter) laser cutters
 
 ![ ](../images/lasercutters/new.kid.far.jpg)
