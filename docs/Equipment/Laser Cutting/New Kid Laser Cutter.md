@@ -5,7 +5,7 @@ tags:
 ---
 # "New Kid"  Laser Etcher
 
-* The shop's newest laser engraver, thus it is called "New Kid"
+The shop's newest laser engraver, thus it is called "New Kid"
 ## Laser Module:
 Sculpfun IR-2 1064nm 2 Watt Infrared
 ## Software:
