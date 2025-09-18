@@ -13,7 +13,7 @@ Sculpfun IR-2 1064nm 2 Watt Infrared
 [Quick Start Guide](../../Software/Lightburn Quick Guide.md)
 [Lightburn 2.0 Manual](https://lightburnsoftware.github.io/DocsResources/PDF/LB/LightBurn2.0.pdf)
   
-* ### 🔧 Key Features
+### 🔧 Key Features
 
 - **Engravable Materials**: Gold, silver, platinum, copper, aluminum, zinc, iron, stainless steel, metal oxides and alloys, plastics, and dark acrylics.
 - **High Precision**: Ultra-fine 0.03mm laser spot  
