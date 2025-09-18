@@ -19,13 +19,12 @@ Sculpfun IR-2 1064nm 2 Watt Infrared
 - **High Precision**: Ultra-fine 0.03mm laser spot  
 - **Pulse Energy**: 20,000Hz
 
-
-* See also ["Big Boi"](../Big Boi Laser Cutter) and ["First Child"](../First Child Laser Cutter) laser cutters
-
-![ ](../images/lasercutters/new.kid.far.jpg)
-
 ## Current Status
 
 - **Operational**
-  
+
+![ ](../images/lasercutters/new.kid.far.jpg)
+
+  * See also ["Big Boi"](../Big Boi Laser Cutter) and ["First Child"](../First Child Laser Cutter) laser cutters
+
 ### Maintenance Log
