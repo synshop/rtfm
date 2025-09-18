@@ -7,11 +7,11 @@ tags:
 
 * The shop's newest laser engraver, thus it is called "New Kid"
 ## Laser Module:
-- Sculpfun IR-2 1064nm 2 Watt Infrared
+Sculpfun IR-2 1064nm 2 Watt Infrared
 ## Software:
-       * **Lightburn**
-          * [Quick Start Guide](../../Software/Lightburn Quick Guide.md)
-          * [Lightburn 2.0 Manual](https://lightburnsoftware.github.io/DocsResources/PDF/LB/LightBurn2.0.pdf)
+### Lightburn
+[Quick Start Guide](../../Software/Lightburn Quick Guide.md)
+[Lightburn 2.0 Manual](https://lightburnsoftware.github.io/DocsResources/PDF/LB/LightBurn2.0.pdf)
   
 * ### 🔧 Key Features
 
