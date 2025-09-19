@@ -22,6 +22,6 @@ The shop's first laser cutter, thus it is called "First Child"
 ![ ](../images/lasercutters/first.child.far.jpg)
 ![ ](../images/lasercutters/first.child.close.jpg)
 
-   * See also ["Big Boi"](../Equipment/Big Boi Laser Cutter) and ["New Kid"](../Equipment/New Kid Laser Cutter) laser cutters
+   * See also ["Big Boi"](../Big Boi Laser Cutter) and ["New Kid"](../New Kid Laser Cutter) laser cutters
 
 ### Maintenance Log
