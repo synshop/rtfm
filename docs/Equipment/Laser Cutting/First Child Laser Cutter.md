@@ -11,6 +11,7 @@ The shop's first laser cutter, thus it is called "First Child"
 ## Software:
 ### Lightburn
 [Quick Start Guide](../../Software/Lightburn Quick Guide.md)  
+[Quick Start Video](https://youtu.be/82tKnldgrEM)
 [Lightburn 2.0 Manual](https://lightburnsoftware.github.io/DocsResources/PDF/LB/LightBurn2.0.pdf)
   
 ## Key Features:
