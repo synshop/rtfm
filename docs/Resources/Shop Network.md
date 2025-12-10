@@ -4,9 +4,6 @@ Free wifi is available for Shop members, to join, please connect to the `synshop
 ## User File Shares
 Wondering how to get your project file from your computer to a Shop computer? 
 
-If you don't feel like using a USB key to physically transfer the file, SYN Shop has four different SMB shares available that you can use when connected to the Shop network.
+If you don't feel like using a USB key to physically transfer the file, SYN Shop has an SMB share available that you can use when connected to the Shop network. It is also mounted on each of the shop computers.
 
-   - LaserShare - Laser Cutter Control Computers (First Child, New Kid, Big Boi)
-   - PrintShare - 2D Printing Computer (DTG, Canon Large Format printer, Sharp scanner output)
-   - 3DPrintShare - 3D Printer Control Computers (Bambu FTM, Anycubic Resin)
-   - ShopBotShare - Shopbot Control Computer (VCarve Pro Master, Shopbot Controller)
+   - Access via \\10.0.40.26\membershare
