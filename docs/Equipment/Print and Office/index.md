@@ -45,7 +45,6 @@ tags:
 * Swingline 350400 3 Hole Punch
 
 ### Garment and Miscelaneous Media
-* [iehk A4 DTG A4 T-Shirt Printer](Garment Printer)
 * Ephotoinc 15"x15" Heat Press
 * Nix Pro 2 Color Sensor
 * Nix Mini Color Sensor
