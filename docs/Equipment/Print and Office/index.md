@@ -17,7 +17,7 @@ tags:
   
 ### Large Format Printing
 * [Canon iPF6400SE 24" Large Format Printer](Large Format Printer)
-* [GBC Ultima 65 LArge Format Laminator](Large Format Laminator)
+* [GBC Ultima 65 Large Format Laminator](Large Format Laminator)
 * 36" Cold Laminator
 ### Cutting
 * Caiba 470F Maual Paper 18" Cutting Guillotine
