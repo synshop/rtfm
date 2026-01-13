@@ -24,15 +24,14 @@ Each area's page has a more comprehensive list.
 ## Rapid Prototyping
 
 * 3D Printers:
-    * [Cetus3D](https://www.cetus3d.com/) - PLA Only printer
-    * [Bambu X1 Carbon](https://bambulab.com/en-us/x1) (2 printers) - With 4 Filament AMS
-    * [Anycubic Photon Series LCD-Based SLA Resin 3D Printer](https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-3d-printer) - 3 printers
-    * [Fusion 3 F400-s](3D Printing/F400-s) - Large format PLA 3D Printer
+    * [Bambu X1 Carbon](https://bambulab.com/en-us/x1) (3 printers) - With 4 Filament AMS
+    * Bambu H2D - With 4 Filament AMS
+    * Elegoo Saturn 16k
 * Full Spectrum Laser Cutters:
-    * All laser cutters use [Retina Engrave](../Software/Retina Engrave)
+    * All laser cutters use Lightburn
     * ["First Child"](Laser Cutting/First Child Laser Cutter) -  90 Watt Pro LF Series 24" x 18" CO2 (Currently being rebuilt)
     * ["Big Boi"](Laser Cutting/Big Boi Laser Cutter) - 150 Watt Pro LF Series 48" x 36" CO2
-    * ["New Kid"](Laser Cutting/New Kid Laser Cutter) - Full Spectrum -  90 Watt Pro LF Series 24" x 16" CO2
+    * ["New Kid"](Laser Cutting/New Kid Laser Cutter) - 2W IR Laser 24" x 16" CO2
 * 24" Acrylic Bender
 
 ## Carpentry / CNC / Shop Equipment
