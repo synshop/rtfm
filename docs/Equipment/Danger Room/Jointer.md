@@ -5,7 +5,7 @@ tags:
 ---
 # 8" Jointer
 
-## Current Status
+## Current Status: Operational
   
 ### Maintenance Log
 
