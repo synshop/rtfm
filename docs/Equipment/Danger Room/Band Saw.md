@@ -5,7 +5,7 @@ tags:
 ---
 # Grizzly G0513ANV Band Saw
 
-## Current Status
+## Current Status: Operational
   
 ### Maintenance Log
 
