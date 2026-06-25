@@ -5,7 +5,7 @@ tags:
 ---
 # Delta Cabinet Table Saw
 
-## Current Status
+## Current Status: Operational
   
 ### Maintenance Log
 
