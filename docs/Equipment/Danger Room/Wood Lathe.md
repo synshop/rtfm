@@ -11,7 +11,7 @@ tags:
 `20260622: expandable chuck jaws oiled; lathe cleaned`
 
 ## Pre-Usage Notes
-!!! warning "Requirements"
+!!! warning 
 
     - Eye protection is **REQUIRED**
     - Tool certification is **REQUIRED**
