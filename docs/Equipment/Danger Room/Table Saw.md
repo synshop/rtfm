@@ -8,3 +8,9 @@ tags:
 ## Current Status
   
 ### Maintenance Log
+
+## Pre-Usage Notes
+!!! warning 
+
+    - Eye protection is **REQUIRED**
+    - Tool certification is **REQUIRED**
