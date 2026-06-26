@@ -13,10 +13,10 @@ hr.gradient {
   border-radius: 6px;
   background: linear-gradient(
     90deg,
-    rgba(13, 8, 96, 1) 0%,
-    rgba(9, 9, 121, 1) 21%,
-    rgba(6, 84, 170, 1) 51%,
-    rgba(0, 255, 113, 1) 100%
+    rgb(189, 189, 189) 0%,
+    rgb(124, 124, 124) 21%,
+    rgb(58, 58, 58) 51%,
+    rgb(80, 80, 80) 100%
   );
 }
 </style>
