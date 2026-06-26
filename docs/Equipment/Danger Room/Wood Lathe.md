@@ -34,7 +34,9 @@ tags:
 !!! note
 
     The sections below cover the very, very bare basics to get users started.
-    
+
+---
+
 ### Gouges
 #### Spindle Roughing Gouge
 
@@ -46,6 +48,8 @@ Used for taking away a lot of material quickly, such as turning square stock int
 
 ##### Usage and anatomy
 The flute of the gouge is a centered "U" shape. This tool should always be used at a slight angle to the workpiece. The bevel should touch the workpiece before the cutting edge. Try to stay away from the top corners of the "U" as this can cause a catch. Keep the leading edge, which is the edge that is lower during a cut, away from the wood.
+
+---
 
 #### Spindle Gouge
 
@@ -63,6 +67,8 @@ Just like the [roughing gouge](#Spindle-Roughing-Gouge), the spindle gouge is a 
 - [Richard Raffan on the uses of a ½-in spindle gouge](https://youtu.be/WySx5rhyvfQ?si=QiqD9fzRfJ4Ii--W)
 - [Mastering the Spindle Gouge - Basic Cuts & Practice Exercises](https://youtu.be/2B-VLkT5dAw?si=PYQJUcEmhkbncTyg)
 
+---
+
 ### Chisels
 #### Sorby Spindlemaster
 
@@ -76,6 +82,8 @@ Ideal for rolling beads or cutting coves. Top face of the tool is honed flat, an
 
 - [A video guide to the Robert Sorby Spindlemaster](https://youtu.be/EVZUAsI7rx0?si=rss_dV0SuoPzikkJ)
 - [The Robert Sorby Spindlemaster - An easy to use alternative for the regular skew chisel](https://youtu.be/0Xd1rd_DGR0?si=XkeDza6JdUwK7_We)
+
+---
 
 #### Skew Chisel
 
