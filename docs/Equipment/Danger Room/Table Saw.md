@@ -17,6 +17,7 @@ tags:
     - [Waiver](https://synshop.org/assets/pdf/SYN_Shop_Liability_Waiver_Members.pdf) is **REQUIRED**
     - Use of a push block is **HIGHLY RECOMMENDED**
     - Use of the riving knife is **HIGHLY RECOMMENDED**
+    - Do not use loose clothing, specifically long sleeves, when operating this tool
 
 !!! note
 
