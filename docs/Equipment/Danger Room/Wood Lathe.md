@@ -128,7 +128,7 @@ Very versatile tool that can perform V-cuts, parting cuts, planing cuts, and can
 ##### Overview
 ##### Usage and anatomy
 ##### Tutorials
+
 <br>
-
-
+<hr style="border-top: 3px solid #333;">
 ## Sharpening Tools
