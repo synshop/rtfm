@@ -5,6 +5,21 @@ tags:
 ---
 # Central Machinery 12 x 36 Wood Lathe
 
+<hr class="gradient">
+
+hr.gradient {
+  height: 3px;
+  border: none;
+  border-radius: 6px;
+  background: linear-gradient(
+    90deg,
+    rgba(13, 8, 96, 1) 0%,
+    rgba(9, 9, 121, 1) 21%,
+    rgba(6, 84, 170, 1) 51%,
+    rgba(0, 255, 113, 1) 100%
+  );
+}
+
 ## Current Status: Operational
   
 ### Maintenance Log
