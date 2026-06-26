@@ -15,7 +15,6 @@ tags:
 
     - Eye protection is **REQUIRED**
     - Tool certification is **REQUIRED**
-    - [Waiver](https://synshop.org/assets/pdf/SYN_Shop_Liability_Waiver_Members.pdf) is **REQUIRED**
     - Tying back of long hair is **HIGHLY RECOMMENDED**
     - Tying back of straps, or other hanging pieces of clothing, is **HIGHLY RECOMMENDED**
     - Do not use loose clothing, specifically long sleeves, when operating this tool
