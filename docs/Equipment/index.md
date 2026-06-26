@@ -37,7 +37,7 @@ Each area's page has a more comprehensive list.
 ## Carpentry / CNC / Shop Equipment
 
 * Lathes
-    * 12 in. x 33 in. 3/4 HP Wood Lathe with Reversible Head
+    * [Wood Lathe](Danger Room/Wood Lathe/) - 12 in. x 33 in. 3/4 HP Wood Lathe with Reversible Head
 
 * Bench Top Power Tools
     * Compound Miter Saw 
