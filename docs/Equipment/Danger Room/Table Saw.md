@@ -15,6 +15,8 @@ tags:
     - Eye protection is **REQUIRED**
     - Tool certification is **REQUIRED**
     - [Waiver](https://synshop.org/assets/pdf/SYN_Shop_Liability_Waiver_Members.pdf) is **REQUIRED**
+    - Use of a push block is **HIGHLY RECOMMENDED**
+    - Use of the riving knife is **HIGHLY RECOMMENDED**
 
 !!! note
 
