@@ -33,10 +33,9 @@ tags:
 - Under Construction
 
 <br>
+<hr style="border-top: 3px solid #333;">
 
 ## Turning Tools
-
-<hr style="border-top: 3px solid #333;">
 
 !!! note
     
