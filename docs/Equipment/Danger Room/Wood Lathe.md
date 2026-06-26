@@ -37,13 +37,23 @@ tags:
     
 ### Gouges
 #### Spindle Roughing Gouge
+
+!!! tip
+
+    Recommended as the first tool to use when learning woodturning.
+    
 Used for taking away a lot of material quickly, such as turning square stock into round. Not recommended for detail work. 
 
 ##### Usage and anatomy
-The flute of the gouge is a centered "U" shape. This tool should always be used at a slight angle to the workpiece. The bevel should touch the workpiece before the cutting edge. Try to stay away from the top corners of the "U" as this can cause a catch. Keep the leading edge, which is the edge that is lower during a cut, away from the wood. Recommended as one of the first tools to use when learning woodturning. 
+The flute of the gouge is a centered "U" shape. This tool should always be used at a slight angle to the workpiece. The bevel should touch the workpiece before the cutting edge. Try to stay away from the top corners of the "U" as this can cause a catch. Keep the leading edge, which is the edge that is lower during a cut, away from the wood.
 
 #### Spindle Gouge
-Sometimes also called a detail gouge, contour gouge, or fingernail gouge. Despite the lack of name standardization, this tool excels at long-grain turning. Long-grain turning is when the grain of the wood is mounted parallel to the bed, which many know as a "spindle". This tool is a great choice for cutting coves, beads, ogees, and other variations of convex and concave shapes. These traits make it ideal for detail work, but not for roughing work. It is recommended to start with this tool, and a roughing gouge, as first forays into woodturning. 
+
+!!! tip
+
+    Recommended as the second tool to use when learning woodturning.
+    
+Sometimes also called a detail gouge, contour gouge, or fingernail gouge. Despite the lack of name standardization, this tool excels at long-grain turning. Long-grain turning is when the grain of the wood is mounted parallel to the bed, which many know as a "spindle". This tool is a great choice for cutting coves, beads, ogees, and other variations of convex and concave shapes. These traits make it ideal for detail work, but not for roughing work.
 
 ##### Usage and anatomy
 Just like the [roughing gouge](#Spindle-Roughing-Gouge), the spindle gouge is a "U" shape. Before starting any cut, ensure the bevel of the spindle gouge is rubbing/touching the wood before starting a cut. This helps to prevent catches. Do not try forcing this tool through a cut. When cutting, keep one hand on the rest and the other towards the end of the handle. Keep your grip firm, but not tight. Smooth, continuous motions are what help this tool shine. 
