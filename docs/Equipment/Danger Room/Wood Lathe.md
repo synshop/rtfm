@@ -33,11 +33,12 @@ tags:
 <br>
 
 ## Turning Tools
+
+<hr style="border-top: 3px solid #333;">
+
 !!! note
 
     The sections below cover the very, very bare basics to get users started.
-
-<hr style="border-top: 3px solid #333;">
 
 ### Gouges
 
