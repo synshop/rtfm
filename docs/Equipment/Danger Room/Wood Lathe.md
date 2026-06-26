@@ -21,6 +21,7 @@ tags:
 
     - The lathe speed can only be adjusted one speed level while the lathe is turned off. Before mounting workpieces turn the lathe on and lower the speed for safety
     - Use of a dust mask, or respirator, is recommended
+    - Bringing your own PPE is recommended
 
 ## Chucks and Mounting Tools
 ### Expandable Chuck
