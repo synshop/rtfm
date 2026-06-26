@@ -16,6 +16,9 @@ tags:
     - Eye protection is **REQUIRED**
     - Tool certification is **REQUIRED**
     - [Waiver](https://synshop.org/assets/pdf/SYN_Shop_Liability_Waiver_Members.pdf) is **REQUIRED**
+    - Tying back of long hair is **HIGHLY RECOMMENDED**
+    - Tying back of straps, or other hanging pieces of clothing, is **HIGHLY RECOMMENDED**
+    - Do not use loose clothing when operating this tool
     
 !!! note
 
@@ -30,15 +33,25 @@ tags:
 ## Turning Tools
 !!! note
 
-    The sections below cover the very, very bare basics.
+    The sections below cover the very, very bare basics to get users started.
     
 ### Gouges
-#### Spindle Gouge
-- Under Construction
-
 #### Spindle Roughing Gouge
-Used for taking away a lot of material quickly, such as turning square stock into round. The flute of the gouge is a centered "U" shape. This tool should always be used at a slight angle to the workpiece. The bevel should touch the workpiece before the cutting edge. Try to stay away from the top corners of the "U" as this can cause a catch. Keep the leading edge, which is the edge that is lower during a cut, away from the wood.
+Used for taking away a lot of material quickly, such as turning square stock into round. Not recommended for detail work. 
 
+##### Usage and anatomy
+The flute of the gouge is a centered "U" shape. This tool should always be used at a slight angle to the workpiece. The bevel should touch the workpiece before the cutting edge. Try to stay away from the top corners of the "U" as this can cause a catch. Keep the leading edge, which is the edge that is lower during a cut, away from the wood. Recommended as one of the first tools to use when learning woodturning. 
+
+#### Spindle Gouge
+Sometimes also called a detail gouge, contour gouge, or fingernail gouge. Despite the lack of name standardization, this tool excels at long-grain turning. Long-grain turning is when the grain of the wood is mounted parallel to the bed, which many know as a "spindle". This tool is a great choice for cutting coves, beads, ogees, and other variations of convex and concave shapes. These traits make it ideal for detail work, but not for roughing work. It is recommended to start with this tool, and a roughing gouge, as first forays into woodturning. 
+
+##### Usage and anatomy
+Just like the [roughing gouge](#Spindle-Roughing-Gouge), the spindle gouge is a "U" shape. Before starting any cut, ensure the bevel of the spindle gouge is rubbing/touching the wood before starting a cut. This helps to prevent catches. Do not try forcing this tool through a cut. When cutting, keep one hand on the rest and the other towards the end of the handle. Keep your grip firm, but not tight. Smooth, continuous motions are what help this tool shine. 
+
+##### Tutorials
+
+- [Richard Raffan on the uses of a ½-in spindle gouge](https://youtu.be/WySx5rhyvfQ?si=QiqD9fzRfJ4Ii--W)
+- [Mastering the Spindle Gouge - Basic Cuts & Practice Exercises](https://youtu.be/2B-VLkT5dAw?si=PYQJUcEmhkbncTyg)
 
 ### Chisels
 #### Sorby Spindlemaster
@@ -58,6 +71,15 @@ Very versatile tool that can perform V-cuts, parting cuts, planing cuts, and can
 - [Taming the Beast: The Complete Guide to Mastering Your Skew Chisel](https://youtu.be/-SxFXT2WXhM?si=bpOsbacEW9GT02RW)
 
 #### Straight Edge Chisel
-#### Parting Tool
-
 - Under Construction
+- 
+##### Tutorials
+- Under Construction
+- 
+#### Parting Tool
+- Under Construction
+- 
+##### Tutorials
+- Under Construction
+
+## Sharpening Tools
