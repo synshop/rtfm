@@ -3,6 +3,8 @@ tags:
     - STUB
     - equipment
 ---
+<!-- Updated by HairyTheThing aka Ryan 202606XX -->
+
 # Central Machinery 12 x 36 Wood Lathe
 
 ## Current Status: Operational
@@ -41,6 +43,7 @@ tags:
 !!! note
 
     The sections below cover the very, very bare basics to get users started.
+        - Sizes of tools will not be included as manufacturers from Europe measure the inside flute distance, whereas Canadian and American manufacturers measure the bar stock. 
 
 ### Gouges
 
@@ -63,7 +66,7 @@ The flute of the gouge is a centered "U" shape. This tool should always be used 
 
     Recommended as the second tool to use when learning woodturning.
     
-Sometimes also called a detail gouge, contour gouge, or fingernail gouge. Despite the lack of name standardization, this tool excels at long-grain turning. Long-grain turning is when the grain of the wood is mounted parallel to the bed, which many know as a "spindle". This tool is a great choice for cutting coves, beads, ogees, and other variations of convex and concave shapes. These traits make it ideal for detail work, but not for roughing work.
+Sometimes also called a detail gouge, contour gouge, or fingernail gouge. Despite the lack of name standardization, this tool excels at long-grain turning. Long-grain turning is when the grain of the wood is mounted parallel to the bed, which many know as a "spindle". This tool is a great choice for cutting coves, beads, ogees, and other variations of convex and concave shapes. These traits make it ideal for detail work, but not for roughing work. These tools are much smaller than roughing gouges.
 
 ##### Usage and anatomy
 Just like the [roughing gouge](#Spindle-Roughing-Gouge), the spindle gouge is a "U" shape. Before starting any cut, ensure the bevel of the spindle gouge is rubbing/touching the wood before starting a cut. This helps to prevent catches. Do not try forcing this tool through a cut. When cutting, keep one hand on the rest and the other towards the end of the handle. Keep your grip firm, but not tight. Smooth, continuous motions are what help this tool shine. 
@@ -116,11 +119,11 @@ Very versatile tool that can perform V-cuts, parting cuts, planing cuts, and can
 ##### Tutorials
 - Under Construction
 
-<br>
-
 #### Parting Tool
 - Under Construction
 
+##### Usage and anatomy
+##### Tutorials
 <br>
 
 ##### Tutorials
