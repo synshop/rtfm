@@ -16,6 +16,10 @@ tags:
 
 </div>
 
+!!! info
+
+    A [membership](https://synshop.org/membership/) and a [waiver](https://synshop.org/assets/pdf/SYN_Shop_Liability_Waiver_Members.pdf) is **REQUIRED** to use equipment the shop
+        
 SYN Shop provides a large amount of equipment for paying members to use. 
 We try to stock equipment that most people don't have access to at home, and are working to build out to a complete shop facility. 
 Each area's page has a more comprehensive list. 
@@ -37,7 +41,7 @@ Each area's page has a more comprehensive list.
 ## Carpentry / CNC / Shop Equipment
 
 * Lathes
-    * 12 in. x 33 in. 3/4 HP Wood Lathe with Reversible Head
+    * [Wood Lathe](Danger Room/Wood Lathe/) - 12 in. x 33 in. 3/4 HP Wood Lathe with Reversible Head
 
 * Bench Top Power Tools
     * Compound Miter Saw 

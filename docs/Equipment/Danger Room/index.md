@@ -5,8 +5,12 @@ tags:
     - danger room
     - woodworking
     - metalworking
+    - ppe
 ---
 # Danger Room
+
+Tools to shape wood and metal
+
 Under Construction
 ## About
 ## Activities
