@@ -57,6 +57,12 @@ Used for taking away a lot of material quickly, such as turning square stock int
 ##### Usage and anatomy
 The flute of the gouge is a centered "U" shape. This tool should always be used at a slight angle to the workpiece. The bevel should touch the workpiece before the cutting edge. Try to stay away from the top corners of the "U" as this can cause a catch. Keep the leading edge, which is the edge that is lower during a cut, away from the wood.
 
+##### Tutorials
+
+- [Placeholder]()
+- [Placeholder]()
+<hr style="border-top: dotted 1px;">
+
 <br>
 
 #### Spindle Gouge
@@ -92,6 +98,7 @@ Ideal for rolling beads or cutting coves. Top face of the tool is honed flat, an
 - [A video guide to the Robert Sorby Spindlemaster](https://youtu.be/EVZUAsI7rx0?si=rss_dV0SuoPzikkJ)
 - [The Robert Sorby Spindlemaster - An easy to use alternative for the regular skew chisel](https://youtu.be/0Xd1rd_DGR0?si=XkeDza6JdUwK7_We)
 
+<hr style="border-top: dotted 1px;">
 <br>
 
 #### Skew Chisel
@@ -102,12 +109,13 @@ Ideal for rolling beads or cutting coves. Top face of the tool is honed flat, an
 
 Very versatile tool that can perform V-cuts, parting cuts, planing cuts, and can also be used for smoothing. The cutting edge angle has a long point and a short point, thus the name "skew". Most skew chisels have a 40-45 bevel angle. It is also recommended to use this tool with the rest in a higher position than you would use for your gouge.
 
-
+##### Usage and anatomy
 ##### Tutorials
 
 - [Richard Raffan on skew chisel basics](https://youtu.be/Px7xiuXeNvc?si=ACJN4tSLQXoqf_0Y)
 - [Taming the Beast: The Complete Guide to Mastering Your Skew Chisel](https://youtu.be/-SxFXT2WXhM?si=bpOsbacEW9GT02RW)
 
+<hr style="border-top: dotted 1px;">
 <br>
 
 #### Straight Edge Chisel
@@ -115,6 +123,8 @@ Very versatile tool that can perform V-cuts, parting cuts, planing cuts, and can
 
 ##### Usage and anatomy
 ##### Tutorials
+
+<hr style="border-top: dotted 1px;">
 <br>
 
 #### Parting Tool
