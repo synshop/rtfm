@@ -39,8 +39,6 @@ tags:
 
 ### Gouges
 
-<br>
-
 #### Spindle Roughing Gouge
 
 !!! tip
@@ -73,8 +71,6 @@ Just like the [roughing gouge](#Spindle-Roughing-Gouge), the spindle gouge is a 
 <hr style="border-top: 3px solid #333;">
 
 ### Chisels
-
-<br>
 
 #### Sorby Spindlemaster
 
