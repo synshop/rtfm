@@ -68,11 +68,13 @@ Ideal for rolling beads or cutting coves. Top face of the tool is honed flat, an
 - [The Robert Sorby Spindlemaster - An easy to use alternative for the regular skew chisel](https://youtu.be/0Xd1rd_DGR0?si=XkeDza6JdUwK7_We)
 
 #### Skew Chisel
-Very versatile tool that can perform V-cuts, parting cuts, planing cuts, and can also be used for smoothing. The cutting edge angle has a long point and a short point, thus the name "skew". Most skew chisels have a 40-45 bevel angle. It is also recommended to use this tool with the rest in a higher position than you would use for your gouge.
 
 !!! info
 
     This is not a beginner friendly tool. Watching a few tutorials before attempting is recommended. 
+
+Very versatile tool that can perform V-cuts, parting cuts, planing cuts, and can also be used for smoothing. The cutting edge angle has a long point and a short point, thus the name "skew". Most skew chisels have a 40-45 bevel angle. It is also recommended to use this tool with the rest in a higher position than you would use for your gouge.
+
 
 ##### Tutorials
 
