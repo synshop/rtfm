@@ -45,6 +45,7 @@ Ideal for rolling beads or cutting coves. Top face of the tool is honed flat, an
 
 *Some tutorials*
     - [A video guide to the Robert Sorby Spindlemaster](https://youtu.be/EVZUAsI7rx0?si=rss_dV0SuoPzikkJ)
+    
     - [The Robert Sorby Spindlemaster - An easy to use alternative for the regular skew chisel](https://youtu.be/0Xd1rd_DGR0?si=XkeDza6JdUwK7_We)
 
 #### Skew Chisel
@@ -52,6 +53,7 @@ Very versatile tool that can perform V-cuts, parting cuts, planing cuts, and can
 
 *Some tutorials*
     - [Richard Raffan on skew chisel basics](https://youtu.be/Px7xiuXeNvc?si=ACJN4tSLQXoqf_0Y)
+    
     - [Taming the Beast: The Complete Guide to Mastering Your Skew Chisel](https://youtu.be/-SxFXT2WXhM?si=bpOsbacEW9GT02RW)
 
 #### Straight Edge Chisel
