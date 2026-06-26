@@ -6,7 +6,7 @@ tags:
 # Central Machinery 12 x 36 Wood Lathe
 
 <hr class="gradient">
-
+<style>
 hr.gradient {
   height: 3px;
   border: none;
@@ -19,7 +19,7 @@ hr.gradient {
     rgba(0, 255, 113, 1) 100%
   );
 }
-
+</style>
 ## Current Status: Operational
   
 ### Maintenance Log
