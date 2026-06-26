@@ -40,7 +40,11 @@ Used for taking away a lot of material quickly, such as turning square stock int
 
 ### Chisels
 #### Sorby Spindlemaster
-Ideal for rolling beads or cutting coves. Top face of the tool is honed flat, and the bevel is a smooth half-circle. It can behave as both a scraping and cutting tool. This is not a beginner friendly tool. Watching a few tutorials before attempting is recommended. 
+Ideal for rolling beads or cutting coves. Top face of the tool is honed flat, and the bevel is a smooth half-circle. It can behave as both a scraping and cutting tool. A more specialized alternative to a skew chisel. Do not cut with the tip of the tool, as this is an unsupported edge. This is not a beginner friendly tool. Watching a few tutorials before attempting is recommended. 
+
+*Some tutorials*
+- [A video guide to the Robert Sorby Spindlemaster](https://youtu.be/EVZUAsI7rx0?si=rss_dV0SuoPzikkJ)
+- [The Robert Sorby Spindlemaster - An easy to use alternative for the regular skew chisel](https://youtu.be/0Xd1rd_DGR0?si=XkeDza6JdUwK7_We)
 
 #### Skew Chisel
 Very versatile tool that can perform V-cuts, parting cuts, planing cuts, and can also be used for smoothing. The cutting edge angle has a long point and a short point, thus the name "skew". Most skew chisels have a 40-45 bevel angle. It is also recommended to use this tool with the rest in a higher position than you would use for your gouge. This is not a beginner friendly tool. Watching a few tutorials before attempting is recommended.
