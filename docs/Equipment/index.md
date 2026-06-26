@@ -16,6 +16,10 @@ tags:
 
 </div>
 
+!!! info
+
+        - A [waiver](https://synshop.org/assets/pdf/SYN_Shop_Liability_Waiver_Members.pdf) is **REQUIRED** to use equipment the shop
+        
 SYN Shop provides a large amount of equipment for paying members to use. 
 We try to stock equipment that most people don't have access to at home, and are working to build out to a complete shop facility. 
 Each area's page has a more comprehensive list. 
