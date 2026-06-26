@@ -26,6 +26,8 @@ tags:
     - Use of a dust mask, or respirator, is recommended
     - Bringing your own PPE is recommended
 
+<hr style="border-top: 3px solid #333;">
+
 ## Chucks and Mounting Tools
 ### Expandable Chuck
 - Under Construction
