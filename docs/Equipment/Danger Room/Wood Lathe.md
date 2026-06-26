@@ -117,6 +117,10 @@ Ideal for rolling beads or cutting coves. Top face of the tool is honed flat, an
 
 #### Parting Tool
 
+!!! tip
+
+    This is a beginner friendly tool.
+    
 ##### Overview
 This tool is used to square up ends of a spindles, cut tenons, separate parts from a spindle (such as supports), or for adding decorative accoutrements.
 
