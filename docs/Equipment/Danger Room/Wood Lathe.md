@@ -41,9 +41,8 @@ tags:
 <hr style="border-top: 3px solid #333;">
 
 !!! note
-
-    The sections below cover the very, very bare basics to get users started.
-        - Sizes of tools will not be included as manufacturers from Europe measure the inside flute distance, whereas Canadian and American manufacturers measure the bar stock. 
+    
+    The sections below cover the very, very bare basics to get users started. Sizes of gouge tools will differ as manufacturers from Europe measure the inside flute distance, whereas Canadian and American manufacturers measure the bar stock.
 
 ### Gouges
 
@@ -114,10 +113,9 @@ Very versatile tool that can perform V-cuts, parting cuts, planing cuts, and can
 #### Straight Edge Chisel
 - Under Construction
 
-<br>
-
+##### Usage and anatomy
 ##### Tutorials
-- Under Construction
+<br>
 
 #### Parting Tool
 - Under Construction
@@ -126,9 +124,5 @@ Very versatile tool that can perform V-cuts, parting cuts, planing cuts, and can
 ##### Tutorials
 <br>
 
-##### Tutorials
-- Under Construction
-
-<br>
 
 ## Sharpening Tools
