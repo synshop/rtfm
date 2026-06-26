@@ -3,8 +3,6 @@ tags:
     - STUB
     - equipment
 ---
-<!-- Updated by HairyTheThing aka Ryan 202606XX -->
-
 # Central Machinery 12 x 36 Wood Lathe
 
 ## Current Status: Operational
@@ -61,9 +59,8 @@ The flute of the gouge is a centered "U" shape. This tool should always be used 
 
 - [Placeholder]()
 - [Placeholder]()
-<hr style="border-top: dotted 1px;">
 
-<br>
+<hr style="border-top: dashed 1px;">
 
 #### Spindle Gouge
 
@@ -98,8 +95,7 @@ Ideal for rolling beads or cutting coves. Top face of the tool is honed flat, an
 - [A video guide to the Robert Sorby Spindlemaster](https://youtu.be/EVZUAsI7rx0?si=rss_dV0SuoPzikkJ)
 - [The Robert Sorby Spindlemaster - An easy to use alternative for the regular skew chisel](https://youtu.be/0Xd1rd_DGR0?si=XkeDza6JdUwK7_We)
 
-<hr style="border-top: dotted 1px;">
-<br>
+<hr style="border-top: dashed 1px;">
 
 #### Skew Chisel
 
@@ -115,8 +111,7 @@ Very versatile tool that can perform V-cuts, parting cuts, planing cuts, and can
 - [Richard Raffan on skew chisel basics](https://youtu.be/Px7xiuXeNvc?si=ACJN4tSLQXoqf_0Y)
 - [Taming the Beast: The Complete Guide to Mastering Your Skew Chisel](https://youtu.be/-SxFXT2WXhM?si=bpOsbacEW9GT02RW)
 
-<hr style="border-top: dotted 1px;">
-<br>
+<hr style="border-top: dashed 1px;">
 
 #### Straight Edge Chisel
 - Under Construction
@@ -124,8 +119,7 @@ Very versatile tool that can perform V-cuts, parting cuts, planing cuts, and can
 ##### Usage and anatomy
 ##### Tutorials
 
-<hr style="border-top: dotted 1px;">
-<br>
+<hr style="border-top: dashed 1px;">
 
 #### Parting Tool
 - Under Construction
