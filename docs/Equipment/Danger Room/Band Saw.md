@@ -10,6 +10,11 @@ tags:
 ### Maintenance Log
 
 ## Pre-Usage Notes
+
+!!! danger
+
+    Users assume all risk associated with the use of tools and equipment in this facility.
+    
 !!! warning 
 
     - Eye protection is **REQUIRED**
