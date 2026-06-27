@@ -54,7 +54,6 @@ Each area's page has a more comprehensive list.
 
 * Free Standing Power Tools 
     * [ShopBot](Danger Room/ShopBot) PRSstandard CNC [96-48](https://www.shopbottools.com/products/standard)
-    * [Table Saw](Danger Room/Table Saw/) - Delta cabinet saw
     * [Table Saw](Danger Room/Table Saw/) - Grizzly G1023RLWX 10" 5HP 240V Tablesaw, CAB. LEFTTILT
     * [Track Saw: Grizzly PRO T33300](Danger Room/Track Saw) - 6-1/4" Track Saw with 110 inch rails
     * [Band Saw](Danger Room/Band Saw) (Grizzly G0513ANV - 17" 2 HP Band Saw, Anniversary Edition)
