@@ -124,6 +124,9 @@ Very versatile tool that can perform V-cuts, parting cuts, planing cuts, and can
 ##### Overview
 Ideal for rolling beads or cutting coves. Top face of the tool is honed flat, and the bevel is a smooth half-circle. It can behave as both a scraping and cutting tool. A more specialized alternative to a skew chisel. Do not cut with the tip of the tool, as this is an unsupported edge. 
 
+
+##### Usage and anatomy
+
 ![](../images_danger_room/woodworking/spindlemaster_anno.jpg)
 
 <!-- I'll mess with this later -Ryan
@@ -131,8 +134,6 @@ Ideal for rolling beads or cutting coves. Top face of the tool is honed flat, an
 <img src="../images_danger_room/woodworking/spindlemaster_anno.jpg" width=70%>
 </div>
 -->
-
-##### Usage and anatomy
 
 ##### Tutorials
 - [A video guide to the Robert Sorby Spindlemaster](https://youtu.be/EVZUAsI7rx0?si=rss_dV0SuoPzikkJ)
