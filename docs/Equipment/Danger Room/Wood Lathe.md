@@ -88,7 +88,7 @@ The flute of the gouge is a centered "U" shape. The roughing gouge can be used p
 Sometimes also called a detail gouge, contour gouge, or fingernail gouge. Despite the lack of name standardization, this tool excels at long-grain turning. Long-grain turning is when the grain of the wood is mounted parallel to the bed, which many know as a "spindle". This tool is a great choice for cutting coves, beads, ogees, and other variations of convex and concave shapes. These traits make it ideal for detail work, but not for roughing work. These tools are much smaller than roughing gouges.
 
 ##### Usage and anatomy
-Just like the [roughing gouge](#Spindle-Roughing-Gouge), the spindle gouge is a "U" shape. The shape differs slightly as the flute is much more shallow. Before starting any cut, ensure the bevel of the spindle gouge is rubbing/touching the wood before starting a cut. This helps to prevent catches. Do not try forcing this tool through a cut. When cutting, keep one hand on the rest and the other towards the end of the handle. Keep your grip firm, but not tight. Smooth, continuous motions are what help this tool shine. 
+Just like the [roughing gouge](#spindle-roughing-gouge), the spindle gouge is a "U" shape. The shape differs slightly as the flute is much more shallow. Before starting any cut, ensure the bevel of the spindle gouge is rubbing/touching the wood before starting a cut. This helps to prevent catches. Do not try forcing this tool through a cut. When cutting, keep one hand on the rest and the other towards the end of the handle. Keep your grip firm, but not tight. Smooth, continuous motions are what help this tool shine. 
 
 ##### Tutorials
 - [Richard Raffan on the uses of a ½-in spindle gouge](https://youtu.be/WySx5rhyvfQ?si=QiqD9fzRfJ4Ii--W)
@@ -123,6 +123,14 @@ Very versatile tool that can perform V-cuts, parting cuts, planing cuts, and can
 
 ##### Overview
 Ideal for rolling beads or cutting coves. Top face of the tool is honed flat, and the bevel is a smooth half-circle. It can behave as both a scraping and cutting tool. A more specialized alternative to a skew chisel. Do not cut with the tip of the tool, as this is an unsupported edge. 
+
+![](../images_danger_room/woodworking/spindlemaster_anno.jpg)
+
+<!-- I'll mess with this later -Ryan
+<div style="text-align: center;">
+<img src="../images_danger_room/woodworking/spindlemaster_anno.jpg" width=70%>
+</div>
+-->
 
 ##### Usage and anatomy
 
