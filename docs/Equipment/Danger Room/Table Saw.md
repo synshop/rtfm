@@ -25,7 +25,7 @@ tags:
 
 !!! note
 
-    - Use of a dust mask, or respirator, is recommended
-    - Use of hearing protection is recommended
-    - Bringing your own PPE is recommended
+    - Use of a dust mask, or respirator, is **recommended**
+    - Use of hearing protection is **recommended**
+    - Bringing your own PPE is **recommended**
     
