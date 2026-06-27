@@ -62,7 +62,7 @@ Used for taking away a lot of material quickly, such as turning square stock int
         align=middle;"/>
 </div>
 
-[](../images_danger_room/woodworking/roughing_gouge.png)
+![](../images_danger_room/woodworking/roughing_gouge.png)
 
 The flute of the gouge is a centered "U" shape. The roughing gouge can be used perpendicular to the workpiece, but this tool should generally be used at a slight angle to the workpiece. The bevel should touch the workpiece before the cutting edge. Try to stay away from the top corners of the "U" as this can cause a catch. Keep the leading edge, which is the edge that is lower during a cut, away from the wood. Your hand can be used as a depth stop on the tool and tool rest. Body movement is also important when trying to achieve a parallel cut, and you should used your hips and torso to follow your cut. When first roughing a piece, such as square stock, chips will be producing instead of shavings.
 
