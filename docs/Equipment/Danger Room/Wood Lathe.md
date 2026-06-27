@@ -53,7 +53,7 @@ Used for taking away a lot of material quickly, such as turning square stock int
 
 ##### Usage and anatomy
 
-
+<!-- WIP
 <div style="text-align:center;">
     <img         
         src="../images_danger_room/woodworking/roughing_gouge.png"
@@ -61,6 +61,7 @@ Used for taking away a lot of material quickly, such as turning square stock int
         style="width: 50%; height: 50%
         align=middle;"/>
 </div>
+-->
 
 ![](../images_danger_room/woodworking/roughing_gouge.png)
 
