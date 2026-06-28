@@ -180,11 +180,14 @@ Ideal for rolling beads or cutting coves. Top face of the tool is honed flat, an
 This tool is used to square up ends of a spindles, cut tenons, separate parts from a spindle (such as supports), or for adding decorative accoutrements.
 
 ##### Usage and anatomy
-Placeholder
+
+![](../images_danger_room/woodworking/parting_tool_anno.jpg)
+
+Place the tool rest parallel to the workpiece and slightly below centerline for this tool. Place the tool on its side, with the bevels pointing left and right. To being a cut start with an arcing motion into the center of the workpiece starting at an approximate 45 degree relative to the workpiece. Like similar cuts, achieve the arc by raising the handle of the tool slowly and using the tool rest as a pivot point. 
 
 ##### Tutorials
-- [P]()
-- [P]()
+- [How to Use a Parting Tool](https://youtu.be/sQ6Mxhzy0OA?si=Khw_T7SehG_mVPFL)
+- [Woodturning: What is a Parting Tool?](https://youtu.be/TlchcyzCwUA?si=fCrDK5sErzy-zRET)
 
 <br>
 <hr style="border-top: 3px solid #333;">
