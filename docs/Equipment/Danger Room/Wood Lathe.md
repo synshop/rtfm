@@ -2,6 +2,7 @@
 tags:
     - STUB
     - equipment
+    - woodworking
 ---
 # Central Machinery 12 x 36 Wood Lathe
 
