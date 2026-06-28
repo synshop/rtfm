@@ -191,4 +191,5 @@ Place the tool rest parallel to the workpiece and slightly below centerline for 
 
 <br>
 <hr style="border-top: 3px solid #333;">
-## Sharpening Tools
+
+## How To: Sharpening Tools
