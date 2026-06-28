@@ -113,9 +113,30 @@ Just like the [roughing gouge](#spindle-roughing-gouge), the spindle gouge is a 
     This is not a beginner friendly tool. Watching a few tutorials before attempting is recommended. 
 
 ##### Overview
-Very versatile tool that can perform V-cuts, parting cuts, planing cuts, and can also be used for smoothing. The cutting edge angle has a long point and a short point, thus the name "skew". Most skew chisels have a 40-45 bevel angle. It is also recommended to use this tool with the rest in a higher position than you would use for your gouge.
+Very versatile tool that can perform V-cuts, parting cuts, planing cuts, and can also be used for smoothing. The cutting edge angle has a long point and a short point, thus the name "skew". Most skew chisels have a 40-45 bevel angle. It is also recommended to use this tool with the rest in a higher position than you would use for your gouge (slightly above center)
 
 ##### Usage and anatomy
+
+![](../images_danger_room/woodworking/skew_chisel_anno.jpg)
+
+There are four important cuts for mastery of this tool:
+
+**The Peel Cut**
+
+This is a roughing cut. It is used to remove large amounts of material, such as removing square corners. This cut can also be used to reduce the diameter of your workpiece quickly. To perform this cut the handle of the tool needs to start in a low position, and then arc into the wood. The goal is to bring the cutting edge towards the center and peel away wood. Lead with the long point with the cutting edge parallel to the workpiece. Never enter a cut straight on. 
+
+**The V-Cut**
+
+This is a useful cut for defining features and transitions, and for cleaning up end grain. This is also an arcing cut. The long point should be facing downwards closest to the tool rest. The bevel should face into the direction you want to cut. When taking cuts work a little each time alternating between sides of the V. 
+
+**The Planing Cut**
+
+This cut is great for achieving a great surface finish, that when done correctly, doesn't require sanding. This is a bevel riding cut. Slowly raise the handle until the cutting edge enages at approximately 45 degrees to the wood. The cutting edge should favor the short point. Advance the tool across the tool rest maintaining cosistent pressure. 
+
+**The Scrape**
+
+This cut is used for refining curves. Lay the tool flat on the rest and engage the wood using the approximate center of the cutting edge. Lightly traverse across the surface. It is important to note that this cut does have a tendency to dull the cutting edge faster.
+
 ##### Tutorials
 
 - [Richard Raffan on skew chisel basics](https://youtu.be/Px7xiuXeNvc?si=ACJN4tSLQXoqf_0Y)
