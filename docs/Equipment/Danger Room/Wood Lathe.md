@@ -106,6 +106,27 @@ Just like the [roughing gouge](#spindle-roughing-gouge), the spindle gouge is a 
 
 ### Chisels
 
+#### Parting Tool
+
+!!! tip
+
+    This is a beginner friendly tool.
+    
+##### Overview
+This tool is used to square up ends of a spindles, cut tenons, separate parts from a spindle (such as supports), or for adding decorative accoutrements.
+
+##### Usage and anatomy
+
+![](../images_danger_room/woodworking/parting_tool_anno.jpg)
+
+Place the tool rest parallel to the workpiece and slightly below centerline for this tool. Place the tool on its side, with the bevels pointing left and right. To being a cut start with an arcing motion into the center of the workpiece starting at an approximate 45 degree relative to the workpiece. Like similar cuts, achieve the arc by raising the handle of the tool slowly and using the tool rest as a pivot point. 
+
+##### Tutorials
+- [How to Use a Parting Tool](https://youtu.be/sQ6Mxhzy0OA?si=Khw_T7SehG_mVPFL)
+- [Woodturning: What is a Parting Tool?](https://youtu.be/TlchcyzCwUA?si=fCrDK5sErzy-zRET)
+
+<hr style="border-top: dashed 1px;">
+
 #### Skew Chisel
 
 !!! info
@@ -167,27 +188,6 @@ Ideal for rolling beads or cutting coves. Top face of the tool is honed flat, an
 ##### Tutorials
 - [A video guide to the Robert Sorby Spindlemaster](https://youtu.be/EVZUAsI7rx0?si=rss_dV0SuoPzikkJ)
 - [The Robert Sorby Spindlemaster - An easy to use alternative for the regular skew chisel](https://youtu.be/0Xd1rd_DGR0?si=XkeDza6JdUwK7_We)
-
-<hr style="border-top: dashed 1px;">
-
-#### Parting Tool
-
-!!! tip
-
-    This is a beginner friendly tool.
-    
-##### Overview
-This tool is used to square up ends of a spindles, cut tenons, separate parts from a spindle (such as supports), or for adding decorative accoutrements.
-
-##### Usage and anatomy
-
-![](../images_danger_room/woodworking/parting_tool_anno.jpg)
-
-Place the tool rest parallel to the workpiece and slightly below centerline for this tool. Place the tool on its side, with the bevels pointing left and right. To being a cut start with an arcing motion into the center of the workpiece starting at an approximate 45 degree relative to the workpiece. Like similar cuts, achieve the arc by raising the handle of the tool slowly and using the tool rest as a pivot point. 
-
-##### Tutorials
-- [How to Use a Parting Tool](https://youtu.be/sQ6Mxhzy0OA?si=Khw_T7SehG_mVPFL)
-- [Woodturning: What is a Parting Tool?](https://youtu.be/TlchcyzCwUA?si=fCrDK5sErzy-zRET)
 
 <br>
 <hr style="border-top: 3px solid #333;">
