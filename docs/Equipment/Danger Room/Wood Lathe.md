@@ -34,7 +34,8 @@ tags:
 <hr style="border-top: 3px solid #333;">
 
 ## Lathe Overview
-- Under Construction
+
+![](../images_danger_room/woodworking/central_machinery_lathe_parts.jpg)
 
 <br>
 <hr style="border-top: 3px solid #333;">
