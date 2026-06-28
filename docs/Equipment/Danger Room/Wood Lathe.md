@@ -41,8 +41,11 @@ tags:
 <hr style="border-top: 3px solid #333;">
 
 ## Chucks and Mounting Tools
-### Expandable Chuck
 - Under Construction
+
+### Expandable Chuck
+### Faceplate
+
 
 <br>
 <hr style="border-top: 3px solid #333;">
