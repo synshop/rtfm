@@ -2,6 +2,7 @@
 tags:
     - STUB
     - equipment
+    - woodworking
 ---
 # Craftsman Professional 3/4 hp Drill Press
 
