@@ -4,7 +4,7 @@ tags:
     - equipment
     - woodworking
 ---
-# Grizzle PRO T33300 Track Saw
+# Grizzly PRO T33300 Track Saw
 
 ## Current Status
   
