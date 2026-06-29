@@ -2,6 +2,7 @@
 tags:
     - STUB
     - equipment
+    - woodworking
 ---
 # Grizzly G0513ANV Band Saw
 

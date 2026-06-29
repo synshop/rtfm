@@ -1,5 +1,6 @@
 ---
 tags:
+    - STUB
     - equipment
     - woodworking
 ---

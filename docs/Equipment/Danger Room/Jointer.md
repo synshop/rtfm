@@ -2,6 +2,7 @@
 tags:
     - STUB
     - equipment
+    - woodworking
 ---
 # 8" Jointer
 
