@@ -54,6 +54,8 @@ tags:
 
 #### Chuck Body
 
+![](../images_danger_room/woodworking/chuck_body_anno.png){ width="300" style="display:block;margin:0 auto;" }
+
 <img src="../images_danger_room/woodworking/chuck_body_anno.png" alt="Chuck Body Annotation" width="90%">
 <div style="text-align:center;">
     <img src="../images_danger_room/woodworking/chuck_key_anno.png" alt="Chuck Key Annotation" width="60%">
