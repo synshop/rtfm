@@ -41,9 +41,34 @@ tags:
 <hr style="border-top: 3px solid #333;">
 
 ## Chucks and Mounting Tools
-- Under Construction
+
+### Spur Drive
 
 ### Expandable Chuck
+
+#### Chuck Body
+
+The chuck body is the main workholding component that interfaces with the headstock threads of a lathe. The body uses carriers to move jaws inward and outward to securely grip work. The carriers ride on a scroll gear and can be used in any combination of 1-4 jaw/carrier combinations. 
+
+<hr style="border-top: dashed 1px;">
+
+#### Carriers
+    
+<img src="../images_danger_room/woodworking/chuck_carrier_anno.png" alt="Chuck Carrier Annotation" width="80%">
+
+The carrier numbers go with the associated slot on the chuck body. The carriers are the attachment points for jaws and can advance inwards or outwards to meet the size needs of a workpiece.
+
+<hr style="border-top: dashed 1px;">
+
+#### Jaws
+<div style="text-align:center;">
+    <img src="../images_danger_room/woodworking/chuck_jaws_all.png" alt="All Chuck Jaws" width="68%">
+</div><br>
+
+The expandable chuck has four sets of jaw options in the shop. These jaws provide different options for workholding depending on current size, or design, of a workpiece. Larger jaws are typically used to hold the foot of a bowl, or large non-spindle shapred workpieces. Smaller jaws can be used to hold things such as pen blanks, or can be used in the reverse to expand into the mouth of a bowl. Each jaw has a stamp numbered 1-4 that is associated with a carrier. 
+
+<hr style="border-top: dashed 1px;">
+
 ### Faceplate
 
 
