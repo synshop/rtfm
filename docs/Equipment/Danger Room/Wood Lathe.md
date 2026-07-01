@@ -54,12 +54,8 @@ tags:
 
 #### Chuck Body
 
-![](../images_danger_room/woodworking/chuck_body_anno.png){ width="300" style="display:block;margin:0 auto;" }
-
-<img src="../images_danger_room/woodworking/chuck_body_anno.png" alt="Chuck Body Annotation" width="90%">
-<div style="text-align:center;">
-    <img src="../images_danger_room/woodworking/chuck_key_anno.png" alt="Chuck Key Annotation" width="60%">
-</div><br>
+![](../images_danger_room/woodworking/chuck_body_anno.png){ width="90%" style="display:block;margin:0 auto;" }
+![](../images_danger_room/woodworking/chuck_key_anno.png){ width="60%" style="display:block;margin:0 auto;" }
 
 The chuck body is the main workholding component that interfaces with the headstock threads of a lathe. The body uses carriers to move jaws inward and outward to securely grip work. The carriers ride on a scroll gear and can be used in any combination of 1-4 jaw/carrier combinations. The scroll gear is driven by a spline gear which takes a key. Turning the key clockwise will tighten the jaws, and turning the key counterclockwise will expanded the jaws.
 
