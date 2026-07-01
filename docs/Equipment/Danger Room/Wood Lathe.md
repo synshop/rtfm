@@ -56,7 +56,7 @@ tags:
 
 ![](../images_danger_room/woodworking/chuck_body_anno.png){ width="90%" style="display:block;margin:0 auto;" }
 
-<div style="height: 0.5em;"></div>
+<div style="height: 6px;"></div>
 
 ![](../images_danger_room/woodworking/chuck_key_anno.png){ width="60%" style="display:block;margin:0 auto;" }
 
