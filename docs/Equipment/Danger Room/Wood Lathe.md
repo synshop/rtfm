@@ -160,7 +160,7 @@ This tool is used to square up ends of a spindles, cut tenons, separate parts fr
 
 ##### Usage and anatomy
 
-![](../images_danger_room/woodworking/parting_tool_anno.jpg)
+![](../images_danger_room/woodworking/parting_tool_anno.jpg){ style="display:block;margin:0 auto;" }
 
 Place the tool rest parallel to the workpiece and slightly below centerline for this tool. Place the tool on its side, with the bevels pointing left and right. To being a cut start with an arcing motion into the center of the workpiece starting at an approximate 45 degree relative to the workpiece. Like similar cuts, achieve the arc by raising the handle of the tool slowly and using the tool rest as a pivot point. 
 
