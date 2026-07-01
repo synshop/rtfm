@@ -33,12 +33,18 @@ tags:
 
 <hr style="border-top: 3px solid #333;">
 
+
+
+
 ## Lathe Overview
 
 ![](../images_danger_room/woodworking/central_machinery_lathe_parts.jpg)
 
 <br>
 <hr style="border-top: 3px solid #333;">
+
+
+
 
 ## Chucks and Mounting Tools
 
@@ -47,6 +53,11 @@ tags:
 ### Expandable Chuck
 
 #### Chuck Body
+
+<img src="../images_danger_room/woodworking/chuck_body_anno.png" alt="Chuck Body Annotation" width="90%">
+<div style="text-align:center;">
+    <img src="../images_danger_room/woodworking/chuck_key_anno.png" alt="Chuck Key Annotation" width="60%">
+</div><br>
 
 The chuck body is the main workholding component that interfaces with the headstock threads of a lathe. The body uses carriers to move jaws inward and outward to securely grip work. The carriers ride on a scroll gear and can be used in any combination of 1-4 jaw/carrier combinations. The scroll gear is driven by a spline gear which takes a key. Turning the key clockwise will tighten the jaws, and turning the key counterclockwise will expanded the jaws.
 
@@ -61,6 +72,7 @@ The carrier numbers go with the associated slot on the chuck body. The carriers 
 <hr style="border-top: dashed 1px;">
 
 #### Jaws
+
 <div style="text-align:center;">
     <img src="../images_danger_room/woodworking/chuck_jaws_all.png" alt="All Chuck Jaws" width="68%">
 </div><br>
@@ -71,9 +83,14 @@ The expandable chuck has four sets of jaw options in the shop. These jaws provid
 
 ### Faceplate
 
+An alternative to using the chuck. This is a good option for turning the outside of bowls. The flaceplate screws into the side of your bowl where the mouth/opening will be. The screw holes are fine because they were will be turned away later. This offers a simple and secure option for workholding.
+
 
 <br>
 <hr style="border-top: 3px solid #333;">
+
+
+
 
 ## Turning Tools
 
