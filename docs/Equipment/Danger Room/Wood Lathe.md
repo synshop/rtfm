@@ -48,7 +48,7 @@ tags:
 
 #### Chuck Body
 
-The chuck body is the main workholding component that interfaces with the headstock threads of a lathe. The body uses carriers to move jaws inward and outward to securely grip work. The carriers ride on a scroll gear and can be used in any combination of 1-4 jaw/carrier combinations. 
+The chuck body is the main workholding component that interfaces with the headstock threads of a lathe. The body uses carriers to move jaws inward and outward to securely grip work. The carriers ride on a scroll gear and can be used in any combination of 1-4 jaw/carrier combinations. The scroll gear is driven by a spline gear which takes a key. Turning the key clockwise will tighten the jaws, and turning the key counterclockwise will expanded the jaws.
 
 <hr style="border-top: dashed 1px;">
 
