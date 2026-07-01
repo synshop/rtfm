@@ -213,6 +213,8 @@ Ideal for rolling beads or cutting coves. Top face of the tool is honed flat, an
 </div>
 -->
 
+The Spindlemaster is a hybrid tool that aims to combine the functions of a skew, spingle gouge, and a beading tool. The unique shape is intended to help prevent catches that a user might experience with a skew. To use this tool, present the tool to the wood with the bevel first and then gradually raise the tool handle until the cutting edge engages with the wood. Keep the tool rotating and arcing smoothly to maintain a consistent cut. While getting to know this tool you should first take light cuts before to get a feel for how the tool behaves. 
+
 ##### Tutorials
 - [A video guide to the Robert Sorby Spindlemaster](https://youtu.be/EVZUAsI7rx0?si=rss_dV0SuoPzikkJ)
 - [The Robert Sorby Spindlemaster - An easy to use alternative for the regular skew chisel](https://youtu.be/0Xd1rd_DGR0?si=XkeDza6JdUwK7_We)
@@ -220,4 +222,5 @@ Ideal for rolling beads or cutting coves. Top face of the tool is honed flat, an
 <br>
 <hr style="border-top: 3px solid #333;">
 
-## How To: Sharpening Tools
+<!-- TODO Later
+## How To: Sharpening Tools -->
