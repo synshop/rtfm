@@ -130,7 +130,7 @@ The flute of the gouge is a centered "U" shape. The roughing gouge can be used p
 
 <hr style="border-top: dashed 1px;">
 
-#### Spindle Gouge
+#### Bowl Gouge/Spindle Gouge
 
 !!! tip
 
@@ -140,7 +140,10 @@ The flute of the gouge is a centered "U" shape. The roughing gouge can be used p
 Sometimes also called a detail gouge, contour gouge, or fingernail gouge. Despite the lack of name standardization, this tool excels at long-grain turning. Long-grain turning is when the grain of the wood is mounted parallel to the bed, which many know as a "spindle". This tool is a great choice for cutting coves, beads, ogees, and other variations of convex and concave shapes. These traits make it ideal for detail work, but not for roughing work. These tools are much smaller than roughing gouges.
 
 ##### Usage and anatomy
-Just like the [roughing gouge](#spindle-roughing-gouge), the spindle gouge is a "U" shape. The shape differs slightly as the flute is much more shallow. Before starting any cut, ensure the bevel of the spindle gouge is rubbing/touching the wood before starting a cut. This helps to prevent catches. Do not try forcing this tool through a cut. When cutting, keep one hand on the rest and the other towards the end of the handle. Keep your grip firm, but not tight. Smooth, continuous motions are what help this tool shine. 
+
+![](../images_danger_room/woodworking/bowl_gouge_anno.png){ style="display:block;margin:0 auto;" }
+
+Just like the [roughing gouge](#spindle-roughing-gouge), the bowl gouge is a "U" shape. The shape differs slightly as the flute is much more aggressive. Before starting any cut, ensure the bevel of the bowl gouge is rubbing/touching the wood before starting a cut. This helps to prevent catches. Do not try forcing this tool through a cut. When cutting, keep one hand on the rest and the other towards the end of the handle. Keep your grip firm, but not tight. Smooth, continuous motions are what help this tool shine. 
 
 ##### Tutorials
 - [Richard Raffan on the uses of a ½-in spindle gouge](https://youtu.be/WySx5rhyvfQ?si=QiqD9fzRfJ4Ii--W)
