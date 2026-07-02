@@ -2,10 +2,15 @@
 
 LightBurn is a powerful design and control software for laser cutters. Whether you're engraving wood, cutting acrylic, or marking metal, this guide will help you launch your first project with confidence.
 
+## 🔌 Connectors
+  - YOU WILL NEED A USB-A to get files to Lightburn on the dedicated computer for each Laser Cutter.
+  - Gotcha: there is no USB-A to USB-C adapter in the shop.
+
 ## 🔌 Setup & Device Connection
-- Launch LightBurn and **add your laser device**.
-- Use “Find My Laser” if connected via USB, or manually enter specs for networked machines.
-- Confirm your **workspace size** matches your laser bed dimensions.
+- Turn on the closest computer associated to your **laser device** (dedicated computer). (First Child needs to be turned on on the tiny black box on the wall.)
+- Launch LightBurn (type 'LightBurn' into the search bar)
+- Troubleshooting: Use “Find My Laser” if connected via USB, or manually enter specs for networked machines.
+- Troubleshooting: Confirm your **workspace size** matches your laser bed dimensions.
 
 ## 🖼️ Workspace Overview
 - **Left Toolbar**: Basic drawing tools—rectangle, circle, line, text.
@@ -16,18 +21,25 @@ LightBurn is a powerful design and control software for laser cutters. Whether y
   - **Console**: View G-code and send manual commands.
 
 ## ✏️ Creating Your First Design
-- Use shape tools to draw or import a file (`.SVG`, `.DXF`, `.AI`, `.PNG`).
+- Use shape tools to draw or import a file (`.SVG`, `.DXF`, `.AI`, `.PNG`). Prefer vectors such as .svg
 - Assign each object to a **layer** and configure settings:
-  - **Speed**: How fast the laser moves.
-  - **Power**: Laser intensity.
+  - **Speed**: How fast the laser moves. Try: 4 for cardboard, 1 for ply, 0.7 for 1/8 MDF.
+  - **Power**: Laser intensity (as a percentage). Try: 15% for cardboard. 40% for 1/8" wood. 60% MDF 1/8".
   - **Mode**: Line (cut), Fill (engrave), or Offset Fill.
+- If you don't care about burned-looking edges, you can increase the power a bit, to make sure you make it through the stock.
 
 ## 📐 Positioning & Preview
-- Use the **Frame** button to test the laser’s path without firing.
+- Suggestion: For Line (cut) mode, try on cardboard first (light medium requires only Speed:4 and Power ~15%)
+- Different printers have different effective areas, even within the working space. For example, on First Child, the light 'Power' may need to be increased to effect cuts in the bottom 1/5. 
+- Use the **Frame** button to test that the shapes will fit on the medium in the machine.
 - Click **Preview** to simulate the job and estimate time.
 
 ## 🚀 Sending the Job
 - Double-check your material placement.
+- Double-check that the machine is on (some machines need to be 'on' at the Power Strip) and that Lightburn sees it. You might need to restart Lightburn.
+- Double-check that the air is on (it should come on automatically.
+  - Don't mess with the wall switch unless you know what you are doing. The wall-switch is 'off by default' when switched to the right. Ask someone if you are unsure.
+- Double-check the 'Focal length' using the little orange tool (hang it on the arm). Other projects may have had a thicker project material; you will need to move the bed up or down until the orange arm rests exactly.
 - Click **Start** to begin the job.
 - Monitor progress and pause if needed.
 
@@ -35,5 +47,18 @@ LightBurn is a powerful design and control software for laser cutters. Whether y
 - Always wear safety glasses.
 - Ventilate your workspace.
 - Use scrap material to test settings before final runs.
+- For Line (cut) mode: Look for smoke coming from the underside of the project. This indicates it has successfully cut all the way.
+- for Line (cut) mode, cutting twice is fine, as long as you have not moved the stock. Good luck getting it back in position.
+- Some machines have other pecadillos. (First child needs a support bar while open)
+
+## 🧰 Advanced Considerations
+- Does your Line (cut) project need fiducials? Design time is the best time to add them.
+- Does your project have lots of small bits and bobs? Does it need numbering on the back-side of the bits?
+
+## 🧰 Cleanup and Shutdown
+- For First Child, this is pretty straighforward
+  - Turn off at the power strip.
+  - Fine to leave your non-useful scrap in the corner.
+
 
 ---
