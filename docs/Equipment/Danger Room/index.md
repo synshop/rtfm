@@ -16,18 +16,18 @@ Under Construction
 ## Activities
 ## Equipment
 
-[Grizzly G0513ANV Band Saw](band-saw.md)
+[Grizzly G0513ANV Band Saw](Band%20Saw.md)
 
-[Craftsman Professional 3/4 hp Drill Press](drill-press.md)
+[Craftsman Professional 3/4 hp Drill Press](Drill%20Press.md)
 
-[8" Jointer](jointer.md)
+[8" Jointer](Jointer.md)
 
-[ShopBot PRSstandard CNC 96-48](shopbot.md)
+[ShopBot PRSstandard CNC 96-48](ShopBot.md)
 
-[Powermatic 14" Surface Planer](surface-planer.md)
+[Powermatic 14" Surface Planer](Surface%20Planer.md)
 
-[Delta Cabinet Table Saw](table-saw.md)
+[Delta Cabinet Table Saw](Table%20Saw.md)
 
-[Grizzly PRO T33300 Track Saw](track-saw.md)
+[Grizzly PRO T33300 Track Saw](Track%20Saw.md)
 
-[Central Machinery 12 x 36 Wood Lathe](wood-lathe.md)
+[Central Machinery 12 x 36 Wood Lathe](Wood%20Lathe.md)
