@@ -3,7 +3,7 @@
 LightBurn is a powerful design and control software for laser cutters. Whether you're engraving wood, cutting acrylic, or marking metal, this guide will help you launch your first project with confidence.
 
 ## 🔌 Connectors
-  - YOU WILL NEED A USB-A to get files to Lightburn on the dedicated computer for each Laser Cutter.
+  - You'll need to use a USB drive to get files to Lightburn computer
   - Gotcha: there is no USB-A to USB-C adapter in the shop.
 
 ## 🔌 Setup & Device Connection
