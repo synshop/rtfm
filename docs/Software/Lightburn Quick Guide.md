@@ -7,7 +7,8 @@ LightBurn is a powerful design and control software for laser cutters. Whether y
   - If you have a USB-C only USB drive, bring an adapter for USB-A.
 
 ## 🔌 Setup & Device Connection
-- Turn on the closest computer associated to your **laser device** (dedicated computer). (First Child needs to be turned on on the tiny black box on the wall.)
+- Turn on the computer attached to the laser cutter. 
+- First Child's computer is mounted on the wall - find the power button here when using First Child.)
 - Launch LightBurn (type 'LightBurn' into the search bar)
 - Troubleshooting: Use “Find My Laser” if connected via USB, or manually enter specs for networked machines.
 - Troubleshooting: Confirm your **workspace size** matches your laser bed dimensions.
