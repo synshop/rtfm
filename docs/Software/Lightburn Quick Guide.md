@@ -54,7 +54,7 @@ LightBurn is a powerful design and control software for laser cutters. Whether y
 - First child sometimes needs a support bar to keep the top lid open 
 
 ## 🧰 Advanced Considerations
-- Does your Line (cut) project need fiducials? Design time is the best time to add them.
+- Does  project need [fiducials](https://en.wikipedia.org/wiki/Fiducial_marker)? Design time is the best time to add them.
 - Does your project have lots of small bits and bobs? Does it need numbering on the back-side of the bits?
 
 ## 🧰 Cleanup and Shutdown
