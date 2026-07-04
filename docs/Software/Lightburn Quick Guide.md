@@ -55,7 +55,7 @@ LightBurn is a powerful design and control software for laser cutters. Whether y
 
 ## 🧰 Advanced Considerations
 - Does  project need [fiducials](https://en.wikipedia.org/wiki/Fiducial_marker)? Design time is the best time to add them.
-- Does your project have lots of small bits and bobs? Does it need numbering on the back-side of the bits?
+- Does your project have lots of small bits and bobs? Consider adding numbering on the back-side of the bits before you cut.
 
 ## 🧰 Cleanup and Shutdown
 - For First Child, this is pretty straighforward
