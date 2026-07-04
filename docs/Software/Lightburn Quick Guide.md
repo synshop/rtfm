@@ -11,7 +11,7 @@ LightBurn is a powerful design and control software for laser cutters. Whether y
 - First Child's computer is mounted on the wall - find the power button here when using First Child.)
 - Launch LightBurn (type "LightBurn" into the search bar)
 - Confirm your **workspace size** matches your laser bed dimensions.
-- Troubleshooting: Use “Find My Laser” if connected via USB, or manually enter specs for networked machines.
+- If the laser cutter isn't responding to Lightburn,  use "Find My Laser" if connected via USB, or manually enter specs for networked machines.
 - Troubleshooting: Confirm your **workspace size** matches your laser bed dimensions.
 
 ## 🖼️ Workspace Overview
