@@ -58,9 +58,10 @@ LightBurn is a powerful design and control software for laser cutters. Whether y
 - Does your project have lots of small bits and bobs? Consider adding numbering on the back-side of the bits before you cut.
 
 ## 🧰 Cleanup and Shutdown
-- For First Child, this is pretty straighforward
-  - Turn off at the power strip.
-  - Fine to leave your non-useful scrap in the corner.
+- Leave it cleaner than you found it
+- Turn off power
+- Shop vac any small pieces you see left in laser cutter   
+- Unwanted larger scrap can be put in the labeled  "scrap" bin so other members may use it
 
 
 ---
