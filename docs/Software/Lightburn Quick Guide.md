@@ -4,7 +4,7 @@ LightBurn is a powerful design and control software for laser cutters. Whether y
 
 ## 🔌 Connectors
   - You'll need to use a USB drive to get files to Lightburn computer
-  - Gotcha: there is no USB-A to USB-C adapter in the shop.
+  - If you have a USB-C only USB drive, bring an adapter for USB-A.
 
 ## 🔌 Setup & Device Connection
 - Turn on the closest computer associated to your **laser device** (dedicated computer). (First Child needs to be turned on on the tiny black box on the wall.)
