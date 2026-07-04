@@ -51,7 +51,7 @@ LightBurn is a powerful design and control software for laser cutters. Whether y
 - Use scrap material to test settings before final runs.
 - For Line (cut) mode: Look for smoke coming from the underside of the project. This indicates it has successfully cut all the way.
 - Re-running a cut twice is fine, but you do not move the stock. It is near impossible to get back in the exact same position after moving it.
-- Some machines have other pecadillos. (First child needs a support bar while open)
+- First child sometimes needs a support bar to keep the top lid open 
 
 ## 🧰 Advanced Considerations
 - Does your Line (cut) project need fiducials? Design time is the best time to add them.
