@@ -9,7 +9,8 @@ LightBurn is a powerful design and control software for laser cutters. Whether y
 ## 🔌 Setup & Device Connection
 - Turn on the computer attached to the laser cutter. 
 - First Child's computer is mounted on the wall - find the power button here when using First Child.)
-- Launch LightBurn (type 'LightBurn' into the search bar)
+- Launch LightBurn (type "LightBurn" into the search bar)
+- Confirm your **workspace size** matches your laser bed dimensions.
 - Troubleshooting: Use “Find My Laser” if connected via USB, or manually enter specs for networked machines.
 - Troubleshooting: Confirm your **workspace size** matches your laser bed dimensions.
 
