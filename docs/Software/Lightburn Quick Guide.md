@@ -31,7 +31,7 @@ LightBurn is a powerful design and control software for laser cutters. Whether y
 
 ## 📐 Positioning & Preview
 - Suggestion: For Line (cut) mode, try on cardboard first (light medium requires only Speed:4 and Power ~15%)
-- Different printers have different effective areas, even within the working space. For example, on First Child, the light 'Power' may need to be increased to effect cuts in the bottom 1/5. 
+- Different printers have different effective areas, even within the working space. Ask a shop host or on Discord if you're seeing uneven cuts across the working space. 
 - Use the **Frame** button to test that the shapes will fit on the medium in the machine.
 - Click **Preview** to simulate the job and estimate time.
 
