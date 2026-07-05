@@ -22,7 +22,7 @@ LightBurn is a powerful design and control software for laser cutters. Whether y
   - **Console**: View G-code and send manual commands.
 
 ## ✏️ Creating Your First Design
-- Use shape tools to draw or import a file (`.SVG`, `.DXF`, `.AI`, `.PNG`). Prefer vectors such as .svg
+- Use shape tools to draw or import a file (`.SVG`, `.DXF`, `.AI`, `.PNG`). Prefer the three  vector based formats vs the `.PNG` which is a raster based format. 
 - Assign each object to a **layer** and configure settings:
   - **Speed**: How fast the laser moves. Try: 4 for cardboard, 1 for ply, 0.7 for 1/8 MDF.
   - **Power**: Laser intensity (as a percentage). Try: 15% for cardboard. 40% for 1/8" wood. 60% MDF 1/8".
