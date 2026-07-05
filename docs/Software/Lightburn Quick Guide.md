@@ -12,7 +12,6 @@ LightBurn is a powerful design and control software for laser cutters. Whether y
 - Launch LightBurn (type "LightBurn" into the search bar)
 - Confirm your **workspace size** matches your laser bed dimensions.
 - If the laser cutter isn't responding to Lightburn,  use "Find My Laser" if connected via USB, or manually enter specs for networked machines.
-- Troubleshooting: Confirm your **workspace size** matches your laser bed dimensions.
 
 ## 🖼️ Workspace Overview
 - **Left Toolbar**: Basic drawing tools—rectangle, circle, line, text.
