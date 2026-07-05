@@ -38,7 +38,7 @@ LightBurn is a powerful design and control software for laser cutters. Whether y
 ## 🚀 Sending the Job
 - Double-check your material placement.
 - Double-check that the machine is on (some machines need to be 'on' at the Power Strip) and that Lightburn sees it. You might need to restart Lightburn.
-- Double-check that the air is on (it should come on automatically.
+- Double-check that the air is on by putting your hand under the cut head - you should feel a steady stream of blowing air. It comes on automatically, but you can check it if you're seeing irregular results..
 - The fan for all laser cutters is auto detecting: when a laser cutter turns on, the fan should turn on automatically.  You shouldn't need to use the wall switch to turn the fan on or off. 
 - Double-check the focal length by using the little orange acrylic tool (hang it on the arm). Other projects may have had a thicker project material; you will need to move the bed up or down until the orange arm rests exactly.
 - Click **Start** to begin the job.
